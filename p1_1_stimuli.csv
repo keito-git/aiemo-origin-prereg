@@ -1,0 +1,1146 @@
+stimulus_id,word,domain,frame_id,text
+S00000,afraid,emotion,F1,She was afraid.
+S00001,afraid,emotion,F2,He looked afraid.
+S00002,afraid,emotion,F3,They seemed afraid that day.
+S00003,afraid,emotion,F4,I was afraid at that moment.
+S00004,afraid,emotion,F5,The man became afraid.
+S00005,alarmed,emotion,F1,She was alarmed.
+S00006,alarmed,emotion,F2,He looked alarmed.
+S00007,alarmed,emotion,F3,They seemed alarmed that day.
+S00008,alarmed,emotion,F4,I was alarmed at that moment.
+S00009,alarmed,emotion,F5,The man became alarmed.
+S00010,alert,emotion,F1,She was alert.
+S00011,alert,emotion,F2,He looked alert.
+S00012,alert,emotion,F3,They seemed alert that day.
+S00013,alert,emotion,F4,I was alert at that moment.
+S00014,alert,emotion,F5,The man became alert.
+S00015,amazed,emotion,F1,She was amazed.
+S00016,amazed,emotion,F2,He looked amazed.
+S00017,amazed,emotion,F3,They seemed amazed that day.
+S00018,amazed,emotion,F4,I was amazed at that moment.
+S00019,amazed,emotion,F5,The man became amazed.
+S00020,amused,emotion,F1,She was amused.
+S00021,amused,emotion,F2,He looked amused.
+S00022,amused,emotion,F3,They seemed amused that day.
+S00023,amused,emotion,F4,I was amused at that moment.
+S00024,amused,emotion,F5,The man became amused.
+S00025,angry,emotion,F1,She was angry.
+S00026,angry,emotion,F2,He looked angry.
+S00027,angry,emotion,F3,They seemed angry that day.
+S00028,angry,emotion,F4,I was angry at that moment.
+S00029,angry,emotion,F5,The man became angry.
+S00030,annoyed,emotion,F1,She was annoyed.
+S00031,annoyed,emotion,F2,He looked annoyed.
+S00032,annoyed,emotion,F3,They seemed annoyed that day.
+S00033,annoyed,emotion,F4,I was annoyed at that moment.
+S00034,annoyed,emotion,F5,The man became annoyed.
+S00035,anxious,emotion,F1,She was anxious.
+S00036,anxious,emotion,F2,He looked anxious.
+S00037,anxious,emotion,F3,They seemed anxious that day.
+S00038,anxious,emotion,F4,I was anxious at that moment.
+S00039,anxious,emotion,F5,The man became anxious.
+S00040,aroused,emotion,F1,She was aroused.
+S00041,aroused,emotion,F2,He looked aroused.
+S00042,aroused,emotion,F3,They seemed aroused that day.
+S00043,aroused,emotion,F4,I was aroused at that moment.
+S00044,aroused,emotion,F5,The man became aroused.
+S00045,ashamed,emotion,F1,She was ashamed.
+S00046,ashamed,emotion,F2,He looked ashamed.
+S00047,ashamed,emotion,F3,They seemed ashamed that day.
+S00048,ashamed,emotion,F4,I was ashamed at that moment.
+S00049,ashamed,emotion,F5,The man became ashamed.
+S00050,astonished,emotion,F1,She was astonished.
+S00051,astonished,emotion,F2,He looked astonished.
+S00052,astonished,emotion,F3,They seemed astonished that day.
+S00053,astonished,emotion,F4,I was astonished at that moment.
+S00054,astonished,emotion,F5,The man became astonished.
+S00055,at ease,emotion,F1,She was at ease.
+S00056,at ease,emotion,F2,He looked at ease.
+S00057,at ease,emotion,F3,They seemed at ease that day.
+S00058,at ease,emotion,F4,I was at ease at that moment.
+S00059,at ease,emotion,F5,The man became at ease.
+S00060,awestruck,emotion,F1,She was awestruck.
+S00061,awestruck,emotion,F2,He looked awestruck.
+S00062,awestruck,emotion,F3,They seemed awestruck that day.
+S00063,awestruck,emotion,F4,I was awestruck at that moment.
+S00064,awestruck,emotion,F5,The man became awestruck.
+S00065,bewildered,emotion,F1,She was bewildered.
+S00066,bewildered,emotion,F2,He looked bewildered.
+S00067,bewildered,emotion,F3,They seemed bewildered that day.
+S00068,bewildered,emotion,F4,I was bewildered at that moment.
+S00069,bewildered,emotion,F5,The man became bewildered.
+S00070,bitter,emotion,F1,She was bitter.
+S00071,bitter,emotion,F2,He looked bitter.
+S00072,bitter,emotion,F3,They seemed bitter that day.
+S00073,bitter,emotion,F4,I was bitter at that moment.
+S00074,bitter,emotion,F5,The man became bitter.
+S00075,blissful,emotion,F1,She was blissful.
+S00076,blissful,emotion,F2,He looked blissful.
+S00077,blissful,emotion,F3,They seemed blissful that day.
+S00078,blissful,emotion,F4,I was blissful at that moment.
+S00079,blissful,emotion,F5,The man became blissful.
+S00080,bored,emotion,F1,She was bored.
+S00081,bored,emotion,F2,He looked bored.
+S00082,bored,emotion,F3,They seemed bored that day.
+S00083,bored,emotion,F4,I was bored at that moment.
+S00084,bored,emotion,F5,The man became bored.
+S00085,brooding,emotion,F1,She was brooding.
+S00086,brooding,emotion,F2,He looked brooding.
+S00087,brooding,emotion,F3,They seemed brooding that day.
+S00088,brooding,emotion,F4,I was brooding at that moment.
+S00089,brooding,emotion,F5,The man became brooding.
+S00090,calm,emotion,F1,She was calm.
+S00091,calm,emotion,F2,He looked calm.
+S00092,calm,emotion,F3,They seemed calm that day.
+S00093,calm,emotion,F4,I was calm at that moment.
+S00094,calm,emotion,F5,The man became calm.
+S00095,cheerful,emotion,F1,She was cheerful.
+S00096,cheerful,emotion,F2,He looked cheerful.
+S00097,cheerful,emotion,F3,They seemed cheerful that day.
+S00098,cheerful,emotion,F4,I was cheerful at that moment.
+S00099,cheerful,emotion,F5,The man became cheerful.
+S00100,compassionate,emotion,F1,She was compassionate.
+S00101,compassionate,emotion,F2,He looked compassionate.
+S00102,compassionate,emotion,F3,They seemed compassionate that day.
+S00103,compassionate,emotion,F4,I was compassionate at that moment.
+S00104,compassionate,emotion,F5,The man became compassionate.
+S00105,contemptuous,emotion,F1,She was contemptuous.
+S00106,contemptuous,emotion,F2,He looked contemptuous.
+S00107,contemptuous,emotion,F3,They seemed contemptuous that day.
+S00108,contemptuous,emotion,F4,I was contemptuous at that moment.
+S00109,contemptuous,emotion,F5,The man became contemptuous.
+S00110,content,emotion,F1,She was content.
+S00111,content,emotion,F2,He looked content.
+S00112,content,emotion,F3,They seemed content that day.
+S00113,content,emotion,F4,I was content at that moment.
+S00114,content,emotion,F5,The man became content.
+S00115,defiant,emotion,F1,She was defiant.
+S00116,defiant,emotion,F2,He looked defiant.
+S00117,defiant,emotion,F3,They seemed defiant that day.
+S00118,defiant,emotion,F4,I was defiant at that moment.
+S00119,defiant,emotion,F5,The man became defiant.
+S00120,delighted,emotion,F1,She was delighted.
+S00121,delighted,emotion,F2,He looked delighted.
+S00122,delighted,emotion,F3,They seemed delighted that day.
+S00123,delighted,emotion,F4,I was delighted at that moment.
+S00124,delighted,emotion,F5,The man became delighted.
+S00125,dependent,emotion,F1,She was dependent.
+S00126,dependent,emotion,F2,He looked dependent.
+S00127,dependent,emotion,F3,They seemed dependent that day.
+S00128,dependent,emotion,F4,I was dependent at that moment.
+S00129,dependent,emotion,F5,The man became dependent.
+S00130,depressed,emotion,F1,She was depressed.
+S00131,depressed,emotion,F2,He looked depressed.
+S00132,depressed,emotion,F3,They seemed depressed that day.
+S00133,depressed,emotion,F4,I was depressed at that moment.
+S00134,depressed,emotion,F5,The man became depressed.
+S00135,desperate,emotion,F1,She was desperate.
+S00136,desperate,emotion,F2,He looked desperate.
+S00137,desperate,emotion,F3,They seemed desperate that day.
+S00138,desperate,emotion,F4,I was desperate at that moment.
+S00139,desperate,emotion,F5,The man became desperate.
+S00140,disdainful,emotion,F1,She was disdainful.
+S00141,disdainful,emotion,F2,He looked disdainful.
+S00142,disdainful,emotion,F3,They seemed disdainful that day.
+S00143,disdainful,emotion,F4,I was disdainful at that moment.
+S00144,disdainful,emotion,F5,The man became disdainful.
+S00145,disgusted,emotion,F1,She was disgusted.
+S00146,disgusted,emotion,F2,He looked disgusted.
+S00147,disgusted,emotion,F3,They seemed disgusted that day.
+S00148,disgusted,emotion,F4,I was disgusted at that moment.
+S00149,disgusted,emotion,F5,The man became disgusted.
+S00150,disoriented,emotion,F1,She was disoriented.
+S00151,disoriented,emotion,F2,He looked disoriented.
+S00152,disoriented,emotion,F3,They seemed disoriented that day.
+S00153,disoriented,emotion,F4,I was disoriented at that moment.
+S00154,disoriented,emotion,F5,The man became disoriented.
+S00155,dispirited,emotion,F1,She was dispirited.
+S00156,dispirited,emotion,F2,He looked dispirited.
+S00157,dispirited,emotion,F3,They seemed dispirited that day.
+S00158,dispirited,emotion,F4,I was dispirited at that moment.
+S00159,dispirited,emotion,F5,The man became dispirited.
+S00160,distressed,emotion,F1,She was distressed.
+S00161,distressed,emotion,F2,He looked distressed.
+S00162,distressed,emotion,F3,They seemed distressed that day.
+S00163,distressed,emotion,F4,I was distressed at that moment.
+S00164,distressed,emotion,F5,The man became distressed.
+S00165,disturbed,emotion,F1,She was disturbed.
+S00166,disturbed,emotion,F2,He looked disturbed.
+S00167,disturbed,emotion,F3,They seemed disturbed that day.
+S00168,disturbed,emotion,F4,I was disturbed at that moment.
+S00169,disturbed,emotion,F5,The man became disturbed.
+S00170,docile,emotion,F1,She was docile.
+S00171,docile,emotion,F2,He looked docile.
+S00172,docile,emotion,F3,They seemed docile that day.
+S00173,docile,emotion,F4,I was docile at that moment.
+S00174,docile,emotion,F5,The man became docile.
+S00175,droopy,emotion,F1,She was droopy.
+S00176,droopy,emotion,F2,He looked droopy.
+S00177,droopy,emotion,F3,They seemed droopy that day.
+S00178,droopy,emotion,F4,I was droopy at that moment.
+S00179,droopy,emotion,F5,The man became droopy.
+S00180,dumbstruck,emotion,F1,She was dumbstruck.
+S00181,dumbstruck,emotion,F2,He looked dumbstruck.
+S00182,dumbstruck,emotion,F3,They seemed dumbstruck that day.
+S00183,dumbstruck,emotion,F4,I was dumbstruck at that moment.
+S00184,dumbstruck,emotion,F5,The man became dumbstruck.
+S00185,eager,emotion,F1,She was eager.
+S00186,eager,emotion,F2,He looked eager.
+S00187,eager,emotion,F3,They seemed eager that day.
+S00188,eager,emotion,F4,I was eager at that moment.
+S00189,eager,emotion,F5,The man became eager.
+S00190,ecstatic,emotion,F1,She was ecstatic.
+S00191,ecstatic,emotion,F2,He looked ecstatic.
+S00192,ecstatic,emotion,F3,They seemed ecstatic that day.
+S00193,ecstatic,emotion,F4,I was ecstatic at that moment.
+S00194,ecstatic,emotion,F5,The man became ecstatic.
+S00195,elated,emotion,F1,She was elated.
+S00196,elated,emotion,F2,He looked elated.
+S00197,elated,emotion,F3,They seemed elated that day.
+S00198,elated,emotion,F4,I was elated at that moment.
+S00199,elated,emotion,F5,The man became elated.
+S00200,embarrassed,emotion,F1,She was embarrassed.
+S00201,embarrassed,emotion,F2,He looked embarrassed.
+S00202,embarrassed,emotion,F3,They seemed embarrassed that day.
+S00203,embarrassed,emotion,F4,I was embarrassed at that moment.
+S00204,embarrassed,emotion,F5,The man became embarrassed.
+S00205,empathetic,emotion,F1,She was empathetic.
+S00206,empathetic,emotion,F2,He looked empathetic.
+S00207,empathetic,emotion,F3,They seemed empathetic that day.
+S00208,empathetic,emotion,F4,I was empathetic at that moment.
+S00209,empathetic,emotion,F5,The man became empathetic.
+S00210,energized,emotion,F1,She was energized.
+S00211,energized,emotion,F2,He looked energized.
+S00212,energized,emotion,F3,They seemed energized that day.
+S00213,energized,emotion,F4,I was energized at that moment.
+S00214,energized,emotion,F5,The man became energized.
+S00215,enraged,emotion,F1,She was enraged.
+S00216,enraged,emotion,F2,He looked enraged.
+S00217,enraged,emotion,F3,They seemed enraged that day.
+S00218,enraged,emotion,F4,I was enraged at that moment.
+S00219,enraged,emotion,F5,The man became enraged.
+S00220,enthusiastic,emotion,F1,She was enthusiastic.
+S00221,enthusiastic,emotion,F2,He looked enthusiastic.
+S00222,enthusiastic,emotion,F3,They seemed enthusiastic that day.
+S00223,enthusiastic,emotion,F4,I was enthusiastic at that moment.
+S00224,enthusiastic,emotion,F5,The man became enthusiastic.
+S00225,envious,emotion,F1,She was envious.
+S00226,envious,emotion,F2,He looked envious.
+S00227,envious,emotion,F3,They seemed envious that day.
+S00228,envious,emotion,F4,I was envious at that moment.
+S00229,envious,emotion,F5,The man became envious.
+S00230,euphoric,emotion,F1,She was euphoric.
+S00231,euphoric,emotion,F2,He looked euphoric.
+S00232,euphoric,emotion,F3,They seemed euphoric that day.
+S00233,euphoric,emotion,F4,I was euphoric at that moment.
+S00234,euphoric,emotion,F5,The man became euphoric.
+S00235,exasperated,emotion,F1,She was exasperated.
+S00236,exasperated,emotion,F2,He looked exasperated.
+S00237,exasperated,emotion,F3,They seemed exasperated that day.
+S00238,exasperated,emotion,F4,I was exasperated at that moment.
+S00239,exasperated,emotion,F5,The man became exasperated.
+S00240,excited,emotion,F1,She was excited.
+S00241,excited,emotion,F2,He looked excited.
+S00242,excited,emotion,F3,They seemed excited that day.
+S00243,excited,emotion,F4,I was excited at that moment.
+S00244,excited,emotion,F5,The man became excited.
+S00245,exuberant,emotion,F1,She was exuberant.
+S00246,exuberant,emotion,F2,He looked exuberant.
+S00247,exuberant,emotion,F3,They seemed exuberant that day.
+S00248,exuberant,emotion,F4,I was exuberant at that moment.
+S00249,exuberant,emotion,F5,The man became exuberant.
+S00250,frightened,emotion,F1,She was frightened.
+S00251,frightened,emotion,F2,He looked frightened.
+S00252,frightened,emotion,F3,They seemed frightened that day.
+S00253,frightened,emotion,F4,I was frightened at that moment.
+S00254,frightened,emotion,F5,The man became frightened.
+S00255,frustrated,emotion,F1,She was frustrated.
+S00256,frustrated,emotion,F2,He looked frustrated.
+S00257,frustrated,emotion,F3,They seemed frustrated that day.
+S00258,frustrated,emotion,F4,I was frustrated at that moment.
+S00259,frustrated,emotion,F5,The man became frustrated.
+S00260,fulfilled,emotion,F1,She was fulfilled.
+S00261,fulfilled,emotion,F2,He looked fulfilled.
+S00262,fulfilled,emotion,F3,They seemed fulfilled that day.
+S00263,fulfilled,emotion,F4,I was fulfilled at that moment.
+S00264,fulfilled,emotion,F5,The man became fulfilled.
+S00265,furious,emotion,F1,She was furious.
+S00266,furious,emotion,F2,He looked furious.
+S00267,furious,emotion,F3,They seemed furious that day.
+S00268,furious,emotion,F4,I was furious at that moment.
+S00269,furious,emotion,F5,The man became furious.
+S00270,gloomy,emotion,F1,She was gloomy.
+S00271,gloomy,emotion,F2,He looked gloomy.
+S00272,gloomy,emotion,F3,They seemed gloomy that day.
+S00273,gloomy,emotion,F4,I was gloomy at that moment.
+S00274,gloomy,emotion,F5,The man became gloomy.
+S00275,grateful,emotion,F1,She was grateful.
+S00276,grateful,emotion,F2,He looked grateful.
+S00277,grateful,emotion,F3,They seemed grateful that day.
+S00278,grateful,emotion,F4,I was grateful at that moment.
+S00279,grateful,emotion,F5,The man became grateful.
+S00280,greedy,emotion,F1,She was greedy.
+S00281,greedy,emotion,F2,He looked greedy.
+S00282,greedy,emotion,F3,They seemed greedy that day.
+S00283,greedy,emotion,F4,I was greedy at that moment.
+S00284,greedy,emotion,F5,The man became greedy.
+S00285,grief-stricken,emotion,F1,She was grief-stricken.
+S00286,grief-stricken,emotion,F2,He looked grief-stricken.
+S00287,grief-stricken,emotion,F3,They seemed grief-stricken that day.
+S00288,grief-stricken,emotion,F4,I was grief-stricken at that moment.
+S00289,grief-stricken,emotion,F5,The man became grief-stricken.
+S00290,grumpy,emotion,F1,She was grumpy.
+S00291,grumpy,emotion,F2,He looked grumpy.
+S00292,grumpy,emotion,F3,They seemed grumpy that day.
+S00293,grumpy,emotion,F4,I was grumpy at that moment.
+S00294,grumpy,emotion,F5,The man became grumpy.
+S00295,guilty,emotion,F1,She was guilty.
+S00296,guilty,emotion,F2,He looked guilty.
+S00297,guilty,emotion,F3,They seemed guilty that day.
+S00298,guilty,emotion,F4,I was guilty at that moment.
+S00299,guilty,emotion,F5,The man became guilty.
+S00300,happy,emotion,F1,She was happy.
+S00301,happy,emotion,F2,He looked happy.
+S00302,happy,emotion,F3,They seemed happy that day.
+S00303,happy,emotion,F4,I was happy at that moment.
+S00304,happy,emotion,F5,The man became happy.
+S00305,hateful,emotion,F1,She was hateful.
+S00306,hateful,emotion,F2,He looked hateful.
+S00307,hateful,emotion,F3,They seemed hateful that day.
+S00308,hateful,emotion,F4,I was hateful at that moment.
+S00309,hateful,emotion,F5,The man became hateful.
+S00310,heartbroken,emotion,F1,She was heartbroken.
+S00311,heartbroken,emotion,F2,He looked heartbroken.
+S00312,heartbroken,emotion,F3,They seemed heartbroken that day.
+S00313,heartbroken,emotion,F4,I was heartbroken at that moment.
+S00314,heartbroken,emotion,F5,The man became heartbroken.
+S00315,hope,emotion,F1,She was hope.
+S00316,hope,emotion,F2,He looked hope.
+S00317,hope,emotion,F3,They seemed hope that day.
+S00318,hope,emotion,F4,I was hope at that moment.
+S00319,hope,emotion,F5,The man became hope.
+S00320,hopeful,emotion,F1,She was hopeful.
+S00321,hopeful,emotion,F2,He looked hopeful.
+S00322,hopeful,emotion,F3,They seemed hopeful that day.
+S00323,hopeful,emotion,F4,I was hopeful at that moment.
+S00324,hopeful,emotion,F5,The man became hopeful.
+S00325,horrified,emotion,F1,She was horrified.
+S00326,horrified,emotion,F2,He looked horrified.
+S00327,horrified,emotion,F3,They seemed horrified that day.
+S00328,horrified,emotion,F4,I was horrified at that moment.
+S00329,horrified,emotion,F5,The man became horrified.
+S00330,hostile,emotion,F1,She was hostile.
+S00331,hostile,emotion,F2,He looked hostile.
+S00332,hostile,emotion,F3,They seemed hostile that day.
+S00333,hostile,emotion,F4,I was hostile at that moment.
+S00334,hostile,emotion,F5,The man became hostile.
+S00335,humiliated,emotion,F1,She was humiliated.
+S00336,humiliated,emotion,F2,He looked humiliated.
+S00337,humiliated,emotion,F3,They seemed humiliated that day.
+S00338,humiliated,emotion,F4,I was humiliated at that moment.
+S00339,humiliated,emotion,F5,The man became humiliated.
+S00340,hurt,emotion,F1,She was hurt.
+S00341,hurt,emotion,F2,He looked hurt.
+S00342,hurt,emotion,F3,They seemed hurt that day.
+S00343,hurt,emotion,F4,I was hurt at that moment.
+S00344,hurt,emotion,F5,The man became hurt.
+S00345,hysterical,emotion,F1,She was hysterical.
+S00346,hysterical,emotion,F2,He looked hysterical.
+S00347,hysterical,emotion,F3,They seemed hysterical that day.
+S00348,hysterical,emotion,F4,I was hysterical at that moment.
+S00349,hysterical,emotion,F5,The man became hysterical.
+S00350,impatient,emotion,F1,She was impatient.
+S00351,impatient,emotion,F2,He looked impatient.
+S00352,impatient,emotion,F3,They seemed impatient that day.
+S00353,impatient,emotion,F4,I was impatient at that moment.
+S00354,impatient,emotion,F5,The man became impatient.
+S00355,indifferent,emotion,F1,She was indifferent.
+S00356,indifferent,emotion,F2,He looked indifferent.
+S00357,indifferent,emotion,F3,They seemed indifferent that day.
+S00358,indifferent,emotion,F4,I was indifferent at that moment.
+S00359,indifferent,emotion,F5,The man became indifferent.
+S00360,indignant,emotion,F1,She was indignant.
+S00361,indignant,emotion,F2,He looked indignant.
+S00362,indignant,emotion,F3,They seemed indignant that day.
+S00363,indignant,emotion,F4,I was indignant at that moment.
+S00364,indignant,emotion,F5,The man became indignant.
+S00365,infatuated,emotion,F1,She was infatuated.
+S00366,infatuated,emotion,F2,He looked infatuated.
+S00367,infatuated,emotion,F3,They seemed infatuated that day.
+S00368,infatuated,emotion,F4,I was infatuated at that moment.
+S00369,infatuated,emotion,F5,The man became infatuated.
+S00370,inspired,emotion,F1,She was inspired.
+S00371,inspired,emotion,F2,He looked inspired.
+S00372,inspired,emotion,F3,They seemed inspired that day.
+S00373,inspired,emotion,F4,I was inspired at that moment.
+S00374,inspired,emotion,F5,The man became inspired.
+S00375,insulted,emotion,F1,She was insulted.
+S00376,insulted,emotion,F2,He looked insulted.
+S00377,insulted,emotion,F3,They seemed insulted that day.
+S00378,insulted,emotion,F4,I was insulted at that moment.
+S00379,insulted,emotion,F5,The man became insulted.
+S00380,invigorated,emotion,F1,She was invigorated.
+S00381,invigorated,emotion,F2,He looked invigorated.
+S00382,invigorated,emotion,F3,They seemed invigorated that day.
+S00383,invigorated,emotion,F4,I was invigorated at that moment.
+S00384,invigorated,emotion,F5,The man became invigorated.
+S00385,irate,emotion,F1,She was irate.
+S00386,irate,emotion,F2,He looked irate.
+S00387,irate,emotion,F3,They seemed irate that day.
+S00388,irate,emotion,F4,I was irate at that moment.
+S00389,irate,emotion,F5,The man became irate.
+S00390,irritated,emotion,F1,She was irritated.
+S00391,irritated,emotion,F2,He looked irritated.
+S00392,irritated,emotion,F3,They seemed irritated that day.
+S00393,irritated,emotion,F4,I was irritated at that moment.
+S00394,irritated,emotion,F5,The man became irritated.
+S00395,jealous,emotion,F1,She was jealous.
+S00396,jealous,emotion,F2,He looked jealous.
+S00397,jealous,emotion,F3,They seemed jealous that day.
+S00398,jealous,emotion,F4,I was jealous at that moment.
+S00399,jealous,emotion,F5,The man became jealous.
+S00400,joyful,emotion,F1,She was joyful.
+S00401,joyful,emotion,F2,He looked joyful.
+S00402,joyful,emotion,F3,They seemed joyful that day.
+S00403,joyful,emotion,F4,I was joyful at that moment.
+S00404,joyful,emotion,F5,The man became joyful.
+S00405,jubilant,emotion,F1,She was jubilant.
+S00406,jubilant,emotion,F2,He looked jubilant.
+S00407,jubilant,emotion,F3,They seemed jubilant that day.
+S00408,jubilant,emotion,F4,I was jubilant at that moment.
+S00409,jubilant,emotion,F5,The man became jubilant.
+S00410,kind,emotion,F1,She was kind.
+S00411,kind,emotion,F2,He looked kind.
+S00412,kind,emotion,F3,They seemed kind that day.
+S00413,kind,emotion,F4,I was kind at that moment.
+S00414,kind,emotion,F5,The man became kind.
+S00415,lazy,emotion,F1,She was lazy.
+S00416,lazy,emotion,F2,He looked lazy.
+S00417,lazy,emotion,F3,They seemed lazy that day.
+S00418,lazy,emotion,F4,I was lazy at that moment.
+S00419,lazy,emotion,F5,The man became lazy.
+S00420,listless,emotion,F1,She was listless.
+S00421,listless,emotion,F2,He looked listless.
+S00422,listless,emotion,F3,They seemed listless that day.
+S00423,listless,emotion,F4,I was listless at that moment.
+S00424,listless,emotion,F5,The man became listless.
+S00425,lonely,emotion,F1,She was lonely.
+S00426,lonely,emotion,F2,He looked lonely.
+S00427,lonely,emotion,F3,They seemed lonely that day.
+S00428,lonely,emotion,F4,I was lonely at that moment.
+S00429,lonely,emotion,F5,The man became lonely.
+S00430,loving,emotion,F1,She was loving.
+S00431,loving,emotion,F2,He looked loving.
+S00432,loving,emotion,F3,They seemed loving that day.
+S00433,loving,emotion,F4,I was loving at that moment.
+S00434,loving,emotion,F5,The man became loving.
+S00435,mad,emotion,F1,She was mad.
+S00436,mad,emotion,F2,He looked mad.
+S00437,mad,emotion,F3,They seemed mad that day.
+S00438,mad,emotion,F4,I was mad at that moment.
+S00439,mad,emotion,F5,The man became mad.
+S00440,melancholy,emotion,F1,She was melancholy.
+S00441,melancholy,emotion,F2,He looked melancholy.
+S00442,melancholy,emotion,F3,They seemed melancholy that day.
+S00443,melancholy,emotion,F4,I was melancholy at that moment.
+S00444,melancholy,emotion,F5,The man became melancholy.
+S00445,miserable,emotion,F1,She was miserable.
+S00446,miserable,emotion,F2,He looked miserable.
+S00447,miserable,emotion,F3,They seemed miserable that day.
+S00448,miserable,emotion,F4,I was miserable at that moment.
+S00449,miserable,emotion,F5,The man became miserable.
+S00450,mortified,emotion,F1,She was mortified.
+S00451,mortified,emotion,F2,He looked mortified.
+S00452,mortified,emotion,F3,They seemed mortified that day.
+S00453,mortified,emotion,F4,I was mortified at that moment.
+S00454,mortified,emotion,F5,The man became mortified.
+S00455,mystified,emotion,F1,She was mystified.
+S00456,mystified,emotion,F2,He looked mystified.
+S00457,mystified,emotion,F3,They seemed mystified that day.
+S00458,mystified,emotion,F4,I was mystified at that moment.
+S00459,mystified,emotion,F5,The man became mystified.
+S00460,nervous,emotion,F1,She was nervous.
+S00461,nervous,emotion,F2,He looked nervous.
+S00462,nervous,emotion,F3,They seemed nervous that day.
+S00463,nervous,emotion,F4,I was nervous at that moment.
+S00464,nervous,emotion,F5,The man became nervous.
+S00465,nostalgic,emotion,F1,She was nostalgic.
+S00466,nostalgic,emotion,F2,He looked nostalgic.
+S00467,nostalgic,emotion,F3,They seemed nostalgic that day.
+S00468,nostalgic,emotion,F4,I was nostalgic at that moment.
+S00469,nostalgic,emotion,F5,The man became nostalgic.
+S00470,obstinate,emotion,F1,She was obstinate.
+S00471,obstinate,emotion,F2,He looked obstinate.
+S00472,obstinate,emotion,F3,They seemed obstinate that day.
+S00473,obstinate,emotion,F4,I was obstinate at that moment.
+S00474,obstinate,emotion,F5,The man became obstinate.
+S00475,offended,emotion,F1,She was offended.
+S00476,offended,emotion,F2,He looked offended.
+S00477,offended,emotion,F3,They seemed offended that day.
+S00478,offended,emotion,F4,I was offended at that moment.
+S00479,offended,emotion,F5,The man became offended.
+S00480,on edge,emotion,F1,She was on edge.
+S00481,on edge,emotion,F2,He looked on edge.
+S00482,on edge,emotion,F3,They seemed on edge that day.
+S00483,on edge,emotion,F4,I was on edge at that moment.
+S00484,on edge,emotion,F5,The man became on edge.
+S00485,optimistic,emotion,F1,She was optimistic.
+S00486,optimistic,emotion,F2,He looked optimistic.
+S00487,optimistic,emotion,F3,They seemed optimistic that day.
+S00488,optimistic,emotion,F4,I was optimistic at that moment.
+S00489,optimistic,emotion,F5,The man became optimistic.
+S00490,outraged,emotion,F1,She was outraged.
+S00491,outraged,emotion,F2,He looked outraged.
+S00492,outraged,emotion,F3,They seemed outraged that day.
+S00493,outraged,emotion,F4,I was outraged at that moment.
+S00494,outraged,emotion,F5,The man became outraged.
+S00495,overwhelmed,emotion,F1,She was overwhelmed.
+S00496,overwhelmed,emotion,F2,He looked overwhelmed.
+S00497,overwhelmed,emotion,F3,They seemed overwhelmed that day.
+S00498,overwhelmed,emotion,F4,I was overwhelmed at that moment.
+S00499,overwhelmed,emotion,F5,The man became overwhelmed.
+S00500,panicked,emotion,F1,She was panicked.
+S00501,panicked,emotion,F2,He looked panicked.
+S00502,panicked,emotion,F3,They seemed panicked that day.
+S00503,panicked,emotion,F4,I was panicked at that moment.
+S00504,panicked,emotion,F5,The man became panicked.
+S00505,paranoid,emotion,F1,She was paranoid.
+S00506,paranoid,emotion,F2,He looked paranoid.
+S00507,paranoid,emotion,F3,They seemed paranoid that day.
+S00508,paranoid,emotion,F4,I was paranoid at that moment.
+S00509,paranoid,emotion,F5,The man became paranoid.
+S00510,patient,emotion,F1,She was patient.
+S00511,patient,emotion,F2,He looked patient.
+S00512,patient,emotion,F3,They seemed patient that day.
+S00513,patient,emotion,F4,I was patient at that moment.
+S00514,patient,emotion,F5,The man became patient.
+S00515,peaceful,emotion,F1,She was peaceful.
+S00516,peaceful,emotion,F2,He looked peaceful.
+S00517,peaceful,emotion,F3,They seemed peaceful that day.
+S00518,peaceful,emotion,F4,I was peaceful at that moment.
+S00519,peaceful,emotion,F5,The man became peaceful.
+S00520,perplexed,emotion,F1,She was perplexed.
+S00521,perplexed,emotion,F2,He looked perplexed.
+S00522,perplexed,emotion,F3,They seemed perplexed that day.
+S00523,perplexed,emotion,F4,I was perplexed at that moment.
+S00524,perplexed,emotion,F5,The man became perplexed.
+S00525,playful,emotion,F1,She was playful.
+S00526,playful,emotion,F2,He looked playful.
+S00527,playful,emotion,F3,They seemed playful that day.
+S00528,playful,emotion,F4,I was playful at that moment.
+S00529,playful,emotion,F5,The man became playful.
+S00530,pleased,emotion,F1,She was pleased.
+S00531,pleased,emotion,F2,He looked pleased.
+S00532,pleased,emotion,F3,They seemed pleased that day.
+S00533,pleased,emotion,F4,I was pleased at that moment.
+S00534,pleased,emotion,F5,The man became pleased.
+S00535,proud,emotion,F1,She was proud.
+S00536,proud,emotion,F2,He looked proud.
+S00537,proud,emotion,F3,They seemed proud that day.
+S00538,proud,emotion,F4,I was proud at that moment.
+S00539,proud,emotion,F5,The man became proud.
+S00540,puzzled,emotion,F1,She was puzzled.
+S00541,puzzled,emotion,F2,He looked puzzled.
+S00542,puzzled,emotion,F3,They seemed puzzled that day.
+S00543,puzzled,emotion,F4,I was puzzled at that moment.
+S00544,puzzled,emotion,F5,The man became puzzled.
+S00545,rattled,emotion,F1,She was rattled.
+S00546,rattled,emotion,F2,He looked rattled.
+S00547,rattled,emotion,F3,They seemed rattled that day.
+S00548,rattled,emotion,F4,I was rattled at that moment.
+S00549,rattled,emotion,F5,The man became rattled.
+S00550,reflective,emotion,F1,She was reflective.
+S00551,reflective,emotion,F2,He looked reflective.
+S00552,reflective,emotion,F3,They seemed reflective that day.
+S00553,reflective,emotion,F4,I was reflective at that moment.
+S00554,reflective,emotion,F5,The man became reflective.
+S00555,refreshed,emotion,F1,She was refreshed.
+S00556,refreshed,emotion,F2,He looked refreshed.
+S00557,refreshed,emotion,F3,They seemed refreshed that day.
+S00558,refreshed,emotion,F4,I was refreshed at that moment.
+S00559,refreshed,emotion,F5,The man became refreshed.
+S00560,regretful,emotion,F1,She was regretful.
+S00561,regretful,emotion,F2,He looked regretful.
+S00562,regretful,emotion,F3,They seemed regretful that day.
+S00563,regretful,emotion,F4,I was regretful at that moment.
+S00564,regretful,emotion,F5,The man became regretful.
+S00565,rejuvenated,emotion,F1,She was rejuvenated.
+S00566,rejuvenated,emotion,F2,He looked rejuvenated.
+S00567,rejuvenated,emotion,F3,They seemed rejuvenated that day.
+S00568,rejuvenated,emotion,F4,I was rejuvenated at that moment.
+S00569,rejuvenated,emotion,F5,The man became rejuvenated.
+S00570,relaxed,emotion,F1,She was relaxed.
+S00571,relaxed,emotion,F2,He looked relaxed.
+S00572,relaxed,emotion,F3,They seemed relaxed that day.
+S00573,relaxed,emotion,F4,I was relaxed at that moment.
+S00574,relaxed,emotion,F5,The man became relaxed.
+S00575,relieved,emotion,F1,She was relieved.
+S00576,relieved,emotion,F2,He looked relieved.
+S00577,relieved,emotion,F3,They seemed relieved that day.
+S00578,relieved,emotion,F4,I was relieved at that moment.
+S00579,relieved,emotion,F5,The man became relieved.
+S00580,remorseful,emotion,F1,She was remorseful.
+S00581,remorseful,emotion,F2,He looked remorseful.
+S00582,remorseful,emotion,F3,They seemed remorseful that day.
+S00583,remorseful,emotion,F4,I was remorseful at that moment.
+S00584,remorseful,emotion,F5,The man became remorseful.
+S00585,resentful,emotion,F1,She was resentful.
+S00586,resentful,emotion,F2,He looked resentful.
+S00587,resentful,emotion,F3,They seemed resentful that day.
+S00588,resentful,emotion,F4,I was resentful at that moment.
+S00589,resentful,emotion,F5,The man became resentful.
+S00590,resigned,emotion,F1,She was resigned.
+S00591,resigned,emotion,F2,He looked resigned.
+S00592,resigned,emotion,F3,They seemed resigned that day.
+S00593,resigned,emotion,F4,I was resigned at that moment.
+S00594,resigned,emotion,F5,The man became resigned.
+S00595,restless,emotion,F1,She was restless.
+S00596,restless,emotion,F2,He looked restless.
+S00597,restless,emotion,F3,They seemed restless that day.
+S00598,restless,emotion,F4,I was restless at that moment.
+S00599,restless,emotion,F5,The man became restless.
+S00600,sad,emotion,F1,She was sad.
+S00601,sad,emotion,F2,He looked sad.
+S00602,sad,emotion,F3,They seemed sad that day.
+S00603,sad,emotion,F4,I was sad at that moment.
+S00604,sad,emotion,F5,The man became sad.
+S00605,safe,emotion,F1,She was safe.
+S00606,safe,emotion,F2,He looked safe.
+S00607,safe,emotion,F3,They seemed safe that day.
+S00608,safe,emotion,F4,I was safe at that moment.
+S00609,safe,emotion,F5,The man became safe.
+S00610,satisfied,emotion,F1,She was satisfied.
+S00611,satisfied,emotion,F2,He looked satisfied.
+S00612,satisfied,emotion,F3,They seemed satisfied that day.
+S00613,satisfied,emotion,F4,I was satisfied at that moment.
+S00614,satisfied,emotion,F5,The man became satisfied.
+S00615,scared,emotion,F1,She was scared.
+S00616,scared,emotion,F2,He looked scared.
+S00617,scared,emotion,F3,They seemed scared that day.
+S00618,scared,emotion,F4,I was scared at that moment.
+S00619,scared,emotion,F5,The man became scared.
+S00620,scornful,emotion,F1,She was scornful.
+S00621,scornful,emotion,F2,He looked scornful.
+S00622,scornful,emotion,F3,They seemed scornful that day.
+S00623,scornful,emotion,F4,I was scornful at that moment.
+S00624,scornful,emotion,F5,The man became scornful.
+S00625,self-confident,emotion,F1,She was self-confident.
+S00626,self-confident,emotion,F2,He looked self-confident.
+S00627,self-confident,emotion,F3,They seemed self-confident that day.
+S00628,self-confident,emotion,F4,I was self-confident at that moment.
+S00629,self-confident,emotion,F5,The man became self-confident.
+S00630,self-conscious,emotion,F1,She was self-conscious.
+S00631,self-conscious,emotion,F2,He looked self-conscious.
+S00632,self-conscious,emotion,F3,They seemed self-conscious that day.
+S00633,self-conscious,emotion,F4,I was self-conscious at that moment.
+S00634,self-conscious,emotion,F5,The man became self-conscious.
+S00635,self-critical,emotion,F1,She was self-critical.
+S00636,self-critical,emotion,F2,He looked self-critical.
+S00637,self-critical,emotion,F3,They seemed self-critical that day.
+S00638,self-critical,emotion,F4,I was self-critical at that moment.
+S00639,self-critical,emotion,F5,The man became self-critical.
+S00640,sensitive,emotion,F1,She was sensitive.
+S00641,sensitive,emotion,F2,He looked sensitive.
+S00642,sensitive,emotion,F3,They seemed sensitive that day.
+S00643,sensitive,emotion,F4,I was sensitive at that moment.
+S00644,sensitive,emotion,F5,The man became sensitive.
+S00645,sentimental,emotion,F1,She was sentimental.
+S00646,sentimental,emotion,F2,He looked sentimental.
+S00647,sentimental,emotion,F3,They seemed sentimental that day.
+S00648,sentimental,emotion,F4,I was sentimental at that moment.
+S00649,sentimental,emotion,F5,The man became sentimental.
+S00650,serene,emotion,F1,She was serene.
+S00651,serene,emotion,F2,He looked serene.
+S00652,serene,emotion,F3,They seemed serene that day.
+S00653,serene,emotion,F4,I was serene at that moment.
+S00654,serene,emotion,F5,The man became serene.
+S00655,shaken,emotion,F1,She was shaken.
+S00656,shaken,emotion,F2,He looked shaken.
+S00657,shaken,emotion,F3,They seemed shaken that day.
+S00658,shaken,emotion,F4,I was shaken at that moment.
+S00659,shaken,emotion,F5,The man became shaken.
+S00660,shocked,emotion,F1,She was shocked.
+S00661,shocked,emotion,F2,He looked shocked.
+S00662,shocked,emotion,F3,They seemed shocked that day.
+S00663,shocked,emotion,F4,I was shocked at that moment.
+S00664,shocked,emotion,F5,The man became shocked.
+S00665,skeptical,emotion,F1,She was skeptical.
+S00666,skeptical,emotion,F2,He looked skeptical.
+S00667,skeptical,emotion,F3,They seemed skeptical that day.
+S00668,skeptical,emotion,F4,I was skeptical at that moment.
+S00669,skeptical,emotion,F5,The man became skeptical.
+S00670,sleepy,emotion,F1,She was sleepy.
+S00671,sleepy,emotion,F2,He looked sleepy.
+S00672,sleepy,emotion,F3,They seemed sleepy that day.
+S00673,sleepy,emotion,F4,I was sleepy at that moment.
+S00674,sleepy,emotion,F5,The man became sleepy.
+S00675,sluggish,emotion,F1,She was sluggish.
+S00676,sluggish,emotion,F2,He looked sluggish.
+S00677,sluggish,emotion,F3,They seemed sluggish that day.
+S00678,sluggish,emotion,F4,I was sluggish at that moment.
+S00679,sluggish,emotion,F5,The man became sluggish.
+S00680,smug,emotion,F1,She was smug.
+S00681,smug,emotion,F2,He looked smug.
+S00682,smug,emotion,F3,They seemed smug that day.
+S00683,smug,emotion,F4,I was smug at that moment.
+S00684,smug,emotion,F5,The man became smug.
+S00685,sorry,emotion,F1,She was sorry.
+S00686,sorry,emotion,F2,He looked sorry.
+S00687,sorry,emotion,F3,They seemed sorry that day.
+S00688,sorry,emotion,F4,I was sorry at that moment.
+S00689,sorry,emotion,F5,The man became sorry.
+S00690,spiteful,emotion,F1,She was spiteful.
+S00691,spiteful,emotion,F2,He looked spiteful.
+S00692,spiteful,emotion,F3,They seemed spiteful that day.
+S00693,spiteful,emotion,F4,I was spiteful at that moment.
+S00694,spiteful,emotion,F5,The man became spiteful.
+S00695,stimulated,emotion,F1,She was stimulated.
+S00696,stimulated,emotion,F2,He looked stimulated.
+S00697,stimulated,emotion,F3,They seemed stimulated that day.
+S00698,stimulated,emotion,F4,I was stimulated at that moment.
+S00699,stimulated,emotion,F5,The man became stimulated.
+S00700,stressed,emotion,F1,She was stressed.
+S00701,stressed,emotion,F2,He looked stressed.
+S00702,stressed,emotion,F3,They seemed stressed that day.
+S00703,stressed,emotion,F4,I was stressed at that moment.
+S00704,stressed,emotion,F5,The man became stressed.
+S00705,stubborn,emotion,F1,She was stubborn.
+S00706,stubborn,emotion,F2,He looked stubborn.
+S00707,stubborn,emotion,F3,They seemed stubborn that day.
+S00708,stubborn,emotion,F4,I was stubborn at that moment.
+S00709,stubborn,emotion,F5,The man became stubborn.
+S00710,stuck,emotion,F1,She was stuck.
+S00711,stuck,emotion,F2,He looked stuck.
+S00712,stuck,emotion,F3,They seemed stuck that day.
+S00713,stuck,emotion,F4,I was stuck at that moment.
+S00714,stuck,emotion,F5,The man became stuck.
+S00715,sullen,emotion,F1,She was sullen.
+S00716,sullen,emotion,F2,He looked sullen.
+S00717,sullen,emotion,F3,They seemed sullen that day.
+S00718,sullen,emotion,F4,I was sullen at that moment.
+S00719,sullen,emotion,F5,The man became sullen.
+S00720,surprised,emotion,F1,She was surprised.
+S00721,surprised,emotion,F2,He looked surprised.
+S00722,surprised,emotion,F3,They seemed surprised that day.
+S00723,surprised,emotion,F4,I was surprised at that moment.
+S00724,surprised,emotion,F5,The man became surprised.
+S00725,suspicious,emotion,F1,She was suspicious.
+S00726,suspicious,emotion,F2,He looked suspicious.
+S00727,suspicious,emotion,F3,They seemed suspicious that day.
+S00728,suspicious,emotion,F4,I was suspicious at that moment.
+S00729,suspicious,emotion,F5,The man became suspicious.
+S00730,sympathetic,emotion,F1,She was sympathetic.
+S00731,sympathetic,emotion,F2,He looked sympathetic.
+S00732,sympathetic,emotion,F3,They seemed sympathetic that day.
+S00733,sympathetic,emotion,F4,I was sympathetic at that moment.
+S00734,sympathetic,emotion,F5,The man became sympathetic.
+S00735,tense,emotion,F1,She was tense.
+S00736,tense,emotion,F2,He looked tense.
+S00737,tense,emotion,F3,They seemed tense that day.
+S00738,tense,emotion,F4,I was tense at that moment.
+S00739,tense,emotion,F5,The man became tense.
+S00740,terrified,emotion,F1,She was terrified.
+S00741,terrified,emotion,F2,He looked terrified.
+S00742,terrified,emotion,F3,They seemed terrified that day.
+S00743,terrified,emotion,F4,I was terrified at that moment.
+S00744,terrified,emotion,F5,The man became terrified.
+S00745,thankful,emotion,F1,She was thankful.
+S00746,thankful,emotion,F2,He looked thankful.
+S00747,thankful,emotion,F3,They seemed thankful that day.
+S00748,thankful,emotion,F4,I was thankful at that moment.
+S00749,thankful,emotion,F5,The man became thankful.
+S00750,thrilled,emotion,F1,She was thrilled.
+S00751,thrilled,emotion,F2,He looked thrilled.
+S00752,thrilled,emotion,F3,They seemed thrilled that day.
+S00753,thrilled,emotion,F4,I was thrilled at that moment.
+S00754,thrilled,emotion,F5,The man became thrilled.
+S00755,tired,emotion,F1,She was tired.
+S00756,tired,emotion,F2,He looked tired.
+S00757,tired,emotion,F3,They seemed tired that day.
+S00758,tired,emotion,F4,I was tired at that moment.
+S00759,tired,emotion,F5,The man became tired.
+S00760,tormented,emotion,F1,She was tormented.
+S00761,tormented,emotion,F2,He looked tormented.
+S00762,tormented,emotion,F3,They seemed tormented that day.
+S00763,tormented,emotion,F4,I was tormented at that moment.
+S00764,tormented,emotion,F5,The man became tormented.
+S00765,trapped,emotion,F1,She was trapped.
+S00766,trapped,emotion,F2,He looked trapped.
+S00767,trapped,emotion,F3,They seemed trapped that day.
+S00768,trapped,emotion,F4,I was trapped at that moment.
+S00769,trapped,emotion,F5,The man became trapped.
+S00770,triumphant,emotion,F1,She was triumphant.
+S00771,triumphant,emotion,F2,He looked triumphant.
+S00772,triumphant,emotion,F3,They seemed triumphant that day.
+S00773,triumphant,emotion,F4,I was triumphant at that moment.
+S00774,triumphant,emotion,F5,The man became triumphant.
+S00775,troubled,emotion,F1,She was troubled.
+S00776,troubled,emotion,F2,He looked troubled.
+S00777,troubled,emotion,F3,They seemed troubled that day.
+S00778,troubled,emotion,F4,I was troubled at that moment.
+S00779,troubled,emotion,F5,The man became troubled.
+S00780,uneasy,emotion,F1,She was uneasy.
+S00781,uneasy,emotion,F2,He looked uneasy.
+S00782,uneasy,emotion,F3,They seemed uneasy that day.
+S00783,uneasy,emotion,F4,I was uneasy at that moment.
+S00784,uneasy,emotion,F5,The man became uneasy.
+S00785,unhappy,emotion,F1,She was unhappy.
+S00786,unhappy,emotion,F2,He looked unhappy.
+S00787,unhappy,emotion,F3,They seemed unhappy that day.
+S00788,unhappy,emotion,F4,I was unhappy at that moment.
+S00789,unhappy,emotion,F5,The man became unhappy.
+S00790,unnerved,emotion,F1,She was unnerved.
+S00791,unnerved,emotion,F2,He looked unnerved.
+S00792,unnerved,emotion,F3,They seemed unnerved that day.
+S00793,unnerved,emotion,F4,I was unnerved at that moment.
+S00794,unnerved,emotion,F5,The man became unnerved.
+S00795,unsettled,emotion,F1,She was unsettled.
+S00796,unsettled,emotion,F2,He looked unsettled.
+S00797,unsettled,emotion,F3,They seemed unsettled that day.
+S00798,unsettled,emotion,F4,I was unsettled at that moment.
+S00799,unsettled,emotion,F5,The man became unsettled.
+S00800,upset,emotion,F1,She was upset.
+S00801,upset,emotion,F2,He looked upset.
+S00802,upset,emotion,F3,They seemed upset that day.
+S00803,upset,emotion,F4,I was upset at that moment.
+S00804,upset,emotion,F5,The man became upset.
+S00805,valiant,emotion,F1,She was valiant.
+S00806,valiant,emotion,F2,He looked valiant.
+S00807,valiant,emotion,F3,They seemed valiant that day.
+S00808,valiant,emotion,F4,I was valiant at that moment.
+S00809,valiant,emotion,F5,The man became valiant.
+S00810,vengeful,emotion,F1,She was vengeful.
+S00811,vengeful,emotion,F2,He looked vengeful.
+S00812,vengeful,emotion,F3,They seemed vengeful that day.
+S00813,vengeful,emotion,F4,I was vengeful at that moment.
+S00814,vengeful,emotion,F5,The man became vengeful.
+S00815,vibrant,emotion,F1,She was vibrant.
+S00816,vibrant,emotion,F2,He looked vibrant.
+S00817,vibrant,emotion,F3,They seemed vibrant that day.
+S00818,vibrant,emotion,F4,I was vibrant at that moment.
+S00819,vibrant,emotion,F5,The man became vibrant.
+S00820,vigilant,emotion,F1,She was vigilant.
+S00821,vigilant,emotion,F2,He looked vigilant.
+S00822,vigilant,emotion,F3,They seemed vigilant that day.
+S00823,vigilant,emotion,F4,I was vigilant at that moment.
+S00824,vigilant,emotion,F5,The man became vigilant.
+S00825,vindictive,emotion,F1,She was vindictive.
+S00826,vindictive,emotion,F2,He looked vindictive.
+S00827,vindictive,emotion,F3,They seemed vindictive that day.
+S00828,vindictive,emotion,F4,I was vindictive at that moment.
+S00829,vindictive,emotion,F5,The man became vindictive.
+S00830,vulnerable,emotion,F1,She was vulnerable.
+S00831,vulnerable,emotion,F2,He looked vulnerable.
+S00832,vulnerable,emotion,F3,They seemed vulnerable that day.
+S00833,vulnerable,emotion,F4,I was vulnerable at that moment.
+S00834,vulnerable,emotion,F5,The man became vulnerable.
+S00835,weary,emotion,F1,She was weary.
+S00836,weary,emotion,F2,He looked weary.
+S00837,weary,emotion,F3,They seemed weary that day.
+S00838,weary,emotion,F4,I was weary at that moment.
+S00839,weary,emotion,F5,The man became weary.
+S00840,worn out,emotion,F1,She was worn out.
+S00841,worn out,emotion,F2,He looked worn out.
+S00842,worn out,emotion,F3,They seemed worn out that day.
+S00843,worn out,emotion,F4,I was worn out at that moment.
+S00844,worn out,emotion,F5,The man became worn out.
+S00845,worried,emotion,F1,She was worried.
+S00846,worried,emotion,F2,He looked worried.
+S00847,worried,emotion,F3,They seemed worried that day.
+S00848,worried,emotion,F4,I was worried at that moment.
+S00849,worried,emotion,F5,The man became worried.
+S00850,worthless,emotion,F1,She was worthless.
+S00851,worthless,emotion,F2,He looked worthless.
+S00852,worthless,emotion,F3,They seemed worthless that day.
+S00853,worthless,emotion,F4,I was worthless at that moment.
+S00854,worthless,emotion,F5,The man became worthless.
+S00855,tall,nonemotion,F1,She was tall.
+S00856,tall,nonemotion,F2,He looked tall.
+S00857,tall,nonemotion,F3,They seemed tall that day.
+S00858,tall,nonemotion,F4,I was tall at that moment.
+S00859,tall,nonemotion,F5,The man became tall.
+S00860,short,nonemotion,F1,She was short.
+S00861,short,nonemotion,F2,He looked short.
+S00862,short,nonemotion,F3,They seemed short that day.
+S00863,short,nonemotion,F4,I was short at that moment.
+S00864,short,nonemotion,F5,The man became short.
+S00865,fat,nonemotion,F1,She was fat.
+S00866,fat,nonemotion,F2,He looked fat.
+S00867,fat,nonemotion,F3,They seemed fat that day.
+S00868,fat,nonemotion,F4,I was fat at that moment.
+S00869,fat,nonemotion,F5,The man became fat.
+S00870,thin,nonemotion,F1,She was thin.
+S00871,thin,nonemotion,F2,He looked thin.
+S00872,thin,nonemotion,F3,They seemed thin that day.
+S00873,thin,nonemotion,F4,I was thin at that moment.
+S00874,thin,nonemotion,F5,The man became thin.
+S00875,old,nonemotion,F1,She was old.
+S00876,old,nonemotion,F2,He looked old.
+S00877,old,nonemotion,F3,They seemed old that day.
+S00878,old,nonemotion,F4,I was old at that moment.
+S00879,old,nonemotion,F5,The man became old.
+S00880,young,nonemotion,F1,She was young.
+S00881,young,nonemotion,F2,He looked young.
+S00882,young,nonemotion,F3,They seemed young that day.
+S00883,young,nonemotion,F4,I was young at that moment.
+S00884,young,nonemotion,F5,The man became young.
+S00885,strong,nonemotion,F1,She was strong.
+S00886,strong,nonemotion,F2,He looked strong.
+S00887,strong,nonemotion,F3,They seemed strong that day.
+S00888,strong,nonemotion,F4,I was strong at that moment.
+S00889,strong,nonemotion,F5,The man became strong.
+S00890,weak,nonemotion,F1,She was weak.
+S00891,weak,nonemotion,F2,He looked weak.
+S00892,weak,nonemotion,F3,They seemed weak that day.
+S00893,weak,nonemotion,F4,I was weak at that moment.
+S00894,weak,nonemotion,F5,The man became weak.
+S00895,fast,nonemotion,F1,She was fast.
+S00896,fast,nonemotion,F2,He looked fast.
+S00897,fast,nonemotion,F3,They seemed fast that day.
+S00898,fast,nonemotion,F4,I was fast at that moment.
+S00899,fast,nonemotion,F5,The man became fast.
+S00900,slow,nonemotion,F1,She was slow.
+S00901,slow,nonemotion,F2,He looked slow.
+S00902,slow,nonemotion,F3,They seemed slow that day.
+S00903,slow,nonemotion,F4,I was slow at that moment.
+S00904,slow,nonemotion,F5,The man became slow.
+S00905,hot,nonemotion,F1,She was hot.
+S00906,hot,nonemotion,F2,He looked hot.
+S00907,hot,nonemotion,F3,They seemed hot that day.
+S00908,hot,nonemotion,F4,I was hot at that moment.
+S00909,hot,nonemotion,F5,The man became hot.
+S00910,cold,nonemotion,F1,She was cold.
+S00911,cold,nonemotion,F2,He looked cold.
+S00912,cold,nonemotion,F3,They seemed cold that day.
+S00913,cold,nonemotion,F4,I was cold at that moment.
+S00914,cold,nonemotion,F5,The man became cold.
+S00915,wet,nonemotion,F1,She was wet.
+S00916,wet,nonemotion,F2,He looked wet.
+S00917,wet,nonemotion,F3,They seemed wet that day.
+S00918,wet,nonemotion,F4,I was wet at that moment.
+S00919,wet,nonemotion,F5,The man became wet.
+S00920,dry,nonemotion,F1,She was dry.
+S00921,dry,nonemotion,F2,He looked dry.
+S00922,dry,nonemotion,F3,They seemed dry that day.
+S00923,dry,nonemotion,F4,I was dry at that moment.
+S00924,dry,nonemotion,F5,The man became dry.
+S00925,loud,nonemotion,F1,She was loud.
+S00926,loud,nonemotion,F2,He looked loud.
+S00927,loud,nonemotion,F3,They seemed loud that day.
+S00928,loud,nonemotion,F4,I was loud at that moment.
+S00929,loud,nonemotion,F5,The man became loud.
+S00930,quiet,nonemotion,F1,She was quiet.
+S00931,quiet,nonemotion,F2,He looked quiet.
+S00932,quiet,nonemotion,F3,They seemed quiet that day.
+S00933,quiet,nonemotion,F4,I was quiet at that moment.
+S00934,quiet,nonemotion,F5,The man became quiet.
+S00935,rich,nonemotion,F1,She was rich.
+S00936,rich,nonemotion,F2,He looked rich.
+S00937,rich,nonemotion,F3,They seemed rich that day.
+S00938,rich,nonemotion,F4,I was rich at that moment.
+S00939,rich,nonemotion,F5,The man became rich.
+S00940,poor,nonemotion,F1,She was poor.
+S00941,poor,nonemotion,F2,He looked poor.
+S00942,poor,nonemotion,F3,They seemed poor that day.
+S00943,poor,nonemotion,F4,I was poor at that moment.
+S00944,poor,nonemotion,F5,The man became poor.
+S00945,clean,nonemotion,F1,She was clean.
+S00946,clean,nonemotion,F2,He looked clean.
+S00947,clean,nonemotion,F3,They seemed clean that day.
+S00948,clean,nonemotion,F4,I was clean at that moment.
+S00949,clean,nonemotion,F5,The man became clean.
+S00950,dirty,nonemotion,F1,She was dirty.
+S00951,dirty,nonemotion,F2,He looked dirty.
+S00952,dirty,nonemotion,F3,They seemed dirty that day.
+S00953,dirty,nonemotion,F4,I was dirty at that moment.
+S00954,dirty,nonemotion,F5,The man became dirty.
+S00955,heavy,nonemotion,F1,She was heavy.
+S00956,heavy,nonemotion,F2,He looked heavy.
+S00957,heavy,nonemotion,F3,They seemed heavy that day.
+S00958,heavy,nonemotion,F4,I was heavy at that moment.
+S00959,heavy,nonemotion,F5,The man became heavy.
+S00960,light,nonemotion,F1,She was light.
+S00961,light,nonemotion,F2,He looked light.
+S00962,light,nonemotion,F3,They seemed light that day.
+S00963,light,nonemotion,F4,I was light at that moment.
+S00964,light,nonemotion,F5,The man became light.
+S00965,early,nonemotion,F1,She was early.
+S00966,early,nonemotion,F2,He looked early.
+S00967,early,nonemotion,F3,They seemed early that day.
+S00968,early,nonemotion,F4,I was early at that moment.
+S00969,early,nonemotion,F5,The man became early.
+S00970,late,nonemotion,F1,She was late.
+S00971,late,nonemotion,F2,He looked late.
+S00972,late,nonemotion,F3,They seemed late that day.
+S00973,late,nonemotion,F4,I was late at that moment.
+S00974,late,nonemotion,F5,The man became late.
+S00975,awake,nonemotion,F1,She was awake.
+S00976,awake,nonemotion,F2,He looked awake.
+S00977,awake,nonemotion,F3,They seemed awake that day.
+S00978,awake,nonemotion,F4,I was awake at that moment.
+S00979,awake,nonemotion,F5,The man became awake.
+S00980,asleep,nonemotion,F1,She was asleep.
+S00981,asleep,nonemotion,F2,He looked asleep.
+S00982,asleep,nonemotion,F3,They seemed asleep that day.
+S00983,asleep,nonemotion,F4,I was asleep at that moment.
+S00984,asleep,nonemotion,F5,The man became asleep.
+S00985,healthy,nonemotion,F1,She was healthy.
+S00986,healthy,nonemotion,F2,He looked healthy.
+S00987,healthy,nonemotion,F3,They seemed healthy that day.
+S00988,healthy,nonemotion,F4,I was healthy at that moment.
+S00989,healthy,nonemotion,F5,The man became healthy.
+S00990,sick,nonemotion,F1,She was sick.
+S00991,sick,nonemotion,F2,He looked sick.
+S00992,sick,nonemotion,F3,They seemed sick that day.
+S00993,sick,nonemotion,F4,I was sick at that moment.
+S00994,sick,nonemotion,F5,The man became sick.
+S00995,busy,nonemotion,F1,She was busy.
+S00996,busy,nonemotion,F2,He looked busy.
+S00997,busy,nonemotion,F3,They seemed busy that day.
+S00998,busy,nonemotion,F4,I was busy at that moment.
+S00999,busy,nonemotion,F5,The man became busy.
+S01000,idle,nonemotion,F1,She was idle.
+S01001,idle,nonemotion,F2,He looked idle.
+S01002,idle,nonemotion,F3,They seemed idle that day.
+S01003,idle,nonemotion,F4,I was idle at that moment.
+S01004,idle,nonemotion,F5,The man became idle.
+S01005,big,nonemotion,F1,She was big.
+S01006,big,nonemotion,F2,He looked big.
+S01007,big,nonemotion,F3,They seemed big that day.
+S01008,big,nonemotion,F4,I was big at that moment.
+S01009,big,nonemotion,F5,The man became big.
+S01010,small,nonemotion,F1,She was small.
+S01011,small,nonemotion,F2,He looked small.
+S01012,small,nonemotion,F3,They seemed small that day.
+S01013,small,nonemotion,F4,I was small at that moment.
+S01014,small,nonemotion,F5,The man became small.
+S01015,smart,nonemotion,F1,She was smart.
+S01016,smart,nonemotion,F2,He looked smart.
+S01017,smart,nonemotion,F3,They seemed smart that day.
+S01018,smart,nonemotion,F4,I was smart at that moment.
+S01019,smart,nonemotion,F5,The man became smart.
+S01020,stupid,nonemotion,F1,She was stupid.
+S01021,stupid,nonemotion,F2,He looked stupid.
+S01022,stupid,nonemotion,F3,They seemed stupid that day.
+S01023,stupid,nonemotion,F4,I was stupid at that moment.
+S01024,stupid,nonemotion,F5,The man became stupid.
+S01025,warm,nonemotion,F1,She was warm.
+S01026,warm,nonemotion,F2,He looked warm.
+S01027,warm,nonemotion,F3,They seemed warm that day.
+S01028,warm,nonemotion,F4,I was warm at that moment.
+S01029,warm,nonemotion,F5,The man became warm.
+S01030,cool,nonemotion,F1,She was cool.
+S01031,cool,nonemotion,F2,He looked cool.
+S01032,cool,nonemotion,F3,They seemed cool that day.
+S01033,cool,nonemotion,F4,I was cool at that moment.
+S01034,cool,nonemotion,F5,The man became cool.
+S01035,bright,nonemotion,F1,She was bright.
+S01036,bright,nonemotion,F2,He looked bright.
+S01037,bright,nonemotion,F3,They seemed bright that day.
+S01038,bright,nonemotion,F4,I was bright at that moment.
+S01039,bright,nonemotion,F5,The man became bright.
+S01040,dark,nonemotion,F1,She was dark.
+S01041,dark,nonemotion,F2,He looked dark.
+S01042,dark,nonemotion,F3,They seemed dark that day.
+S01043,dark,nonemotion,F4,I was dark at that moment.
+S01044,dark,nonemotion,F5,The man became dark.
+S01045,soft,nonemotion,F1,She was soft.
+S01046,soft,nonemotion,F2,He looked soft.
+S01047,soft,nonemotion,F3,They seemed soft that day.
+S01048,soft,nonemotion,F4,I was soft at that moment.
+S01049,soft,nonemotion,F5,The man became soft.
+S01050,hard,nonemotion,F1,She was hard.
+S01051,hard,nonemotion,F2,He looked hard.
+S01052,hard,nonemotion,F3,They seemed hard that day.
+S01053,hard,nonemotion,F4,I was hard at that moment.
+S01054,hard,nonemotion,F5,The man became hard.
+S01055,sweet,nonemotion,F1,She was sweet.
+S01056,sweet,nonemotion,F2,He looked sweet.
+S01057,sweet,nonemotion,F3,They seemed sweet that day.
+S01058,sweet,nonemotion,F4,I was sweet at that moment.
+S01059,sweet,nonemotion,F5,The man became sweet.
+S01060,full,nonemotion,F1,She was full.
+S01061,full,nonemotion,F2,He looked full.
+S01062,full,nonemotion,F3,They seemed full that day.
+S01063,full,nonemotion,F4,I was full at that moment.
+S01064,full,nonemotion,F5,The man became full.
+S01065,hungry,nonemotion,F1,She was hungry.
+S01066,hungry,nonemotion,F2,He looked hungry.
+S01067,hungry,nonemotion,F3,They seemed hungry that day.
+S01068,hungry,nonemotion,F4,I was hungry at that moment.
+S01069,hungry,nonemotion,F5,The man became hungry.
+S01070,thirsty,nonemotion,F1,She was thirsty.
+S01071,thirsty,nonemotion,F2,He looked thirsty.
+S01072,thirsty,nonemotion,F3,They seemed thirsty that day.
+S01073,thirsty,nonemotion,F4,I was thirsty at that moment.
+S01074,thirsty,nonemotion,F5,The man became thirsty.
+S01075,sweaty,nonemotion,F1,She was sweaty.
+S01076,sweaty,nonemotion,F2,He looked sweaty.
+S01077,sweaty,nonemotion,F3,They seemed sweaty that day.
+S01078,sweaty,nonemotion,F4,I was sweaty at that moment.
+S01079,sweaty,nonemotion,F5,The man became sweaty.
+S01080,naked,nonemotion,F1,She was naked.
+S01081,naked,nonemotion,F2,He looked naked.
+S01082,naked,nonemotion,F3,They seemed naked that day.
+S01083,naked,nonemotion,F4,I was naked at that moment.
+S01084,naked,nonemotion,F5,The man became naked.
+S01085,dressed,nonemotion,F1,She was dressed.
+S01086,dressed,nonemotion,F2,He looked dressed.
+S01087,dressed,nonemotion,F3,They seemed dressed that day.
+S01088,dressed,nonemotion,F4,I was dressed at that moment.
+S01089,dressed,nonemotion,F5,The man became dressed.
+S01090,blind,nonemotion,F1,She was blind.
+S01091,blind,nonemotion,F2,He looked blind.
+S01092,blind,nonemotion,F3,They seemed blind that day.
+S01093,blind,nonemotion,F4,I was blind at that moment.
+S01094,blind,nonemotion,F5,The man became blind.
+S01095,deaf,nonemotion,F1,She was deaf.
+S01096,deaf,nonemotion,F2,He looked deaf.
+S01097,deaf,nonemotion,F3,They seemed deaf that day.
+S01098,deaf,nonemotion,F4,I was deaf at that moment.
+S01099,deaf,nonemotion,F5,The man became deaf.
+S01100,bald,nonemotion,F1,She was bald.
+S01101,bald,nonemotion,F2,He looked bald.
+S01102,bald,nonemotion,F3,They seemed bald that day.
+S01103,bald,nonemotion,F4,I was bald at that moment.
+S01104,bald,nonemotion,F5,The man became bald.
+S01105,hairy,nonemotion,F1,She was hairy.
+S01106,hairy,nonemotion,F2,He looked hairy.
+S01107,hairy,nonemotion,F3,They seemed hairy that day.
+S01108,hairy,nonemotion,F4,I was hairy at that moment.
+S01109,hairy,nonemotion,F5,The man became hairy.
+S01110,pale,nonemotion,F1,She was pale.
+S01111,pale,nonemotion,F2,He looked pale.
+S01112,pale,nonemotion,F3,They seemed pale that day.
+S01113,pale,nonemotion,F4,I was pale at that moment.
+S01114,pale,nonemotion,F5,The man became pale.
+S01115,tanned,nonemotion,F1,She was tanned.
+S01116,tanned,nonemotion,F2,He looked tanned.
+S01117,tanned,nonemotion,F3,They seemed tanned that day.
+S01118,tanned,nonemotion,F4,I was tanned at that moment.
+S01119,tanned,nonemotion,F5,The man became tanned.
+S01120,muscular,nonemotion,F1,She was muscular.
+S01121,muscular,nonemotion,F2,He looked muscular.
+S01122,muscular,nonemotion,F3,They seemed muscular that day.
+S01123,muscular,nonemotion,F4,I was muscular at that moment.
+S01124,muscular,nonemotion,F5,The man became muscular.
+S01125,skinny,nonemotion,F1,She was skinny.
+S01126,skinny,nonemotion,F2,He looked skinny.
+S01127,skinny,nonemotion,F3,They seemed skinny that day.
+S01128,skinny,nonemotion,F4,I was skinny at that moment.
+S01129,skinny,nonemotion,F5,The man became skinny.
+S01130,drunk,nonemotion,F1,She was drunk.
+S01131,drunk,nonemotion,F2,He looked drunk.
+S01132,drunk,nonemotion,F3,They seemed drunk that day.
+S01133,drunk,nonemotion,F4,I was drunk at that moment.
+S01134,drunk,nonemotion,F5,The man became drunk.
+S01135,sober,nonemotion,F1,She was sober.
+S01136,sober,nonemotion,F2,He looked sober.
+S01137,sober,nonemotion,F3,They seemed sober that day.
+S01138,sober,nonemotion,F4,I was sober at that moment.
+S01139,sober,nonemotion,F5,The man became sober.
+S01140,injured,nonemotion,F1,She was injured.
+S01141,injured,nonemotion,F2,He looked injured.
+S01142,injured,nonemotion,F3,They seemed injured that day.
+S01143,injured,nonemotion,F4,I was injured at that moment.
+S01144,injured,nonemotion,F5,The man became injured.
