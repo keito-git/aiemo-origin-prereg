@@ -1,0 +1,45 @@
+{
+ "note": "Stage 1c closing sentences (design 03_段階1c, 2026-10-23). L_k contains exactly one emotion word; C_k is a neutral sentence with the same word count. Item i uses index k = i mod 12 for both L and C.",
+ "anger_L": [
+  "I was furious.",
+  "It made me so angry.",
+  "I was absolutely livid.",
+  "I noticed my anger rising.",
+  "I was really mad about it.",
+  "That left me outraged.",
+  "I was seething the whole evening.",
+  "It made me angry all day.",
+  "I was enraged by it.",
+  "I could not hide my anger.",
+  "I was fuming afterwards.",
+  "It filled me with rage."
+ ],
+ "fear_L": [
+  "I was terrified.",
+  "It made me so scared.",
+  "I was absolutely petrified.",
+  "I noticed my fear rising.",
+  "I was really afraid of it.",
+  "That left me frightened.",
+  "I was scared the whole evening.",
+  "It made me afraid all day.",
+  "I was terrified by it.",
+  "I could not hide my fear.",
+  "I was frightened afterwards.",
+  "It filled me with dread."
+ ],
+ "neutral_C": [
+  "I went home.",
+  "It was a Tuesday afternoon.",
+  "I walked back outside.",
+  "I put my phone away.",
+  "I wrote it down on paper.",
+  "That was last March.",
+  "I stayed in town the whole evening.",
+  "It rained in town all day.",
+  "I took the bus home.",
+  "I checked the time again later.",
+  "I left soon afterwards.",
+  "It was near the station."
+ ]
+}
