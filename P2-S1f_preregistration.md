@@ -35,3 +35,7 @@ Secondary, two-sided, no correction: F_pos = sum Delta(word_poseval); F_sit = su
 | any | sig | any | rare words alone move B2; the word effect is at least partly a rarity effect |
 | other | | | described case by case |
 F_sit: if sig positive, the situation direction is weak only because its variance is small (Stage 1d "cannot say" #2).
+
+## Addendum (after registration, before planned runs): smoke test
+Smoke run on an unplanned model (Qwen/Qwen3-8B-Base, rev 49e3418f, n_null = 2) finished without error in 10 min;
+var_check 1.000 for all nulls. No code change. Planned models were not run.
