@@ -1,0 +1,31 @@
+{
+ "note": "Stage 1f closings (2026-10-24). Sentence k has the word count of neutral_C[k]; 0 hits against forbidden_E. poseval = positive moral evaluation mirroring eval_L; rare = low-frequency, non-evaluative, non-emotional words. Manipulation check registered: closing surprisal of rare >= eval in each model.",
+ "poseval_L": [
+  "It was commendable.",
+  "It was so completely fair.",
+  "It was absolutely admirable.",
+  "I noticed its sheer fairness.",
+  "It was really fair to me.",
+  "That was simply honorable.",
+  "I considered it right the whole evening.",
+  "It seemed just to everyone there.",
+  "I found it totally acceptable.",
+  "I could not fault such behavior.",
+  "It was frankly praiseworthy.",
+  "It was a real credit."
+ ],
+ "rare_L": [
+  "It was quotidian.",
+  "It was a mid-afternoon interlude.",
+  "I passed the gazebo.",
+  "I stowed the phone's stylus.",
+  "I jotted it on vellum paper.",
+  "That was last equinox.",
+  "I stayed near the old aqueduct overnight.",
+  "It drizzled over the cobblestone square.",
+  "I took the funicular home.",
+  "I consulted the sundial again later.",
+  "I crossed the vestibule.",
+  "It was near the apothecary."
+ ]
+}
