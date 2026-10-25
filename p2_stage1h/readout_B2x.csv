@@ -1,0 +1,101 @@
+item_id,readout,prompt,option_a,option_b,target_option,pair
+B2x_001,B2x,An employee arrived fifteen minutes late to a shift for the second time this month. The response chosen by the responsible official was, full accountability, careless neglect,a,a fine
+B2x_002,B2x,"An employee arrived fifteen minutes late to a shift for the second time this month. According to the written policy, this case calls for", careless neglect, full accountability,b,a fine
+B2x_003,B2x,A resident put the recycling bins out on the street one day early. The response chosen by the responsible official was, ignoring the problem, a firm and fair response,b,a suspension
+B2x_004,B2x,"A resident put the recycling bins out on the street one day early. According to the written policy, this case calls for", a firm and fair response, ignoring the problem,a,a suspension
+B2x_005,B2x,A student submitted a homework assignment one day after the deadline. The response chosen by the responsible official was, upholding the rules in full, looking the other way,a,a formal penalty
+B2x_006,B2x,"A student submitted a homework assignment one day after the deadline. According to the written policy, this case calls for", looking the other way, upholding the rules in full,b,a formal penalty
+B2x_007,B2x,A driver stayed in a parking space five minutes beyond the time limit. The response chosen by the responsible official was, turning a blind eye, proper enforcement of the rules,b,a written reprimand
+B2x_008,B2x,"A driver stayed in a parking space five minutes beyond the time limit. According to the written policy, this case calls for", proper enforcement of the rules, turning a blind eye,a,a written reprimand
+B2x_009,B2x,A library user returned a book one week after the due date. The response chosen by the responsible official was, responsible enforcement, lax indifference,a,a temporary ban
+B2x_010,B2x,"A library user returned a book one week after the due date. According to the written policy, this case calls for", lax indifference, responsible enforcement,b,a temporary ban
+B2x_011,B2x,A gym member brought a guest in without registering the guest at the desk. The response chosen by the responsible official was, sloppy indifference, a just and formal response,b,a disciplinary hearing
+B2x_012,B2x,"A gym member brought a guest in without registering the guest at the desk. According to the written policy, this case calls for", a just and formal response, sloppy indifference,a,a disciplinary hearing
+B2x_013,B2x,A cyclist rode on the sidewalk for a short stretch of one block. The response chosen by the responsible official was, full accountability, careless neglect,a,a fine
+B2x_014,B2x,"A cyclist rode on the sidewalk for a short stretch of one block. According to the written policy, this case calls for", careless neglect, full accountability,b,a fine
+B2x_015,B2x,A passenger rode one stop on the train with a ticket that had expired that morning. The response chosen by the responsible official was, ignoring the problem, a firm and fair response,b,a suspension
+B2x_016,B2x,"A passenger rode one stop on the train with a ticket that had expired that morning. According to the written policy, this case calls for", a firm and fair response, ignoring the problem,a,a suspension
+B2x_017,B2x,An employee used the office printer for a few personal pages. The response chosen by the responsible official was, upholding the rules in full, looking the other way,a,a formal penalty
+B2x_018,B2x,"An employee used the office printer for a few personal pages. According to the written policy, this case calls for", looking the other way, upholding the rules in full,b,a formal penalty
+B2x_019,B2x,A tenant kept a bicycle in the shared hallway for two days. The response chosen by the responsible official was, turning a blind eye, proper enforcement of the rules,b,a written reprimand
+B2x_020,B2x,"A tenant kept a bicycle in the shared hallway for two days. According to the written policy, this case calls for", proper enforcement of the rules, turning a blind eye,a,a written reprimand
+B2x_021,B2x,A worker took off a hard hat for a few minutes in a low-traffic area of the site. The response chosen by the responsible official was, responsible enforcement, lax indifference,a,a temporary ban
+B2x_022,B2x,"A worker took off a hard hat for a few minutes in a low-traffic area of the site. According to the written policy, this case calls for", lax indifference, responsible enforcement,b,a temporary ban
+B2x_023,B2x,A player on an amateur team arrived ten minutes late to a match. The response chosen by the responsible official was, sloppy indifference, a just and formal response,b,a disciplinary hearing
+B2x_024,B2x,"A player on an amateur team arrived ten minutes late to a match. According to the written policy, this case calls for", a just and formal response, sloppy indifference,a,a disciplinary hearing
+B2x_025,B2x,A visitor walked across a section of park lawn marked as off limits. The response chosen by the responsible official was, full accountability, careless neglect,a,a fine
+B2x_026,B2x,"A visitor walked across a section of park lawn marked as off limits. According to the written policy, this case calls for", careless neglect, full accountability,b,a fine
+B2x_027,B2x,A student checked a phone during a class quiz to see the time. The response chosen by the responsible official was, ignoring the problem, a firm and fair response,b,a suspension
+B2x_028,B2x,"A student checked a phone during a class quiz to see the time. According to the written policy, this case calls for", a firm and fair response, ignoring the problem,a,a suspension
+B2x_029,B2x,A shop assistant took a break five minutes longer than allowed. The response chosen by the responsible official was, upholding the rules in full, looking the other way,a,a formal penalty
+B2x_030,B2x,"A shop assistant took a break five minutes longer than allowed. According to the written policy, this case calls for", looking the other way, upholding the rules in full,b,a formal penalty
+B2x_031,B2x,A camper used a gas stove a few meters outside the marked cooking area. The response chosen by the responsible official was, turning a blind eye, proper enforcement of the rules,b,a written reprimand
+B2x_032,B2x,"A camper used a gas stove a few meters outside the marked cooking area. According to the written policy, this case calls for", proper enforcement of the rules, turning a blind eye,a,a written reprimand
+B2x_033,B2x,A driver forgot to signal once when changing lanes on an empty road. The response chosen by the responsible official was, responsible enforcement, lax indifference,a,a temporary ban
+B2x_034,B2x,"A driver forgot to signal once when changing lanes on an empty road. According to the written policy, this case calls for", lax indifference, responsible enforcement,b,a temporary ban
+B2x_035,B2x,A club member paid the annual dues two weeks after the deadline. The response chosen by the responsible official was, sloppy indifference, a just and formal response,b,a disciplinary hearing
+B2x_036,B2x,"A club member paid the annual dues two weeks after the deadline. According to the written policy, this case calls for", a just and formal response, sloppy indifference,a,a disciplinary hearing
+B2x_037,B2x,An employee completed a mandatory online training module one day after the deadline. The response chosen by the responsible official was, full accountability, careless neglect,a,a fine
+B2x_038,B2x,"An employee completed a mandatory online training module one day after the deadline. According to the written policy, this case calls for", careless neglect, full accountability,b,a fine
+B2x_039,B2x,A resident let a dog off its leash for a few minutes in a public park. The response chosen by the responsible official was, ignoring the problem, a firm and fair response,b,a suspension
+B2x_040,B2x,"A resident let a dog off its leash for a few minutes in a public park. According to the written policy, this case calls for", a firm and fair response, ignoring the problem,a,a suspension
+B2x_041,B2x,A diner smoked in the non-smoking section of an outdoor terrace. The response chosen by the responsible official was, upholding the rules in full, looking the other way,a,a formal penalty
+B2x_042,B2x,"A diner smoked in the non-smoking section of an outdoor terrace. According to the written policy, this case calls for", looking the other way, upholding the rules in full,b,a formal penalty
+B2x_043,B2x,A pupil wore sneakers instead of the required school shoes. The response chosen by the responsible official was, turning a blind eye, proper enforcement of the rules,b,a written reprimand
+B2x_044,B2x,"A pupil wore sneakers instead of the required school shoes. According to the written policy, this case calls for", proper enforcement of the rules, turning a blind eye,a,a written reprimand
+B2x_045,B2x,A contractor parked a van in a loading zone for twenty minutes. The response chosen by the responsible official was, responsible enforcement, lax indifference,a,a temporary ban
+B2x_046,B2x,"A contractor parked a van in a loading zone for twenty minutes. According to the written policy, this case calls for", lax indifference, responsible enforcement,b,a temporary ban
+B2x_047,B2x,A runner cut a corner of the course during a local fun run. The response chosen by the responsible official was, sloppy indifference, a just and formal response,b,a disciplinary hearing
+B2x_048,B2x,"A runner cut a corner of the course during a local fun run. According to the written policy, this case calls for", a just and formal response, sloppy indifference,a,a disciplinary hearing
+B2x_049,B2x,A volunteer forgot to sign out of the visitor log at the end of the day. The response chosen by the responsible official was, full accountability, careless neglect,a,a fine
+B2x_050,B2x,"A volunteer forgot to sign out of the visitor log at the end of the day. According to the written policy, this case calls for", careless neglect, full accountability,b,a fine
+B2x_051,B2x,A tenant played music for half an hour after the building's 10 p.m. noise rule. The response chosen by the responsible official was, ignoring the problem, a firm and fair response,b,a suspension
+B2x_052,B2x,"A tenant played music for half an hour after the building's 10 p.m. noise rule. According to the written policy, this case calls for", a firm and fair response, ignoring the problem,a,a suspension
+B2x_053,B2x,A researcher booked the shared lab room and left it unused without cancelling. The response chosen by the responsible official was, upholding the rules in full, looking the other way,a,a formal penalty
+B2x_054,B2x,"A researcher booked the shared lab room and left it unused without cancelling. According to the written policy, this case calls for", looking the other way, upholding the rules in full,b,a formal penalty
+B2x_055,B2x,A pedestrian crossed an empty street outside the crosswalk. The response chosen by the responsible official was, turning a blind eye, proper enforcement of the rules,b,a written reprimand
+B2x_056,B2x,"A pedestrian crossed an empty street outside the crosswalk. According to the written policy, this case calls for", proper enforcement of the rules, turning a blind eye,a,a written reprimand
+B2x_057,B2x,A worker submitted an expense receipt one week after the deadline. The response chosen by the responsible official was, responsible enforcement, lax indifference,a,a temporary ban
+B2x_058,B2x,"A worker submitted an expense receipt one week after the deadline. According to the written policy, this case calls for", lax indifference, responsible enforcement,b,a temporary ban
+B2x_059,B2x,An angler kept one fish slightly under the size limit. The response chosen by the responsible official was, sloppy indifference, a just and formal response,b,a disciplinary hearing
+B2x_060,B2x,"An angler kept one fish slightly under the size limit. According to the written policy, this case calls for", a just and formal response, sloppy indifference,a,a disciplinary hearing
+B2x_061,B2x,A driver let the parking meter run out by ten minutes. The response chosen by the responsible official was, full accountability, careless neglect,a,a fine
+B2x_062,B2x,"A driver let the parking meter run out by ten minutes. According to the written policy, this case calls for", careless neglect, full accountability,b,a fine
+B2x_063,B2x,A passenger put a bag on the seat next to them on a crowded bus. The response chosen by the responsible official was, ignoring the problem, a firm and fair response,b,a suspension
+B2x_064,B2x,"A passenger put a bag on the seat next to them on a crowded bus. According to the written policy, this case calls for", a firm and fair response, ignoring the problem,a,a suspension
+B2x_065,B2x,A student left a lab bench untidy after an experiment. The response chosen by the responsible official was, upholding the rules in full, looking the other way,a,a formal penalty
+B2x_066,B2x,"A student left a lab bench untidy after an experiment. According to the written policy, this case calls for", looking the other way, upholding the rules in full,b,a formal penalty
+B2x_067,B2x,A member of a coworking space left food in the shared fridge past the Friday cleanup. The response chosen by the responsible official was, turning a blind eye, proper enforcement of the rules,b,a written reprimand
+B2x_068,B2x,"A member of a coworking space left food in the shared fridge past the Friday cleanup. According to the written policy, this case calls for", proper enforcement of the rules, turning a blind eye,a,a written reprimand
+B2x_069,B2x,A shopper left a shopping cart in the parking lot instead of the return bay. The response chosen by the responsible official was, responsible enforcement, lax indifference,a,a temporary ban
+B2x_070,B2x,"A shopper left a shopping cart in the parking lot instead of the return bay. According to the written policy, this case calls for", lax indifference, responsible enforcement,b,a temporary ban
+B2x_071,B2x,A resident put garden waste out in the wrong colored bag. The response chosen by the responsible official was, sloppy indifference, a just and formal response,b,a disciplinary hearing
+B2x_072,B2x,"A resident put garden waste out in the wrong colored bag. According to the written policy, this case calls for", a just and formal response, sloppy indifference,a,a disciplinary hearing
+B2x_073,B2x,An employee wore casual clothes on a day the dress code required formal clothes. The response chosen by the responsible official was, full accountability, careless neglect,a,a fine
+B2x_074,B2x,"An employee wore casual clothes on a day the dress code required formal clothes. According to the written policy, this case calls for", careless neglect, full accountability,b,a fine
+B2x_075,B2x,A hotel guest checked out one hour late without asking the front desk. The response chosen by the responsible official was, ignoring the problem, a firm and fair response,b,a suspension
+B2x_076,B2x,"A hotel guest checked out one hour late without asking the front desk. According to the written policy, this case calls for", a firm and fair response, ignoring the problem,a,a suspension
+B2x_077,B2x,A delivery rider used the bus lane for one block. The response chosen by the responsible official was, upholding the rules in full, looking the other way,a,a formal penalty
+B2x_078,B2x,"A delivery rider used the bus lane for one block. According to the written policy, this case calls for", looking the other way, upholding the rules in full,b,a formal penalty
+B2x_079,B2x,A swimmer used the pool lane reserved for lessons for ten minutes. The response chosen by the responsible official was, turning a blind eye, proper enforcement of the rules,b,a written reprimand
+B2x_080,B2x,"A swimmer used the pool lane reserved for lessons for ten minutes. According to the written policy, this case calls for", proper enforcement of the rules, turning a blind eye,a,a written reprimand
+B2x_081,B2x,A passenger made a phone call in the train's no-phone carriage. The response chosen by the responsible official was, responsible enforcement, lax indifference,a,a temporary ban
+B2x_082,B2x,"A passenger made a phone call in the train's no-phone carriage. According to the written policy, this case calls for", lax indifference, responsible enforcement,b,a temporary ban
+B2x_083,B2x,A student missed one mandatory seminar without notice. The response chosen by the responsible official was, sloppy indifference, a just and formal response,b,a disciplinary hearing
+B2x_084,B2x,"A student missed one mandatory seminar without notice. According to the written policy, this case calls for", a just and formal response, sloppy indifference,a,a disciplinary hearing
+B2x_085,B2x,A ride-share driver started a shift without the company sticker on the window. The response chosen by the responsible official was, full accountability, careless neglect,a,a fine
+B2x_086,B2x,"A ride-share driver started a shift without the company sticker on the window. According to the written policy, this case calls for", careless neglect, full accountability,b,a fine
+B2x_087,B2x,A citizen filed an annual tax form three days after the deadline. The response chosen by the responsible official was, ignoring the problem, a firm and fair response,b,a suspension
+B2x_088,B2x,"A citizen filed an annual tax form three days after the deadline. According to the written policy, this case calls for", a firm and fair response, ignoring the problem,a,a suspension
+B2x_089,B2x,A pupil ran in the school corridor between classes. The response chosen by the responsible official was, upholding the rules in full, looking the other way,a,a formal penalty
+B2x_090,B2x,"A pupil ran in the school corridor between classes. According to the written policy, this case calls for", looking the other way, upholding the rules in full,b,a formal penalty
+B2x_091,B2x,A homeowner watered the lawn on a day when watering was restricted. The response chosen by the responsible official was, turning a blind eye, proper enforcement of the rules,b,a written reprimand
+B2x_092,B2x,"A homeowner watered the lawn on a day when watering was restricted. According to the written policy, this case calls for", proper enforcement of the rules, turning a blind eye,a,a written reprimand
+B2x_093,B2x,A staff member propped a door open in a building with an access-card rule. The response chosen by the responsible official was, responsible enforcement, lax indifference,a,a temporary ban
+B2x_094,B2x,"A staff member propped a door open in a building with an access-card rule. According to the written policy, this case calls for", lax indifference, responsible enforcement,b,a temporary ban
+B2x_095,B2x,A visitor took photos in a museum room where photography was not allowed. The response chosen by the responsible official was, sloppy indifference, a just and formal response,b,a disciplinary hearing
+B2x_096,B2x,"A visitor took photos in a museum room where photography was not allowed. According to the written policy, this case calls for", a just and formal response, sloppy indifference,a,a disciplinary hearing
+B2x_097,B2x,A rental car customer returned the car with the fuel tank slightly below full. The response chosen by the responsible official was, full accountability, careless neglect,a,a fine
+B2x_098,B2x,"A rental car customer returned the car with the fuel tank slightly below full. According to the written policy, this case calls for", careless neglect, full accountability,b,a fine
+B2x_099,B2x,A volunteer referee arrived at a youth match without the required badge. The response chosen by the responsible official was, ignoring the problem, a firm and fair response,b,a suspension
+B2x_100,B2x,"A volunteer referee arrived at a youth match without the required badge. According to the written policy, this case calls for", a firm and fair response, ignoring the problem,a,a suspension
