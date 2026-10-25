@@ -1,0 +1,101 @@
+item_id,readout,prompt,option_a,option_b,target_option
+B2neg_001,B2neg,An employee arrived fifteen minutes late to a shift for the second time this month. The response rejected by the responsible official was, a fine, a warning,b
+B2neg_002,B2neg,"An employee arrived fifteen minutes late to a shift for the second time this month. According to the written policy, this case does not call for", a warning, a fine,a
+B2neg_003,B2neg,A resident put the recycling bins out on the street one day early. The response rejected by the responsible official was, a reminder, a suspension,a
+B2neg_004,B2neg,"A resident put the recycling bins out on the street one day early. According to the written policy, this case does not call for", a suspension, a reminder,b
+B2neg_005,B2neg,A student submitted a homework assignment one day after the deadline. The response rejected by the responsible official was, a formal penalty, a verbal reminder,b
+B2neg_006,B2neg,"A student submitted a homework assignment one day after the deadline. According to the written policy, this case does not call for", a verbal reminder, a formal penalty,a
+B2neg_007,B2neg,A driver stayed in a parking space five minutes beyond the time limit. The response rejected by the responsible official was, a brief reminder, a written reprimand,a
+B2neg_008,B2neg,"A driver stayed in a parking space five minutes beyond the time limit. According to the written policy, this case does not call for", a written reprimand, a brief reminder,b
+B2neg_009,B2neg,A library user returned a book one week after the due date. The response rejected by the responsible official was, a temporary ban, a polite reminder,b
+B2neg_010,B2neg,"A library user returned a book one week after the due date. According to the written policy, this case does not call for", a polite reminder, a temporary ban,a
+B2neg_011,B2neg,A gym member brought a guest in without registering the guest at the desk. The response rejected by the responsible official was, an informal word, a disciplinary hearing,a
+B2neg_012,B2neg,"A gym member brought a guest in without registering the guest at the desk. According to the written policy, this case does not call for", a disciplinary hearing, an informal word,b
+B2neg_013,B2neg,A cyclist rode on the sidewalk for a short stretch of one block. The response rejected by the responsible official was, a fine, a warning,b
+B2neg_014,B2neg,"A cyclist rode on the sidewalk for a short stretch of one block. According to the written policy, this case does not call for", a warning, a fine,a
+B2neg_015,B2neg,A passenger rode one stop on the train with a ticket that had expired that morning. The response rejected by the responsible official was, a reminder, a suspension,a
+B2neg_016,B2neg,"A passenger rode one stop on the train with a ticket that had expired that morning. According to the written policy, this case does not call for", a suspension, a reminder,b
+B2neg_017,B2neg,An employee used the office printer for a few personal pages. The response rejected by the responsible official was, a formal penalty, a verbal reminder,b
+B2neg_018,B2neg,"An employee used the office printer for a few personal pages. According to the written policy, this case does not call for", a verbal reminder, a formal penalty,a
+B2neg_019,B2neg,A tenant kept a bicycle in the shared hallway for two days. The response rejected by the responsible official was, a brief reminder, a written reprimand,a
+B2neg_020,B2neg,"A tenant kept a bicycle in the shared hallway for two days. According to the written policy, this case does not call for", a written reprimand, a brief reminder,b
+B2neg_021,B2neg,A worker took off a hard hat for a few minutes in a low-traffic area of the site. The response rejected by the responsible official was, a temporary ban, a polite reminder,b
+B2neg_022,B2neg,"A worker took off a hard hat for a few minutes in a low-traffic area of the site. According to the written policy, this case does not call for", a polite reminder, a temporary ban,a
+B2neg_023,B2neg,A player on an amateur team arrived ten minutes late to a match. The response rejected by the responsible official was, an informal word, a disciplinary hearing,a
+B2neg_024,B2neg,"A player on an amateur team arrived ten minutes late to a match. According to the written policy, this case does not call for", a disciplinary hearing, an informal word,b
+B2neg_025,B2neg,A visitor walked across a section of park lawn marked as off limits. The response rejected by the responsible official was, a fine, a warning,b
+B2neg_026,B2neg,"A visitor walked across a section of park lawn marked as off limits. According to the written policy, this case does not call for", a warning, a fine,a
+B2neg_027,B2neg,A student checked a phone during a class quiz to see the time. The response rejected by the responsible official was, a reminder, a suspension,a
+B2neg_028,B2neg,"A student checked a phone during a class quiz to see the time. According to the written policy, this case does not call for", a suspension, a reminder,b
+B2neg_029,B2neg,A shop assistant took a break five minutes longer than allowed. The response rejected by the responsible official was, a formal penalty, a verbal reminder,b
+B2neg_030,B2neg,"A shop assistant took a break five minutes longer than allowed. According to the written policy, this case does not call for", a verbal reminder, a formal penalty,a
+B2neg_031,B2neg,A camper used a gas stove a few meters outside the marked cooking area. The response rejected by the responsible official was, a brief reminder, a written reprimand,a
+B2neg_032,B2neg,"A camper used a gas stove a few meters outside the marked cooking area. According to the written policy, this case does not call for", a written reprimand, a brief reminder,b
+B2neg_033,B2neg,A driver forgot to signal once when changing lanes on an empty road. The response rejected by the responsible official was, a temporary ban, a polite reminder,b
+B2neg_034,B2neg,"A driver forgot to signal once when changing lanes on an empty road. According to the written policy, this case does not call for", a polite reminder, a temporary ban,a
+B2neg_035,B2neg,A club member paid the annual dues two weeks after the deadline. The response rejected by the responsible official was, an informal word, a disciplinary hearing,a
+B2neg_036,B2neg,"A club member paid the annual dues two weeks after the deadline. According to the written policy, this case does not call for", a disciplinary hearing, an informal word,b
+B2neg_037,B2neg,An employee completed a mandatory online training module one day after the deadline. The response rejected by the responsible official was, a fine, a warning,b
+B2neg_038,B2neg,"An employee completed a mandatory online training module one day after the deadline. According to the written policy, this case does not call for", a warning, a fine,a
+B2neg_039,B2neg,A resident let a dog off its leash for a few minutes in a public park. The response rejected by the responsible official was, a reminder, a suspension,a
+B2neg_040,B2neg,"A resident let a dog off its leash for a few minutes in a public park. According to the written policy, this case does not call for", a suspension, a reminder,b
+B2neg_041,B2neg,A diner smoked in the non-smoking section of an outdoor terrace. The response rejected by the responsible official was, a formal penalty, a verbal reminder,b
+B2neg_042,B2neg,"A diner smoked in the non-smoking section of an outdoor terrace. According to the written policy, this case does not call for", a verbal reminder, a formal penalty,a
+B2neg_043,B2neg,A pupil wore sneakers instead of the required school shoes. The response rejected by the responsible official was, a brief reminder, a written reprimand,a
+B2neg_044,B2neg,"A pupil wore sneakers instead of the required school shoes. According to the written policy, this case does not call for", a written reprimand, a brief reminder,b
+B2neg_045,B2neg,A contractor parked a van in a loading zone for twenty minutes. The response rejected by the responsible official was, a temporary ban, a polite reminder,b
+B2neg_046,B2neg,"A contractor parked a van in a loading zone for twenty minutes. According to the written policy, this case does not call for", a polite reminder, a temporary ban,a
+B2neg_047,B2neg,A runner cut a corner of the course during a local fun run. The response rejected by the responsible official was, an informal word, a disciplinary hearing,a
+B2neg_048,B2neg,"A runner cut a corner of the course during a local fun run. According to the written policy, this case does not call for", a disciplinary hearing, an informal word,b
+B2neg_049,B2neg,A volunteer forgot to sign out of the visitor log at the end of the day. The response rejected by the responsible official was, a fine, a warning,b
+B2neg_050,B2neg,"A volunteer forgot to sign out of the visitor log at the end of the day. According to the written policy, this case does not call for", a warning, a fine,a
+B2neg_051,B2neg,A tenant played music for half an hour after the building's 10 p.m. noise rule. The response rejected by the responsible official was, a reminder, a suspension,a
+B2neg_052,B2neg,"A tenant played music for half an hour after the building's 10 p.m. noise rule. According to the written policy, this case does not call for", a suspension, a reminder,b
+B2neg_053,B2neg,A researcher booked the shared lab room and left it unused without cancelling. The response rejected by the responsible official was, a formal penalty, a verbal reminder,b
+B2neg_054,B2neg,"A researcher booked the shared lab room and left it unused without cancelling. According to the written policy, this case does not call for", a verbal reminder, a formal penalty,a
+B2neg_055,B2neg,A pedestrian crossed an empty street outside the crosswalk. The response rejected by the responsible official was, a brief reminder, a written reprimand,a
+B2neg_056,B2neg,"A pedestrian crossed an empty street outside the crosswalk. According to the written policy, this case does not call for", a written reprimand, a brief reminder,b
+B2neg_057,B2neg,A worker submitted an expense receipt one week after the deadline. The response rejected by the responsible official was, a temporary ban, a polite reminder,b
+B2neg_058,B2neg,"A worker submitted an expense receipt one week after the deadline. According to the written policy, this case does not call for", a polite reminder, a temporary ban,a
+B2neg_059,B2neg,An angler kept one fish slightly under the size limit. The response rejected by the responsible official was, an informal word, a disciplinary hearing,a
+B2neg_060,B2neg,"An angler kept one fish slightly under the size limit. According to the written policy, this case does not call for", a disciplinary hearing, an informal word,b
+B2neg_061,B2neg,A driver let the parking meter run out by ten minutes. The response rejected by the responsible official was, a fine, a warning,b
+B2neg_062,B2neg,"A driver let the parking meter run out by ten minutes. According to the written policy, this case does not call for", a warning, a fine,a
+B2neg_063,B2neg,A passenger put a bag on the seat next to them on a crowded bus. The response rejected by the responsible official was, a reminder, a suspension,a
+B2neg_064,B2neg,"A passenger put a bag on the seat next to them on a crowded bus. According to the written policy, this case does not call for", a suspension, a reminder,b
+B2neg_065,B2neg,A student left a lab bench untidy after an experiment. The response rejected by the responsible official was, a formal penalty, a verbal reminder,b
+B2neg_066,B2neg,"A student left a lab bench untidy after an experiment. According to the written policy, this case does not call for", a verbal reminder, a formal penalty,a
+B2neg_067,B2neg,A member of a coworking space left food in the shared fridge past the Friday cleanup. The response rejected by the responsible official was, a brief reminder, a written reprimand,a
+B2neg_068,B2neg,"A member of a coworking space left food in the shared fridge past the Friday cleanup. According to the written policy, this case does not call for", a written reprimand, a brief reminder,b
+B2neg_069,B2neg,A shopper left a shopping cart in the parking lot instead of the return bay. The response rejected by the responsible official was, a temporary ban, a polite reminder,b
+B2neg_070,B2neg,"A shopper left a shopping cart in the parking lot instead of the return bay. According to the written policy, this case does not call for", a polite reminder, a temporary ban,a
+B2neg_071,B2neg,A resident put garden waste out in the wrong colored bag. The response rejected by the responsible official was, an informal word, a disciplinary hearing,a
+B2neg_072,B2neg,"A resident put garden waste out in the wrong colored bag. According to the written policy, this case does not call for", a disciplinary hearing, an informal word,b
+B2neg_073,B2neg,An employee wore casual clothes on a day the dress code required formal clothes. The response rejected by the responsible official was, a fine, a warning,b
+B2neg_074,B2neg,"An employee wore casual clothes on a day the dress code required formal clothes. According to the written policy, this case does not call for", a warning, a fine,a
+B2neg_075,B2neg,A hotel guest checked out one hour late without asking the front desk. The response rejected by the responsible official was, a reminder, a suspension,a
+B2neg_076,B2neg,"A hotel guest checked out one hour late without asking the front desk. According to the written policy, this case does not call for", a suspension, a reminder,b
+B2neg_077,B2neg,A delivery rider used the bus lane for one block. The response rejected by the responsible official was, a formal penalty, a verbal reminder,b
+B2neg_078,B2neg,"A delivery rider used the bus lane for one block. According to the written policy, this case does not call for", a verbal reminder, a formal penalty,a
+B2neg_079,B2neg,A swimmer used the pool lane reserved for lessons for ten minutes. The response rejected by the responsible official was, a brief reminder, a written reprimand,a
+B2neg_080,B2neg,"A swimmer used the pool lane reserved for lessons for ten minutes. According to the written policy, this case does not call for", a written reprimand, a brief reminder,b
+B2neg_081,B2neg,A passenger made a phone call in the train's no-phone carriage. The response rejected by the responsible official was, a temporary ban, a polite reminder,b
+B2neg_082,B2neg,"A passenger made a phone call in the train's no-phone carriage. According to the written policy, this case does not call for", a polite reminder, a temporary ban,a
+B2neg_083,B2neg,A student missed one mandatory seminar without notice. The response rejected by the responsible official was, an informal word, a disciplinary hearing,a
+B2neg_084,B2neg,"A student missed one mandatory seminar without notice. According to the written policy, this case does not call for", a disciplinary hearing, an informal word,b
+B2neg_085,B2neg,A ride-share driver started a shift without the company sticker on the window. The response rejected by the responsible official was, a fine, a warning,b
+B2neg_086,B2neg,"A ride-share driver started a shift without the company sticker on the window. According to the written policy, this case does not call for", a warning, a fine,a
+B2neg_087,B2neg,A citizen filed an annual tax form three days after the deadline. The response rejected by the responsible official was, a reminder, a suspension,a
+B2neg_088,B2neg,"A citizen filed an annual tax form three days after the deadline. According to the written policy, this case does not call for", a suspension, a reminder,b
+B2neg_089,B2neg,A pupil ran in the school corridor between classes. The response rejected by the responsible official was, a formal penalty, a verbal reminder,b
+B2neg_090,B2neg,"A pupil ran in the school corridor between classes. According to the written policy, this case does not call for", a verbal reminder, a formal penalty,a
+B2neg_091,B2neg,A homeowner watered the lawn on a day when watering was restricted. The response rejected by the responsible official was, a brief reminder, a written reprimand,a
+B2neg_092,B2neg,"A homeowner watered the lawn on a day when watering was restricted. According to the written policy, this case does not call for", a written reprimand, a brief reminder,b
+B2neg_093,B2neg,A staff member propped a door open in a building with an access-card rule. The response rejected by the responsible official was, a temporary ban, a polite reminder,b
+B2neg_094,B2neg,"A staff member propped a door open in a building with an access-card rule. According to the written policy, this case does not call for", a polite reminder, a temporary ban,a
+B2neg_095,B2neg,A visitor took photos in a museum room where photography was not allowed. The response rejected by the responsible official was, an informal word, a disciplinary hearing,a
+B2neg_096,B2neg,"A visitor took photos in a museum room where photography was not allowed. According to the written policy, this case does not call for", a disciplinary hearing, an informal word,b
+B2neg_097,B2neg,A rental car customer returned the car with the fuel tank slightly below full. The response rejected by the responsible official was, a fine, a warning,b
+B2neg_098,B2neg,"A rental car customer returned the car with the fuel tank slightly below full. According to the written policy, this case does not call for", a warning, a fine,a
+B2neg_099,B2neg,A volunteer referee arrived at a youth match without the required badge. The response rejected by the responsible official was, a reminder, a suspension,a
+B2neg_100,B2neg,"A volunteer referee arrived at a youth match without the required badge. According to the written policy, this case does not call for", a suspension, a reminder,b
