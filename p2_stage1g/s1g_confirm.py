@@ -9,6 +9,8 @@ Directions (difference of means, last token, layer round(0.33 x layers), unit no
 Readouts: B2 (readout_B.csv) and B2neg (readout_B2neg.csv: the frame negated, target = the lenient option, so a
 stricter judgment raises Delta in both). Positive control per readout (odd items -> even items, 200 nulls).
 Manipulation check for B2neg: item-wise correlation between baseline B2 and B2neg scores (same scenario and options).
+Amendment 01 (after the smoke run): the same correlation after removing each item's option prior, estimated with a
+stance-free frame (readout_B2neu.csv, target = strict): corr(B2 - B2neu, B2neg + B2neu). Per-item baselines saved.
 Each direction x readout: 1000 random directions matched to its own variance, saved in order.
 --dirs_B2 / --dirs_B2neg select the directions to score (the Stage 1c-1f models skip what they already have).
 """
@@ -72,7 +74,7 @@ def main():
     C_ctx = [r["text"] for r in ctx if r["split"] == "train"][:128] + [r["text"] for r in ctx if r["split"] == "dev"]
     C_dev = [r["text"] for r in ctx if r["split"] == "dev"]
     R_items = {"B2": [x for x in load_csv(S / "readout_B.csv") if x["readout"] == "B2"],
-               "B2neg": load_csv(S / "readout_B2neg.csv")}
+               "B2neg": load_csv(S / "readout_B2neg.csv"), "B2neu": load_csv(S / "readout_B2neu.csv")}
     dirs_for = {"B2": [d for d in a.dirs_B2.split(",") if d], "B2neg": [d for d in a.dirs_B2neg.split(",") if d]}
 
     cfg = AutoConfig.from_pretrained(a.model, revision=a.revision)
@@ -140,8 +142,14 @@ def main():
         res["delta"] = {n: delta(D[n]) for n in dirs_for[r]}
         res["delta_half"] = {n: [delta(D1[n]), delta(D2[n])] for n in dirs_for[r]}
         res["pos_even"] = {"delta": delta(d_pos, Reven, base_even)}
+        res["base_items"] = base_all.tolist()
         if r == "B2neg":  # manipulation check: both scores measure strictness if the negation is understood
             log["b2neg_check"] = {"corr_base_B2_B2neg": float(np.corrcoef(bases["B2"], bases["B2neg"])[0, 1])}
+            # Amendment 01: remove each item's option prior (stance-free frame, target = strict) before correlating.
+            # B2 = prior + judgment; B2neg = -prior + judgment if understood, = -B2 if the negation is ignored.
+            neu = Readout(tok, R_items["B2neu"]).score(model, steer, None)
+            log["b2neg_check"] |= {"corr_adj": float(np.corrcoef(bases["B2"] - neu, bases["B2neg"] + neu)[0, 1]),
+                                   "base_items_B2neu": neu.tolist()}
         save()
         jobs = [(n, D[n], Rall, base_all, a.n_null) for n in dirs_for[r]] + [("pos", d_pos, Reven, base_even, 200)]
         for n, d, R, base, nn in jobs:

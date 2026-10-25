@@ -1,0 +1,101 @@
+item_id,readout,prompt,option_a,option_b,target_option
+B2neu_001,B2neu,An employee arrived fifteen minutes late to a shift for the second time this month. The response mentioned in the report was, a fine, a warning,a
+B2neu_002,B2neu,"An employee arrived fifteen minutes late to a shift for the second time this month. According to the written policy, this case is about", a warning, a fine,b
+B2neu_003,B2neu,A resident put the recycling bins out on the street one day early. The response mentioned in the report was, a reminder, a suspension,b
+B2neu_004,B2neu,"A resident put the recycling bins out on the street one day early. According to the written policy, this case is about", a suspension, a reminder,a
+B2neu_005,B2neu,A student submitted a homework assignment one day after the deadline. The response mentioned in the report was, a formal penalty, a verbal reminder,a
+B2neu_006,B2neu,"A student submitted a homework assignment one day after the deadline. According to the written policy, this case is about", a verbal reminder, a formal penalty,b
+B2neu_007,B2neu,A driver stayed in a parking space five minutes beyond the time limit. The response mentioned in the report was, a brief reminder, a written reprimand,b
+B2neu_008,B2neu,"A driver stayed in a parking space five minutes beyond the time limit. According to the written policy, this case is about", a written reprimand, a brief reminder,a
+B2neu_009,B2neu,A library user returned a book one week after the due date. The response mentioned in the report was, a temporary ban, a polite reminder,a
+B2neu_010,B2neu,"A library user returned a book one week after the due date. According to the written policy, this case is about", a polite reminder, a temporary ban,b
+B2neu_011,B2neu,A gym member brought a guest in without registering the guest at the desk. The response mentioned in the report was, an informal word, a disciplinary hearing,b
+B2neu_012,B2neu,"A gym member brought a guest in without registering the guest at the desk. According to the written policy, this case is about", a disciplinary hearing, an informal word,a
+B2neu_013,B2neu,A cyclist rode on the sidewalk for a short stretch of one block. The response mentioned in the report was, a fine, a warning,a
+B2neu_014,B2neu,"A cyclist rode on the sidewalk for a short stretch of one block. According to the written policy, this case is about", a warning, a fine,b
+B2neu_015,B2neu,A passenger rode one stop on the train with a ticket that had expired that morning. The response mentioned in the report was, a reminder, a suspension,b
+B2neu_016,B2neu,"A passenger rode one stop on the train with a ticket that had expired that morning. According to the written policy, this case is about", a suspension, a reminder,a
+B2neu_017,B2neu,An employee used the office printer for a few personal pages. The response mentioned in the report was, a formal penalty, a verbal reminder,a
+B2neu_018,B2neu,"An employee used the office printer for a few personal pages. According to the written policy, this case is about", a verbal reminder, a formal penalty,b
+B2neu_019,B2neu,A tenant kept a bicycle in the shared hallway for two days. The response mentioned in the report was, a brief reminder, a written reprimand,b
+B2neu_020,B2neu,"A tenant kept a bicycle in the shared hallway for two days. According to the written policy, this case is about", a written reprimand, a brief reminder,a
+B2neu_021,B2neu,A worker took off a hard hat for a few minutes in a low-traffic area of the site. The response mentioned in the report was, a temporary ban, a polite reminder,a
+B2neu_022,B2neu,"A worker took off a hard hat for a few minutes in a low-traffic area of the site. According to the written policy, this case is about", a polite reminder, a temporary ban,b
+B2neu_023,B2neu,A player on an amateur team arrived ten minutes late to a match. The response mentioned in the report was, an informal word, a disciplinary hearing,b
+B2neu_024,B2neu,"A player on an amateur team arrived ten minutes late to a match. According to the written policy, this case is about", a disciplinary hearing, an informal word,a
+B2neu_025,B2neu,A visitor walked across a section of park lawn marked as off limits. The response mentioned in the report was, a fine, a warning,a
+B2neu_026,B2neu,"A visitor walked across a section of park lawn marked as off limits. According to the written policy, this case is about", a warning, a fine,b
+B2neu_027,B2neu,A student checked a phone during a class quiz to see the time. The response mentioned in the report was, a reminder, a suspension,b
+B2neu_028,B2neu,"A student checked a phone during a class quiz to see the time. According to the written policy, this case is about", a suspension, a reminder,a
+B2neu_029,B2neu,A shop assistant took a break five minutes longer than allowed. The response mentioned in the report was, a formal penalty, a verbal reminder,a
+B2neu_030,B2neu,"A shop assistant took a break five minutes longer than allowed. According to the written policy, this case is about", a verbal reminder, a formal penalty,b
+B2neu_031,B2neu,A camper used a gas stove a few meters outside the marked cooking area. The response mentioned in the report was, a brief reminder, a written reprimand,b
+B2neu_032,B2neu,"A camper used a gas stove a few meters outside the marked cooking area. According to the written policy, this case is about", a written reprimand, a brief reminder,a
+B2neu_033,B2neu,A driver forgot to signal once when changing lanes on an empty road. The response mentioned in the report was, a temporary ban, a polite reminder,a
+B2neu_034,B2neu,"A driver forgot to signal once when changing lanes on an empty road. According to the written policy, this case is about", a polite reminder, a temporary ban,b
+B2neu_035,B2neu,A club member paid the annual dues two weeks after the deadline. The response mentioned in the report was, an informal word, a disciplinary hearing,b
+B2neu_036,B2neu,"A club member paid the annual dues two weeks after the deadline. According to the written policy, this case is about", a disciplinary hearing, an informal word,a
+B2neu_037,B2neu,An employee completed a mandatory online training module one day after the deadline. The response mentioned in the report was, a fine, a warning,a
+B2neu_038,B2neu,"An employee completed a mandatory online training module one day after the deadline. According to the written policy, this case is about", a warning, a fine,b
+B2neu_039,B2neu,A resident let a dog off its leash for a few minutes in a public park. The response mentioned in the report was, a reminder, a suspension,b
+B2neu_040,B2neu,"A resident let a dog off its leash for a few minutes in a public park. According to the written policy, this case is about", a suspension, a reminder,a
+B2neu_041,B2neu,A diner smoked in the non-smoking section of an outdoor terrace. The response mentioned in the report was, a formal penalty, a verbal reminder,a
+B2neu_042,B2neu,"A diner smoked in the non-smoking section of an outdoor terrace. According to the written policy, this case is about", a verbal reminder, a formal penalty,b
+B2neu_043,B2neu,A pupil wore sneakers instead of the required school shoes. The response mentioned in the report was, a brief reminder, a written reprimand,b
+B2neu_044,B2neu,"A pupil wore sneakers instead of the required school shoes. According to the written policy, this case is about", a written reprimand, a brief reminder,a
+B2neu_045,B2neu,A contractor parked a van in a loading zone for twenty minutes. The response mentioned in the report was, a temporary ban, a polite reminder,a
+B2neu_046,B2neu,"A contractor parked a van in a loading zone for twenty minutes. According to the written policy, this case is about", a polite reminder, a temporary ban,b
+B2neu_047,B2neu,A runner cut a corner of the course during a local fun run. The response mentioned in the report was, an informal word, a disciplinary hearing,b
+B2neu_048,B2neu,"A runner cut a corner of the course during a local fun run. According to the written policy, this case is about", a disciplinary hearing, an informal word,a
+B2neu_049,B2neu,A volunteer forgot to sign out of the visitor log at the end of the day. The response mentioned in the report was, a fine, a warning,a
+B2neu_050,B2neu,"A volunteer forgot to sign out of the visitor log at the end of the day. According to the written policy, this case is about", a warning, a fine,b
+B2neu_051,B2neu,A tenant played music for half an hour after the building's 10 p.m. noise rule. The response mentioned in the report was, a reminder, a suspension,b
+B2neu_052,B2neu,"A tenant played music for half an hour after the building's 10 p.m. noise rule. According to the written policy, this case is about", a suspension, a reminder,a
+B2neu_053,B2neu,A researcher booked the shared lab room and left it unused without cancelling. The response mentioned in the report was, a formal penalty, a verbal reminder,a
+B2neu_054,B2neu,"A researcher booked the shared lab room and left it unused without cancelling. According to the written policy, this case is about", a verbal reminder, a formal penalty,b
+B2neu_055,B2neu,A pedestrian crossed an empty street outside the crosswalk. The response mentioned in the report was, a brief reminder, a written reprimand,b
+B2neu_056,B2neu,"A pedestrian crossed an empty street outside the crosswalk. According to the written policy, this case is about", a written reprimand, a brief reminder,a
+B2neu_057,B2neu,A worker submitted an expense receipt one week after the deadline. The response mentioned in the report was, a temporary ban, a polite reminder,a
+B2neu_058,B2neu,"A worker submitted an expense receipt one week after the deadline. According to the written policy, this case is about", a polite reminder, a temporary ban,b
+B2neu_059,B2neu,An angler kept one fish slightly under the size limit. The response mentioned in the report was, an informal word, a disciplinary hearing,b
+B2neu_060,B2neu,"An angler kept one fish slightly under the size limit. According to the written policy, this case is about", a disciplinary hearing, an informal word,a
+B2neu_061,B2neu,A driver let the parking meter run out by ten minutes. The response mentioned in the report was, a fine, a warning,a
+B2neu_062,B2neu,"A driver let the parking meter run out by ten minutes. According to the written policy, this case is about", a warning, a fine,b
+B2neu_063,B2neu,A passenger put a bag on the seat next to them on a crowded bus. The response mentioned in the report was, a reminder, a suspension,b
+B2neu_064,B2neu,"A passenger put a bag on the seat next to them on a crowded bus. According to the written policy, this case is about", a suspension, a reminder,a
+B2neu_065,B2neu,A student left a lab bench untidy after an experiment. The response mentioned in the report was, a formal penalty, a verbal reminder,a
+B2neu_066,B2neu,"A student left a lab bench untidy after an experiment. According to the written policy, this case is about", a verbal reminder, a formal penalty,b
+B2neu_067,B2neu,A member of a coworking space left food in the shared fridge past the Friday cleanup. The response mentioned in the report was, a brief reminder, a written reprimand,b
+B2neu_068,B2neu,"A member of a coworking space left food in the shared fridge past the Friday cleanup. According to the written policy, this case is about", a written reprimand, a brief reminder,a
+B2neu_069,B2neu,A shopper left a shopping cart in the parking lot instead of the return bay. The response mentioned in the report was, a temporary ban, a polite reminder,a
+B2neu_070,B2neu,"A shopper left a shopping cart in the parking lot instead of the return bay. According to the written policy, this case is about", a polite reminder, a temporary ban,b
+B2neu_071,B2neu,A resident put garden waste out in the wrong colored bag. The response mentioned in the report was, an informal word, a disciplinary hearing,b
+B2neu_072,B2neu,"A resident put garden waste out in the wrong colored bag. According to the written policy, this case is about", a disciplinary hearing, an informal word,a
+B2neu_073,B2neu,An employee wore casual clothes on a day the dress code required formal clothes. The response mentioned in the report was, a fine, a warning,a
+B2neu_074,B2neu,"An employee wore casual clothes on a day the dress code required formal clothes. According to the written policy, this case is about", a warning, a fine,b
+B2neu_075,B2neu,A hotel guest checked out one hour late without asking the front desk. The response mentioned in the report was, a reminder, a suspension,b
+B2neu_076,B2neu,"A hotel guest checked out one hour late without asking the front desk. According to the written policy, this case is about", a suspension, a reminder,a
+B2neu_077,B2neu,A delivery rider used the bus lane for one block. The response mentioned in the report was, a formal penalty, a verbal reminder,a
+B2neu_078,B2neu,"A delivery rider used the bus lane for one block. According to the written policy, this case is about", a verbal reminder, a formal penalty,b
+B2neu_079,B2neu,A swimmer used the pool lane reserved for lessons for ten minutes. The response mentioned in the report was, a brief reminder, a written reprimand,b
+B2neu_080,B2neu,"A swimmer used the pool lane reserved for lessons for ten minutes. According to the written policy, this case is about", a written reprimand, a brief reminder,a
+B2neu_081,B2neu,A passenger made a phone call in the train's no-phone carriage. The response mentioned in the report was, a temporary ban, a polite reminder,a
+B2neu_082,B2neu,"A passenger made a phone call in the train's no-phone carriage. According to the written policy, this case is about", a polite reminder, a temporary ban,b
+B2neu_083,B2neu,A student missed one mandatory seminar without notice. The response mentioned in the report was, an informal word, a disciplinary hearing,b
+B2neu_084,B2neu,"A student missed one mandatory seminar without notice. According to the written policy, this case is about", a disciplinary hearing, an informal word,a
+B2neu_085,B2neu,A ride-share driver started a shift without the company sticker on the window. The response mentioned in the report was, a fine, a warning,a
+B2neu_086,B2neu,"A ride-share driver started a shift without the company sticker on the window. According to the written policy, this case is about", a warning, a fine,b
+B2neu_087,B2neu,A citizen filed an annual tax form three days after the deadline. The response mentioned in the report was, a reminder, a suspension,b
+B2neu_088,B2neu,"A citizen filed an annual tax form three days after the deadline. According to the written policy, this case is about", a suspension, a reminder,a
+B2neu_089,B2neu,A pupil ran in the school corridor between classes. The response mentioned in the report was, a formal penalty, a verbal reminder,a
+B2neu_090,B2neu,"A pupil ran in the school corridor between classes. According to the written policy, this case is about", a verbal reminder, a formal penalty,b
+B2neu_091,B2neu,A homeowner watered the lawn on a day when watering was restricted. The response mentioned in the report was, a brief reminder, a written reprimand,b
+B2neu_092,B2neu,"A homeowner watered the lawn on a day when watering was restricted. According to the written policy, this case is about", a written reprimand, a brief reminder,a
+B2neu_093,B2neu,A staff member propped a door open in a building with an access-card rule. The response mentioned in the report was, a temporary ban, a polite reminder,a
+B2neu_094,B2neu,"A staff member propped a door open in a building with an access-card rule. According to the written policy, this case is about", a polite reminder, a temporary ban,b
+B2neu_095,B2neu,A visitor took photos in a museum room where photography was not allowed. The response mentioned in the report was, an informal word, a disciplinary hearing,b
+B2neu_096,B2neu,"A visitor took photos in a museum room where photography was not allowed. According to the written policy, this case is about", a disciplinary hearing, an informal word,a
+B2neu_097,B2neu,A rental car customer returned the car with the fuel tank slightly below full. The response mentioned in the report was, a fine, a warning,a
+B2neu_098,B2neu,"A rental car customer returned the car with the fuel tank slightly below full. According to the written policy, this case is about", a warning, a fine,b
+B2neu_099,B2neu,A volunteer referee arrived at a youth match without the required badge. The response mentioned in the report was, a reminder, a suspension,b
+B2neu_100,B2neu,"A volunteer referee arrived at a youth match without the required badge. According to the written policy, this case is about", a suspension, a reminder,a
