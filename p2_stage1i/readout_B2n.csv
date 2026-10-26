@@ -1,0 +1,101 @@
+item_id,readout,prompt,option_a,option_b,target_option,pair
+B2n_001,B2n,An employee arrived fifteen minutes late to a shift for the second time this month. The response chosen by the responsible official was, a formal response, an informal response,a,a fine
+B2n_002,B2n,"An employee arrived fifteen minutes late to a shift for the second time this month. According to the written policy, this case calls for", an informal response, a formal response,b,a fine
+B2n_003,B2n,A resident put the recycling bins out on the street one day early. The response chosen by the responsible official was, a spoken note, a written notice,b,a suspension
+B2n_004,B2n,"A resident put the recycling bins out on the street one day early. According to the written policy, this case calls for", a written notice, a spoken note,a,a suspension
+B2n_005,B2n,A student submitted a homework assignment one day after the deadline. The response chosen by the responsible official was, a hearing, a chat,a,a formal penalty
+B2n_006,B2n,"A student submitted a homework assignment one day after the deadline. According to the written policy, this case calls for", a chat, a hearing,b,a formal penalty
+B2n_007,B2n,A driver stayed in a parking space five minutes beyond the time limit. The response chosen by the responsible official was, a verbal mention, a written record,b,a written reprimand
+B2n_008,B2n,"A driver stayed in a parking space five minutes beyond the time limit. According to the written policy, this case calls for", a written record, a verbal mention,a,a written reprimand
+B2n_009,B2n,A library user returned a book one week after the due date. The response chosen by the responsible official was, a formal process, a simple mention,a,a temporary ban
+B2n_010,B2n,"A library user returned a book one week after the due date. According to the written policy, this case calls for", a simple mention, a formal process,b,a temporary ban
+B2n_011,B2n,A gym member brought a guest in without registering the guest at the desk. The response chosen by the responsible official was, a short email, a formal letter,b,a disciplinary hearing
+B2n_012,B2n,"A gym member brought a guest in without registering the guest at the desk. According to the written policy, this case calls for", a formal letter, a short email,a,a disciplinary hearing
+B2n_013,B2n,A cyclist rode on the sidewalk for a short stretch of one block. The response chosen by the responsible official was, a formal response, an informal response,a,a fine
+B2n_014,B2n,"A cyclist rode on the sidewalk for a short stretch of one block. According to the written policy, this case calls for", an informal response, a formal response,b,a fine
+B2n_015,B2n,A passenger rode one stop on the train with a ticket that had expired that morning. The response chosen by the responsible official was, a spoken note, a written notice,b,a suspension
+B2n_016,B2n,"A passenger rode one stop on the train with a ticket that had expired that morning. According to the written policy, this case calls for", a written notice, a spoken note,a,a suspension
+B2n_017,B2n,An employee used the office printer for a few personal pages. The response chosen by the responsible official was, a hearing, a chat,a,a formal penalty
+B2n_018,B2n,"An employee used the office printer for a few personal pages. According to the written policy, this case calls for", a chat, a hearing,b,a formal penalty
+B2n_019,B2n,A tenant kept a bicycle in the shared hallway for two days. The response chosen by the responsible official was, a verbal mention, a written record,b,a written reprimand
+B2n_020,B2n,"A tenant kept a bicycle in the shared hallway for two days. According to the written policy, this case calls for", a written record, a verbal mention,a,a written reprimand
+B2n_021,B2n,A worker took off a hard hat for a few minutes in a low-traffic area of the site. The response chosen by the responsible official was, a formal process, a simple mention,a,a temporary ban
+B2n_022,B2n,"A worker took off a hard hat for a few minutes in a low-traffic area of the site. According to the written policy, this case calls for", a simple mention, a formal process,b,a temporary ban
+B2n_023,B2n,A player on an amateur team arrived ten minutes late to a match. The response chosen by the responsible official was, a short email, a formal letter,b,a disciplinary hearing
+B2n_024,B2n,"A player on an amateur team arrived ten minutes late to a match. According to the written policy, this case calls for", a formal letter, a short email,a,a disciplinary hearing
+B2n_025,B2n,A visitor walked across a section of park lawn marked as off limits. The response chosen by the responsible official was, a formal response, an informal response,a,a fine
+B2n_026,B2n,"A visitor walked across a section of park lawn marked as off limits. According to the written policy, this case calls for", an informal response, a formal response,b,a fine
+B2n_027,B2n,A student checked a phone during a class quiz to see the time. The response chosen by the responsible official was, a spoken note, a written notice,b,a suspension
+B2n_028,B2n,"A student checked a phone during a class quiz to see the time. According to the written policy, this case calls for", a written notice, a spoken note,a,a suspension
+B2n_029,B2n,A shop assistant took a break five minutes longer than allowed. The response chosen by the responsible official was, a hearing, a chat,a,a formal penalty
+B2n_030,B2n,"A shop assistant took a break five minutes longer than allowed. According to the written policy, this case calls for", a chat, a hearing,b,a formal penalty
+B2n_031,B2n,A camper used a gas stove a few meters outside the marked cooking area. The response chosen by the responsible official was, a verbal mention, a written record,b,a written reprimand
+B2n_032,B2n,"A camper used a gas stove a few meters outside the marked cooking area. According to the written policy, this case calls for", a written record, a verbal mention,a,a written reprimand
+B2n_033,B2n,A driver forgot to signal once when changing lanes on an empty road. The response chosen by the responsible official was, a formal process, a simple mention,a,a temporary ban
+B2n_034,B2n,"A driver forgot to signal once when changing lanes on an empty road. According to the written policy, this case calls for", a simple mention, a formal process,b,a temporary ban
+B2n_035,B2n,A club member paid the annual dues two weeks after the deadline. The response chosen by the responsible official was, a short email, a formal letter,b,a disciplinary hearing
+B2n_036,B2n,"A club member paid the annual dues two weeks after the deadline. According to the written policy, this case calls for", a formal letter, a short email,a,a disciplinary hearing
+B2n_037,B2n,An employee completed a mandatory online training module one day after the deadline. The response chosen by the responsible official was, a formal response, an informal response,a,a fine
+B2n_038,B2n,"An employee completed a mandatory online training module one day after the deadline. According to the written policy, this case calls for", an informal response, a formal response,b,a fine
+B2n_039,B2n,A resident let a dog off its leash for a few minutes in a public park. The response chosen by the responsible official was, a spoken note, a written notice,b,a suspension
+B2n_040,B2n,"A resident let a dog off its leash for a few minutes in a public park. According to the written policy, this case calls for", a written notice, a spoken note,a,a suspension
+B2n_041,B2n,A diner smoked in the non-smoking section of an outdoor terrace. The response chosen by the responsible official was, a hearing, a chat,a,a formal penalty
+B2n_042,B2n,"A diner smoked in the non-smoking section of an outdoor terrace. According to the written policy, this case calls for", a chat, a hearing,b,a formal penalty
+B2n_043,B2n,A pupil wore sneakers instead of the required school shoes. The response chosen by the responsible official was, a verbal mention, a written record,b,a written reprimand
+B2n_044,B2n,"A pupil wore sneakers instead of the required school shoes. According to the written policy, this case calls for", a written record, a verbal mention,a,a written reprimand
+B2n_045,B2n,A contractor parked a van in a loading zone for twenty minutes. The response chosen by the responsible official was, a formal process, a simple mention,a,a temporary ban
+B2n_046,B2n,"A contractor parked a van in a loading zone for twenty minutes. According to the written policy, this case calls for", a simple mention, a formal process,b,a temporary ban
+B2n_047,B2n,A runner cut a corner of the course during a local fun run. The response chosen by the responsible official was, a short email, a formal letter,b,a disciplinary hearing
+B2n_048,B2n,"A runner cut a corner of the course during a local fun run. According to the written policy, this case calls for", a formal letter, a short email,a,a disciplinary hearing
+B2n_049,B2n,A volunteer forgot to sign out of the visitor log at the end of the day. The response chosen by the responsible official was, a formal response, an informal response,a,a fine
+B2n_050,B2n,"A volunteer forgot to sign out of the visitor log at the end of the day. According to the written policy, this case calls for", an informal response, a formal response,b,a fine
+B2n_051,B2n,A tenant played music for half an hour after the building's 10 p.m. noise rule. The response chosen by the responsible official was, a spoken note, a written notice,b,a suspension
+B2n_052,B2n,"A tenant played music for half an hour after the building's 10 p.m. noise rule. According to the written policy, this case calls for", a written notice, a spoken note,a,a suspension
+B2n_053,B2n,A researcher booked the shared lab room and left it unused without cancelling. The response chosen by the responsible official was, a hearing, a chat,a,a formal penalty
+B2n_054,B2n,"A researcher booked the shared lab room and left it unused without cancelling. According to the written policy, this case calls for", a chat, a hearing,b,a formal penalty
+B2n_055,B2n,A pedestrian crossed an empty street outside the crosswalk. The response chosen by the responsible official was, a verbal mention, a written record,b,a written reprimand
+B2n_056,B2n,"A pedestrian crossed an empty street outside the crosswalk. According to the written policy, this case calls for", a written record, a verbal mention,a,a written reprimand
+B2n_057,B2n,A worker submitted an expense receipt one week after the deadline. The response chosen by the responsible official was, a formal process, a simple mention,a,a temporary ban
+B2n_058,B2n,"A worker submitted an expense receipt one week after the deadline. According to the written policy, this case calls for", a simple mention, a formal process,b,a temporary ban
+B2n_059,B2n,An angler kept one fish slightly under the size limit. The response chosen by the responsible official was, a short email, a formal letter,b,a disciplinary hearing
+B2n_060,B2n,"An angler kept one fish slightly under the size limit. According to the written policy, this case calls for", a formal letter, a short email,a,a disciplinary hearing
+B2n_061,B2n,A driver let the parking meter run out by ten minutes. The response chosen by the responsible official was, a formal response, an informal response,a,a fine
+B2n_062,B2n,"A driver let the parking meter run out by ten minutes. According to the written policy, this case calls for", an informal response, a formal response,b,a fine
+B2n_063,B2n,A passenger put a bag on the seat next to them on a crowded bus. The response chosen by the responsible official was, a spoken note, a written notice,b,a suspension
+B2n_064,B2n,"A passenger put a bag on the seat next to them on a crowded bus. According to the written policy, this case calls for", a written notice, a spoken note,a,a suspension
+B2n_065,B2n,A student left a lab bench untidy after an experiment. The response chosen by the responsible official was, a hearing, a chat,a,a formal penalty
+B2n_066,B2n,"A student left a lab bench untidy after an experiment. According to the written policy, this case calls for", a chat, a hearing,b,a formal penalty
+B2n_067,B2n,A member of a coworking space left food in the shared fridge past the Friday cleanup. The response chosen by the responsible official was, a verbal mention, a written record,b,a written reprimand
+B2n_068,B2n,"A member of a coworking space left food in the shared fridge past the Friday cleanup. According to the written policy, this case calls for", a written record, a verbal mention,a,a written reprimand
+B2n_069,B2n,A shopper left a shopping cart in the parking lot instead of the return bay. The response chosen by the responsible official was, a formal process, a simple mention,a,a temporary ban
+B2n_070,B2n,"A shopper left a shopping cart in the parking lot instead of the return bay. According to the written policy, this case calls for", a simple mention, a formal process,b,a temporary ban
+B2n_071,B2n,A resident put garden waste out in the wrong colored bag. The response chosen by the responsible official was, a short email, a formal letter,b,a disciplinary hearing
+B2n_072,B2n,"A resident put garden waste out in the wrong colored bag. According to the written policy, this case calls for", a formal letter, a short email,a,a disciplinary hearing
+B2n_073,B2n,An employee wore casual clothes on a day the dress code required formal clothes. The response chosen by the responsible official was, a formal response, an informal response,a,a fine
+B2n_074,B2n,"An employee wore casual clothes on a day the dress code required formal clothes. According to the written policy, this case calls for", an informal response, a formal response,b,a fine
+B2n_075,B2n,A hotel guest checked out one hour late without asking the front desk. The response chosen by the responsible official was, a spoken note, a written notice,b,a suspension
+B2n_076,B2n,"A hotel guest checked out one hour late without asking the front desk. According to the written policy, this case calls for", a written notice, a spoken note,a,a suspension
+B2n_077,B2n,A delivery rider used the bus lane for one block. The response chosen by the responsible official was, a hearing, a chat,a,a formal penalty
+B2n_078,B2n,"A delivery rider used the bus lane for one block. According to the written policy, this case calls for", a chat, a hearing,b,a formal penalty
+B2n_079,B2n,A swimmer used the pool lane reserved for lessons for ten minutes. The response chosen by the responsible official was, a verbal mention, a written record,b,a written reprimand
+B2n_080,B2n,"A swimmer used the pool lane reserved for lessons for ten minutes. According to the written policy, this case calls for", a written record, a verbal mention,a,a written reprimand
+B2n_081,B2n,A passenger made a phone call in the train's no-phone carriage. The response chosen by the responsible official was, a formal process, a simple mention,a,a temporary ban
+B2n_082,B2n,"A passenger made a phone call in the train's no-phone carriage. According to the written policy, this case calls for", a simple mention, a formal process,b,a temporary ban
+B2n_083,B2n,A student missed one mandatory seminar without notice. The response chosen by the responsible official was, a short email, a formal letter,b,a disciplinary hearing
+B2n_084,B2n,"A student missed one mandatory seminar without notice. According to the written policy, this case calls for", a formal letter, a short email,a,a disciplinary hearing
+B2n_085,B2n,A ride-share driver started a shift without the company sticker on the window. The response chosen by the responsible official was, a formal response, an informal response,a,a fine
+B2n_086,B2n,"A ride-share driver started a shift without the company sticker on the window. According to the written policy, this case calls for", an informal response, a formal response,b,a fine
+B2n_087,B2n,A citizen filed an annual tax form three days after the deadline. The response chosen by the responsible official was, a spoken note, a written notice,b,a suspension
+B2n_088,B2n,"A citizen filed an annual tax form three days after the deadline. According to the written policy, this case calls for", a written notice, a spoken note,a,a suspension
+B2n_089,B2n,A pupil ran in the school corridor between classes. The response chosen by the responsible official was, a hearing, a chat,a,a formal penalty
+B2n_090,B2n,"A pupil ran in the school corridor between classes. According to the written policy, this case calls for", a chat, a hearing,b,a formal penalty
+B2n_091,B2n,A homeowner watered the lawn on a day when watering was restricted. The response chosen by the responsible official was, a verbal mention, a written record,b,a written reprimand
+B2n_092,B2n,"A homeowner watered the lawn on a day when watering was restricted. According to the written policy, this case calls for", a written record, a verbal mention,a,a written reprimand
+B2n_093,B2n,A staff member propped a door open in a building with an access-card rule. The response chosen by the responsible official was, a formal process, a simple mention,a,a temporary ban
+B2n_094,B2n,"A staff member propped a door open in a building with an access-card rule. According to the written policy, this case calls for", a simple mention, a formal process,b,a temporary ban
+B2n_095,B2n,A visitor took photos in a museum room where photography was not allowed. The response chosen by the responsible official was, a short email, a formal letter,b,a disciplinary hearing
+B2n_096,B2n,"A visitor took photos in a museum room where photography was not allowed. According to the written policy, this case calls for", a formal letter, a short email,a,a disciplinary hearing
+B2n_097,B2n,A rental car customer returned the car with the fuel tank slightly below full. The response chosen by the responsible official was, a formal response, an informal response,a,a fine
+B2n_098,B2n,"A rental car customer returned the car with the fuel tank slightly below full. According to the written policy, this case calls for", an informal response, a formal response,b,a fine
+B2n_099,B2n,A volunteer referee arrived at a youth match without the required badge. The response chosen by the responsible official was, a spoken note, a written notice,b,a suspension
+B2n_100,B2n,"A volunteer referee arrived at a youth match without the required badge. According to the written policy, this case calls for", a written notice, a spoken note,a,a suspension

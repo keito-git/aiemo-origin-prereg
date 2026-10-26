@@ -1,0 +1,101 @@
+item_id,readout,prompt,option_a,option_b,target_option,pair
+B2m_001,B2m,An employee arrived fifteen minutes late to a shift for the second time this month. The response chosen by the responsible official was, a fee of 200 dollars, a fee of 2 dollars,a,a fine
+B2m_002,B2m,"An employee arrived fifteen minutes late to a shift for the second time this month. According to the written policy, this case calls for", a fee of 2 dollars, a fee of 200 dollars,b,a fine
+B2m_003,B2m,A resident put the recycling bins out on the street one day early. The response chosen by the responsible official was, a suspension of ten minutes, a suspension of ten days,b,a suspension
+B2m_004,B2m,"A resident put the recycling bins out on the street one day early. According to the written policy, this case calls for", a suspension of ten days, a suspension of ten minutes,a,a suspension
+B2m_005,B2m,A student submitted a homework assignment one day after the deadline. The response chosen by the responsible official was, a full-day hearing, a ten-minute hearing,a,a formal penalty
+B2m_006,B2m,"A student submitted a homework assignment one day after the deadline. According to the written policy, this case calls for", a ten-minute hearing, a full-day hearing,b,a formal penalty
+B2m_007,B2m,A driver stayed in a parking space five minutes beyond the time limit. The response chosen by the responsible official was, a day of probation, a month of probation,b,a written reprimand
+B2m_008,B2m,"A driver stayed in a parking space five minutes beyond the time limit. According to the written policy, this case calls for", a month of probation, a day of probation,a,a written reprimand
+B2m_009,B2m,A library user returned a book one week after the due date. The response chosen by the responsible official was, a two-month ban, a two-hour ban,a,a temporary ban
+B2m_010,B2m,"A library user returned a book one week after the due date. According to the written policy, this case calls for", a two-hour ban, a two-month ban,b,a temporary ban
+B2m_011,B2m,A gym member brought a guest in without registering the guest at the desk. The response chosen by the responsible official was, ten minutes of extra duty, ten hours of extra duty,b,a disciplinary hearing
+B2m_012,B2m,"A gym member brought a guest in without registering the guest at the desk. According to the written policy, this case calls for", ten hours of extra duty, ten minutes of extra duty,a,a disciplinary hearing
+B2m_013,B2m,A cyclist rode on the sidewalk for a short stretch of one block. The response chosen by the responsible official was, a fee of 200 dollars, a fee of 2 dollars,a,a fine
+B2m_014,B2m,"A cyclist rode on the sidewalk for a short stretch of one block. According to the written policy, this case calls for", a fee of 2 dollars, a fee of 200 dollars,b,a fine
+B2m_015,B2m,A passenger rode one stop on the train with a ticket that had expired that morning. The response chosen by the responsible official was, a suspension of ten minutes, a suspension of ten days,b,a suspension
+B2m_016,B2m,"A passenger rode one stop on the train with a ticket that had expired that morning. According to the written policy, this case calls for", a suspension of ten days, a suspension of ten minutes,a,a suspension
+B2m_017,B2m,An employee used the office printer for a few personal pages. The response chosen by the responsible official was, a full-day hearing, a ten-minute hearing,a,a formal penalty
+B2m_018,B2m,"An employee used the office printer for a few personal pages. According to the written policy, this case calls for", a ten-minute hearing, a full-day hearing,b,a formal penalty
+B2m_019,B2m,A tenant kept a bicycle in the shared hallway for two days. The response chosen by the responsible official was, a day of probation, a month of probation,b,a written reprimand
+B2m_020,B2m,"A tenant kept a bicycle in the shared hallway for two days. According to the written policy, this case calls for", a month of probation, a day of probation,a,a written reprimand
+B2m_021,B2m,A worker took off a hard hat for a few minutes in a low-traffic area of the site. The response chosen by the responsible official was, a two-month ban, a two-hour ban,a,a temporary ban
+B2m_022,B2m,"A worker took off a hard hat for a few minutes in a low-traffic area of the site. According to the written policy, this case calls for", a two-hour ban, a two-month ban,b,a temporary ban
+B2m_023,B2m,A player on an amateur team arrived ten minutes late to a match. The response chosen by the responsible official was, ten minutes of extra duty, ten hours of extra duty,b,a disciplinary hearing
+B2m_024,B2m,"A player on an amateur team arrived ten minutes late to a match. According to the written policy, this case calls for", ten hours of extra duty, ten minutes of extra duty,a,a disciplinary hearing
+B2m_025,B2m,A visitor walked across a section of park lawn marked as off limits. The response chosen by the responsible official was, a fee of 200 dollars, a fee of 2 dollars,a,a fine
+B2m_026,B2m,"A visitor walked across a section of park lawn marked as off limits. According to the written policy, this case calls for", a fee of 2 dollars, a fee of 200 dollars,b,a fine
+B2m_027,B2m,A student checked a phone during a class quiz to see the time. The response chosen by the responsible official was, a suspension of ten minutes, a suspension of ten days,b,a suspension
+B2m_028,B2m,"A student checked a phone during a class quiz to see the time. According to the written policy, this case calls for", a suspension of ten days, a suspension of ten minutes,a,a suspension
+B2m_029,B2m,A shop assistant took a break five minutes longer than allowed. The response chosen by the responsible official was, a full-day hearing, a ten-minute hearing,a,a formal penalty
+B2m_030,B2m,"A shop assistant took a break five minutes longer than allowed. According to the written policy, this case calls for", a ten-minute hearing, a full-day hearing,b,a formal penalty
+B2m_031,B2m,A camper used a gas stove a few meters outside the marked cooking area. The response chosen by the responsible official was, a day of probation, a month of probation,b,a written reprimand
+B2m_032,B2m,"A camper used a gas stove a few meters outside the marked cooking area. According to the written policy, this case calls for", a month of probation, a day of probation,a,a written reprimand
+B2m_033,B2m,A driver forgot to signal once when changing lanes on an empty road. The response chosen by the responsible official was, a two-month ban, a two-hour ban,a,a temporary ban
+B2m_034,B2m,"A driver forgot to signal once when changing lanes on an empty road. According to the written policy, this case calls for", a two-hour ban, a two-month ban,b,a temporary ban
+B2m_035,B2m,A club member paid the annual dues two weeks after the deadline. The response chosen by the responsible official was, ten minutes of extra duty, ten hours of extra duty,b,a disciplinary hearing
+B2m_036,B2m,"A club member paid the annual dues two weeks after the deadline. According to the written policy, this case calls for", ten hours of extra duty, ten minutes of extra duty,a,a disciplinary hearing
+B2m_037,B2m,An employee completed a mandatory online training module one day after the deadline. The response chosen by the responsible official was, a fee of 200 dollars, a fee of 2 dollars,a,a fine
+B2m_038,B2m,"An employee completed a mandatory online training module one day after the deadline. According to the written policy, this case calls for", a fee of 2 dollars, a fee of 200 dollars,b,a fine
+B2m_039,B2m,A resident let a dog off its leash for a few minutes in a public park. The response chosen by the responsible official was, a suspension of ten minutes, a suspension of ten days,b,a suspension
+B2m_040,B2m,"A resident let a dog off its leash for a few minutes in a public park. According to the written policy, this case calls for", a suspension of ten days, a suspension of ten minutes,a,a suspension
+B2m_041,B2m,A diner smoked in the non-smoking section of an outdoor terrace. The response chosen by the responsible official was, a full-day hearing, a ten-minute hearing,a,a formal penalty
+B2m_042,B2m,"A diner smoked in the non-smoking section of an outdoor terrace. According to the written policy, this case calls for", a ten-minute hearing, a full-day hearing,b,a formal penalty
+B2m_043,B2m,A pupil wore sneakers instead of the required school shoes. The response chosen by the responsible official was, a day of probation, a month of probation,b,a written reprimand
+B2m_044,B2m,"A pupil wore sneakers instead of the required school shoes. According to the written policy, this case calls for", a month of probation, a day of probation,a,a written reprimand
+B2m_045,B2m,A contractor parked a van in a loading zone for twenty minutes. The response chosen by the responsible official was, a two-month ban, a two-hour ban,a,a temporary ban
+B2m_046,B2m,"A contractor parked a van in a loading zone for twenty minutes. According to the written policy, this case calls for", a two-hour ban, a two-month ban,b,a temporary ban
+B2m_047,B2m,A runner cut a corner of the course during a local fun run. The response chosen by the responsible official was, ten minutes of extra duty, ten hours of extra duty,b,a disciplinary hearing
+B2m_048,B2m,"A runner cut a corner of the course during a local fun run. According to the written policy, this case calls for", ten hours of extra duty, ten minutes of extra duty,a,a disciplinary hearing
+B2m_049,B2m,A volunteer forgot to sign out of the visitor log at the end of the day. The response chosen by the responsible official was, a fee of 200 dollars, a fee of 2 dollars,a,a fine
+B2m_050,B2m,"A volunteer forgot to sign out of the visitor log at the end of the day. According to the written policy, this case calls for", a fee of 2 dollars, a fee of 200 dollars,b,a fine
+B2m_051,B2m,A tenant played music for half an hour after the building's 10 p.m. noise rule. The response chosen by the responsible official was, a suspension of ten minutes, a suspension of ten days,b,a suspension
+B2m_052,B2m,"A tenant played music for half an hour after the building's 10 p.m. noise rule. According to the written policy, this case calls for", a suspension of ten days, a suspension of ten minutes,a,a suspension
+B2m_053,B2m,A researcher booked the shared lab room and left it unused without cancelling. The response chosen by the responsible official was, a full-day hearing, a ten-minute hearing,a,a formal penalty
+B2m_054,B2m,"A researcher booked the shared lab room and left it unused without cancelling. According to the written policy, this case calls for", a ten-minute hearing, a full-day hearing,b,a formal penalty
+B2m_055,B2m,A pedestrian crossed an empty street outside the crosswalk. The response chosen by the responsible official was, a day of probation, a month of probation,b,a written reprimand
+B2m_056,B2m,"A pedestrian crossed an empty street outside the crosswalk. According to the written policy, this case calls for", a month of probation, a day of probation,a,a written reprimand
+B2m_057,B2m,A worker submitted an expense receipt one week after the deadline. The response chosen by the responsible official was, a two-month ban, a two-hour ban,a,a temporary ban
+B2m_058,B2m,"A worker submitted an expense receipt one week after the deadline. According to the written policy, this case calls for", a two-hour ban, a two-month ban,b,a temporary ban
+B2m_059,B2m,An angler kept one fish slightly under the size limit. The response chosen by the responsible official was, ten minutes of extra duty, ten hours of extra duty,b,a disciplinary hearing
+B2m_060,B2m,"An angler kept one fish slightly under the size limit. According to the written policy, this case calls for", ten hours of extra duty, ten minutes of extra duty,a,a disciplinary hearing
+B2m_061,B2m,A driver let the parking meter run out by ten minutes. The response chosen by the responsible official was, a fee of 200 dollars, a fee of 2 dollars,a,a fine
+B2m_062,B2m,"A driver let the parking meter run out by ten minutes. According to the written policy, this case calls for", a fee of 2 dollars, a fee of 200 dollars,b,a fine
+B2m_063,B2m,A passenger put a bag on the seat next to them on a crowded bus. The response chosen by the responsible official was, a suspension of ten minutes, a suspension of ten days,b,a suspension
+B2m_064,B2m,"A passenger put a bag on the seat next to them on a crowded bus. According to the written policy, this case calls for", a suspension of ten days, a suspension of ten minutes,a,a suspension
+B2m_065,B2m,A student left a lab bench untidy after an experiment. The response chosen by the responsible official was, a full-day hearing, a ten-minute hearing,a,a formal penalty
+B2m_066,B2m,"A student left a lab bench untidy after an experiment. According to the written policy, this case calls for", a ten-minute hearing, a full-day hearing,b,a formal penalty
+B2m_067,B2m,A member of a coworking space left food in the shared fridge past the Friday cleanup. The response chosen by the responsible official was, a day of probation, a month of probation,b,a written reprimand
+B2m_068,B2m,"A member of a coworking space left food in the shared fridge past the Friday cleanup. According to the written policy, this case calls for", a month of probation, a day of probation,a,a written reprimand
+B2m_069,B2m,A shopper left a shopping cart in the parking lot instead of the return bay. The response chosen by the responsible official was, a two-month ban, a two-hour ban,a,a temporary ban
+B2m_070,B2m,"A shopper left a shopping cart in the parking lot instead of the return bay. According to the written policy, this case calls for", a two-hour ban, a two-month ban,b,a temporary ban
+B2m_071,B2m,A resident put garden waste out in the wrong colored bag. The response chosen by the responsible official was, ten minutes of extra duty, ten hours of extra duty,b,a disciplinary hearing
+B2m_072,B2m,"A resident put garden waste out in the wrong colored bag. According to the written policy, this case calls for", ten hours of extra duty, ten minutes of extra duty,a,a disciplinary hearing
+B2m_073,B2m,An employee wore casual clothes on a day the dress code required formal clothes. The response chosen by the responsible official was, a fee of 200 dollars, a fee of 2 dollars,a,a fine
+B2m_074,B2m,"An employee wore casual clothes on a day the dress code required formal clothes. According to the written policy, this case calls for", a fee of 2 dollars, a fee of 200 dollars,b,a fine
+B2m_075,B2m,A hotel guest checked out one hour late without asking the front desk. The response chosen by the responsible official was, a suspension of ten minutes, a suspension of ten days,b,a suspension
+B2m_076,B2m,"A hotel guest checked out one hour late without asking the front desk. According to the written policy, this case calls for", a suspension of ten days, a suspension of ten minutes,a,a suspension
+B2m_077,B2m,A delivery rider used the bus lane for one block. The response chosen by the responsible official was, a full-day hearing, a ten-minute hearing,a,a formal penalty
+B2m_078,B2m,"A delivery rider used the bus lane for one block. According to the written policy, this case calls for", a ten-minute hearing, a full-day hearing,b,a formal penalty
+B2m_079,B2m,A swimmer used the pool lane reserved for lessons for ten minutes. The response chosen by the responsible official was, a day of probation, a month of probation,b,a written reprimand
+B2m_080,B2m,"A swimmer used the pool lane reserved for lessons for ten minutes. According to the written policy, this case calls for", a month of probation, a day of probation,a,a written reprimand
+B2m_081,B2m,A passenger made a phone call in the train's no-phone carriage. The response chosen by the responsible official was, a two-month ban, a two-hour ban,a,a temporary ban
+B2m_082,B2m,"A passenger made a phone call in the train's no-phone carriage. According to the written policy, this case calls for", a two-hour ban, a two-month ban,b,a temporary ban
+B2m_083,B2m,A student missed one mandatory seminar without notice. The response chosen by the responsible official was, ten minutes of extra duty, ten hours of extra duty,b,a disciplinary hearing
+B2m_084,B2m,"A student missed one mandatory seminar without notice. According to the written policy, this case calls for", ten hours of extra duty, ten minutes of extra duty,a,a disciplinary hearing
+B2m_085,B2m,A ride-share driver started a shift without the company sticker on the window. The response chosen by the responsible official was, a fee of 200 dollars, a fee of 2 dollars,a,a fine
+B2m_086,B2m,"A ride-share driver started a shift without the company sticker on the window. According to the written policy, this case calls for", a fee of 2 dollars, a fee of 200 dollars,b,a fine
+B2m_087,B2m,A citizen filed an annual tax form three days after the deadline. The response chosen by the responsible official was, a suspension of ten minutes, a suspension of ten days,b,a suspension
+B2m_088,B2m,"A citizen filed an annual tax form three days after the deadline. According to the written policy, this case calls for", a suspension of ten days, a suspension of ten minutes,a,a suspension
+B2m_089,B2m,A pupil ran in the school corridor between classes. The response chosen by the responsible official was, a full-day hearing, a ten-minute hearing,a,a formal penalty
+B2m_090,B2m,"A pupil ran in the school corridor between classes. According to the written policy, this case calls for", a ten-minute hearing, a full-day hearing,b,a formal penalty
+B2m_091,B2m,A homeowner watered the lawn on a day when watering was restricted. The response chosen by the responsible official was, a day of probation, a month of probation,b,a written reprimand
+B2m_092,B2m,"A homeowner watered the lawn on a day when watering was restricted. According to the written policy, this case calls for", a month of probation, a day of probation,a,a written reprimand
+B2m_093,B2m,A staff member propped a door open in a building with an access-card rule. The response chosen by the responsible official was, a two-month ban, a two-hour ban,a,a temporary ban
+B2m_094,B2m,"A staff member propped a door open in a building with an access-card rule. According to the written policy, this case calls for", a two-hour ban, a two-month ban,b,a temporary ban
+B2m_095,B2m,A visitor took photos in a museum room where photography was not allowed. The response chosen by the responsible official was, ten minutes of extra duty, ten hours of extra duty,b,a disciplinary hearing
+B2m_096,B2m,"A visitor took photos in a museum room where photography was not allowed. According to the written policy, this case calls for", ten hours of extra duty, ten minutes of extra duty,a,a disciplinary hearing
+B2m_097,B2m,A rental car customer returned the car with the fuel tank slightly below full. The response chosen by the responsible official was, a fee of 200 dollars, a fee of 2 dollars,a,a fine
+B2m_098,B2m,"A rental car customer returned the car with the fuel tank slightly below full. According to the written policy, this case calls for", a fee of 2 dollars, a fee of 200 dollars,b,a fine
+B2m_099,B2m,A volunteer referee arrived at a youth match without the required badge. The response chosen by the responsible official was, a suspension of ten minutes, a suspension of ten days,b,a suspension
+B2m_100,B2m,"A volunteer referee arrived at a youth match without the required badge. According to the written policy, this case calls for", a suspension of ten days, a suspension of ten minutes,a,a suspension
