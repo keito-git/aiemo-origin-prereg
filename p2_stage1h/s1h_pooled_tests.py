@@ -1,8 +1,9 @@
 """Stage 1h registered tests (CPU only; reads s1h_crossed.py outputs, and s1g outputs for the B2 comparison).
 
 Null of a sum/difference = the same sum/difference of the saved null draws, index i with index i (within a model).
-Gate (per model): pos_B2x p < 0.05; valence check mean_gap_B2x > 0 (lenient wording more negative) and
-mean_gap_B2 < 0; judgment check corr_within_pair > 0. If fewer than two models pass, H1 is not testable.
+Gate (per model): pos_B2x p < 0.05; valence check mean_gap_B2x > 0 (lenient wording more negative);
+judgment check corr_within_pair > 0. If fewer than two models pass, H1 is not testable.
+Amendment 01: mean_gap_B2 < 0 was removed from the gate (reported only); H1 needs the crossing in B2x, not in B2.
 Primary: H1 = sum over gated models of Delta_B2x(pc1_neg). Upper p < 0.05: the judgment account.
          Lower p < 0.05: the negative-token account. (Two one-sided readings of one test, reported as p_upper/p_lower.)
 Secondary: the same sum for word_anger, word_eval, word_poseval (two-sided); and
@@ -49,7 +50,7 @@ def main():
              "mean_gap_B2x": j["valence_check"]["mean_gap_B2x"], "mean_gap_B2": j["valence_check"]["mean_gap_B2"],
              "corr_within_pair": j["judgment_check"]["corr_within_pair"], "corr_raw": j["judgment_check"]["corr_raw"],
              "cos_with_1g_min": min(j["cos_with_1g"].values())}
-        c["pass"] = c["pos_p"] < 0.05 and c["mean_gap_B2x"] > 0 and c["mean_gap_B2"] < 0 and c["corr_within_pair"] > 0
+        c["pass"] = c["pos_p"] < 0.05 and c["mean_gap_B2x"] > 0 and c["corr_within_pair"] > 0
         checks[m] = c
         if c["pass"]:
             gate.append(m)
