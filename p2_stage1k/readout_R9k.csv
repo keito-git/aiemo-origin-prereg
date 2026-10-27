@@ -1,0 +1,481 @@
+item_id,task,sev,scen,loc,prompt_qa
+R9K_S_mild_K01,S,mild,K01,0,"Scenario: An employee used the company courier account to send personal parcels from the office. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K02,S,mild,K02,0,"Scenario: A student talked loudly on the phone in the quiet section of the library. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K03,S,mild,K03,0,"Scenario: A shopper opened a packaged snack inside the supermarket and ate it before paying. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K04,S,mild,K04,0,"Scenario: A worker left a box of supplies blocking the hallway of the clinic. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K05,S,mild,K05,0,"Scenario: A student used the school chemistry lab equipment after hours without supervision. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K06,S,mild,K06,0,"Scenario: A passenger played music without headphones inside the train car. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K07,S,mild,K07,0,"Scenario: A gym member left heavy weights on the floor of the gym instead of returning them to the rack. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K08,S,mild,K08,0,"Scenario: A student copied two homework answers from a classmate in the classroom. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K09,S,mild,K09,0,"Scenario: An employee took several pens and notebooks from the office supply cabinet for home use. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K10,S,mild,K10,0,"Scenario: A visitor touched a fragile sculpture inside the museum gallery despite the signs. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K11,S,mild,K11,0,"Scenario: A restaurant worker skipped the required hand-washing step in the kitchen. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K12,S,mild,K12,0,"Scenario: A hotel guest smoked a cigarette inside a non-smoking room. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K13,S,mild,K13,0,"Scenario: An employee shared a login password with a coworker at the office. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K14,S,mild,K14,0,"Scenario: A cinema customer recorded part of the film on a phone inside the theater. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K15,S,mild,K15,0,"Scenario: A nurse left a medication cart unlocked in the hospital corridor. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K16,S,mild,K16,0,"Scenario: A warehouse worker stacked boxes higher than the marked limit inside the storage room. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K17,S,mild,K17,0,"Scenario: An office worker ate a coworker's labeled lunch from the shared kitchen refrigerator. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K18,S,mild,K18,0,"Scenario: A student brought a phone into the exam room against the rules. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K19,S,mild,K19,0,"Scenario: A store clerk gave a friend an unauthorized discount at the checkout counter. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K20,S,mild,K20,0,"Scenario: A lab assistant stored food in the laboratory refrigerator meant for samples. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K21,S,mild,K21,0,"Scenario: A resident propped open the fire door in the apartment stairwell. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K22,S,mild,K22,0,"Scenario: A call center agent ended a customer call early without resolving the issue. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K23,S,mild,K23,0,"Scenario: A patient used a phone to film other patients in the hospital waiting room. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K24,S,mild,K24,0,"Scenario: A factory worker removed a safety guard from a machine on the factory floor. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K25,S,mild,K25,0,"Scenario: An intern opened a confidential file on the office computer without permission. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K26,S,mild,K26,0,"Scenario: A bank teller left the cash drawer open while stepping away from the counter. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K27,S,mild,K27,0,"Scenario: A teacher left a class unsupervised in the classroom for twenty minutes. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K28,S,mild,K28,0,"Scenario: A cook reused frying oil past its replacement date in the restaurant kitchen. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K29,S,mild,K29,0,"Scenario: A pharmacy worker filled a prescription inside the pharmacy without checking the patient's identification. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K30,S,mild,K30,0,"Scenario: A guest at a conference center took extra food from the indoor buffet to bring home. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K31,S,mild,K31,1,"Scenario: A driver parked in a disabled parking space in the outdoor lot of a supermarket. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K32,S,mild,K32,1,"Scenario: A truck driver blocked a fire hydrant on the street for most of the afternoon. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K33,S,mild,K33,1,"Scenario: A resident left bags of trash next to the public bins in the park. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K34,S,mild,K34,1,"Scenario: A hiker walked off the marked trail into a protected area of the forest. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K35,S,mild,K35,1,"Scenario: A parent drove through the school parking lot faster than the posted limit. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K36,S,mild,K36,1,"Scenario: A driver crossed a red light at an empty intersection. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K37,S,mild,K37,1,"Scenario: A camper lit a small fire outside the designated fire pit at the campsite. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K38,S,mild,K38,1,"Scenario: A delivery driver left a van idling in the loading zone of the street for an hour. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K39,S,mild,K39,1,"Scenario: A student skateboarded on the school's outdoor stairs despite a posted ban. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K40,S,mild,K40,1,"Scenario: A resident watered the garden during a citywide water restriction. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K41,S,mild,K41,1,"Scenario: A fisherman caught fish in a section of the river closed for the season. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K42,S,mild,K42,1,"Scenario: A visitor climbed over a fence at an outdoor viewpoint to take photographs. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K43,S,mild,K43,1,"Scenario: A jogger dropped an empty bottle along the riverside path. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K44,S,mild,K44,1,"Scenario: A driver used a phone while driving on the highway. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K45,S,mild,K45,1,"Scenario: A neighbor set off fireworks in the backyard after the permitted hour. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K46,S,mild,K46,1,"Scenario: A worker on a construction site did not wear a hard hat. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K47,S,mild,K47,1,"Scenario: A park visitor picked flowers from the public garden beds. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K48,S,mild,K48,1,"Scenario: A motorcyclist rode without a helmet on a country road. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K49,S,mild,K49,1,"Scenario: A street vendor set up a stall on the sidewalk without a permit. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K50,S,mild,K50,1,"Scenario: A resident parked a car on the lawn of the shared courtyard. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K51,S,mild,K51,1,"Scenario: A boater sped through the marked slow zone of the harbor. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K52,S,mild,K52,1,"Scenario: A golfer drove a cart onto the green of the golf course. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K53,S,mild,K53,1,"Scenario: A tourist carved initials into a tree in the city park. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K54,S,mild,K54,1,"Scenario: A farmer burned crop waste in an open field without a permit. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K55,S,mild,K55,1,"Scenario: A taxi driver stopped in the bus lane on the main road to pick up a passenger. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K56,S,mild,K56,1,"Scenario: A soccer coach held practice on the field after it had been closed for repairs. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K57,S,mild,K57,1,"Scenario: A cyclist rode through the pedestrian zone of the town square. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K58,S,mild,K58,1,"Scenario: A student climbed onto the roof of the outdoor shelter in the schoolyard. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K59,S,mild,K59,1,"Scenario: A resident put up a large sign on a public lamppost without permission. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_mild_K60,S,mild,K60,1,"Scenario: A swimmer swam beyond the buoys at the public beach. The person apologized right away and had a clean record.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K01,S,severe,K01,0,"Scenario: An employee used the company courier account to send personal parcels from the office. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K02,S,severe,K02,0,"Scenario: A student talked loudly on the phone in the quiet section of the library. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K03,S,severe,K03,0,"Scenario: A shopper opened a packaged snack inside the supermarket and ate it before paying. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K04,S,severe,K04,0,"Scenario: A worker left a box of supplies blocking the hallway of the clinic. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K05,S,severe,K05,0,"Scenario: A student used the school chemistry lab equipment after hours without supervision. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K06,S,severe,K06,0,"Scenario: A passenger played music without headphones inside the train car. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K07,S,severe,K07,0,"Scenario: A gym member left heavy weights on the floor of the gym instead of returning them to the rack. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K08,S,severe,K08,0,"Scenario: A student copied two homework answers from a classmate in the classroom. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K09,S,severe,K09,0,"Scenario: An employee took several pens and notebooks from the office supply cabinet for home use. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K10,S,severe,K10,0,"Scenario: A visitor touched a fragile sculpture inside the museum gallery despite the signs. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K11,S,severe,K11,0,"Scenario: A restaurant worker skipped the required hand-washing step in the kitchen. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K12,S,severe,K12,0,"Scenario: A hotel guest smoked a cigarette inside a non-smoking room. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K13,S,severe,K13,0,"Scenario: An employee shared a login password with a coworker at the office. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K14,S,severe,K14,0,"Scenario: A cinema customer recorded part of the film on a phone inside the theater. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K15,S,severe,K15,0,"Scenario: A nurse left a medication cart unlocked in the hospital corridor. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K16,S,severe,K16,0,"Scenario: A warehouse worker stacked boxes higher than the marked limit inside the storage room. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K17,S,severe,K17,0,"Scenario: An office worker ate a coworker's labeled lunch from the shared kitchen refrigerator. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K18,S,severe,K18,0,"Scenario: A student brought a phone into the exam room against the rules. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K19,S,severe,K19,0,"Scenario: A store clerk gave a friend an unauthorized discount at the checkout counter. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K20,S,severe,K20,0,"Scenario: A lab assistant stored food in the laboratory refrigerator meant for samples. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K21,S,severe,K21,0,"Scenario: A resident propped open the fire door in the apartment stairwell. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K22,S,severe,K22,0,"Scenario: A call center agent ended a customer call early without resolving the issue. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K23,S,severe,K23,0,"Scenario: A patient used a phone to film other patients in the hospital waiting room. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K24,S,severe,K24,0,"Scenario: A factory worker removed a safety guard from a machine on the factory floor. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K25,S,severe,K25,0,"Scenario: An intern opened a confidential file on the office computer without permission. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K26,S,severe,K26,0,"Scenario: A bank teller left the cash drawer open while stepping away from the counter. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K27,S,severe,K27,0,"Scenario: A teacher left a class unsupervised in the classroom for twenty minutes. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K28,S,severe,K28,0,"Scenario: A cook reused frying oil past its replacement date in the restaurant kitchen. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K29,S,severe,K29,0,"Scenario: A pharmacy worker filled a prescription inside the pharmacy without checking the patient's identification. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K30,S,severe,K30,0,"Scenario: A guest at a conference center took extra food from the indoor buffet to bring home. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K31,S,severe,K31,1,"Scenario: A driver parked in a disabled parking space in the outdoor lot of a supermarket. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K32,S,severe,K32,1,"Scenario: A truck driver blocked a fire hydrant on the street for most of the afternoon. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K33,S,severe,K33,1,"Scenario: A resident left bags of trash next to the public bins in the park. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K34,S,severe,K34,1,"Scenario: A hiker walked off the marked trail into a protected area of the forest. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K35,S,severe,K35,1,"Scenario: A parent drove through the school parking lot faster than the posted limit. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K36,S,severe,K36,1,"Scenario: A driver crossed a red light at an empty intersection. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K37,S,severe,K37,1,"Scenario: A camper lit a small fire outside the designated fire pit at the campsite. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K38,S,severe,K38,1,"Scenario: A delivery driver left a van idling in the loading zone of the street for an hour. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K39,S,severe,K39,1,"Scenario: A student skateboarded on the school's outdoor stairs despite a posted ban. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K40,S,severe,K40,1,"Scenario: A resident watered the garden during a citywide water restriction. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K41,S,severe,K41,1,"Scenario: A fisherman caught fish in a section of the river closed for the season. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K42,S,severe,K42,1,"Scenario: A visitor climbed over a fence at an outdoor viewpoint to take photographs. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K43,S,severe,K43,1,"Scenario: A jogger dropped an empty bottle along the riverside path. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K44,S,severe,K44,1,"Scenario: A driver used a phone while driving on the highway. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K45,S,severe,K45,1,"Scenario: A neighbor set off fireworks in the backyard after the permitted hour. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K46,S,severe,K46,1,"Scenario: A worker on a construction site did not wear a hard hat. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K47,S,severe,K47,1,"Scenario: A park visitor picked flowers from the public garden beds. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K48,S,severe,K48,1,"Scenario: A motorcyclist rode without a helmet on a country road. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K49,S,severe,K49,1,"Scenario: A street vendor set up a stall on the sidewalk without a permit. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K50,S,severe,K50,1,"Scenario: A resident parked a car on the lawn of the shared courtyard. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K51,S,severe,K51,1,"Scenario: A boater sped through the marked slow zone of the harbor. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K52,S,severe,K52,1,"Scenario: A golfer drove a cart onto the green of the golf course. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K53,S,severe,K53,1,"Scenario: A tourist carved initials into a tree in the city park. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K54,S,severe,K54,1,"Scenario: A farmer burned crop waste in an open field without a permit. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K55,S,severe,K55,1,"Scenario: A taxi driver stopped in the bus lane on the main road to pick up a passenger. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K56,S,severe,K56,1,"Scenario: A soccer coach held practice on the field after it had been closed for repairs. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K57,S,severe,K57,1,"Scenario: A cyclist rode through the pedestrian zone of the town square. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K58,S,severe,K58,1,"Scenario: A student climbed onto the roof of the outdoor shelter in the schoolyard. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K59,S,severe,K59,1,"Scenario: A resident put up a large sign on a public lamppost without permission. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_S_severe_K60,S,severe,K60,1,"Scenario: A swimmer swam beyond the buoys at the public beach. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (no sanction at all) to 9 (the most severe sanction), how severe a sanction does this case deserve? Answer with one digit."
+R9K_C_mild_K01,C,mild,K01,0,"Scenario: An employee used the company courier account to send personal parcels from the office. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K02,C,mild,K02,0,"Scenario: A student talked loudly on the phone in the quiet section of the library. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K03,C,mild,K03,0,"Scenario: A shopper opened a packaged snack inside the supermarket and ate it before paying. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K04,C,mild,K04,0,"Scenario: A worker left a box of supplies blocking the hallway of the clinic. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K05,C,mild,K05,0,"Scenario: A student used the school chemistry lab equipment after hours without supervision. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K06,C,mild,K06,0,"Scenario: A passenger played music without headphones inside the train car. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K07,C,mild,K07,0,"Scenario: A gym member left heavy weights on the floor of the gym instead of returning them to the rack. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K08,C,mild,K08,0,"Scenario: A student copied two homework answers from a classmate in the classroom. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K09,C,mild,K09,0,"Scenario: An employee took several pens and notebooks from the office supply cabinet for home use. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K10,C,mild,K10,0,"Scenario: A visitor touched a fragile sculpture inside the museum gallery despite the signs. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K11,C,mild,K11,0,"Scenario: A restaurant worker skipped the required hand-washing step in the kitchen. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K12,C,mild,K12,0,"Scenario: A hotel guest smoked a cigarette inside a non-smoking room. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K13,C,mild,K13,0,"Scenario: An employee shared a login password with a coworker at the office. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K14,C,mild,K14,0,"Scenario: A cinema customer recorded part of the film on a phone inside the theater. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K15,C,mild,K15,0,"Scenario: A nurse left a medication cart unlocked in the hospital corridor. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K16,C,mild,K16,0,"Scenario: A warehouse worker stacked boxes higher than the marked limit inside the storage room. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K17,C,mild,K17,0,"Scenario: An office worker ate a coworker's labeled lunch from the shared kitchen refrigerator. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K18,C,mild,K18,0,"Scenario: A student brought a phone into the exam room against the rules. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K19,C,mild,K19,0,"Scenario: A store clerk gave a friend an unauthorized discount at the checkout counter. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K20,C,mild,K20,0,"Scenario: A lab assistant stored food in the laboratory refrigerator meant for samples. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K21,C,mild,K21,0,"Scenario: A resident propped open the fire door in the apartment stairwell. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K22,C,mild,K22,0,"Scenario: A call center agent ended a customer call early without resolving the issue. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K23,C,mild,K23,0,"Scenario: A patient used a phone to film other patients in the hospital waiting room. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K24,C,mild,K24,0,"Scenario: A factory worker removed a safety guard from a machine on the factory floor. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K25,C,mild,K25,0,"Scenario: An intern opened a confidential file on the office computer without permission. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K26,C,mild,K26,0,"Scenario: A bank teller left the cash drawer open while stepping away from the counter. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K27,C,mild,K27,0,"Scenario: A teacher left a class unsupervised in the classroom for twenty minutes. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K28,C,mild,K28,0,"Scenario: A cook reused frying oil past its replacement date in the restaurant kitchen. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K29,C,mild,K29,0,"Scenario: A pharmacy worker filled a prescription inside the pharmacy without checking the patient's identification. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K30,C,mild,K30,0,"Scenario: A guest at a conference center took extra food from the indoor buffet to bring home. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K31,C,mild,K31,1,"Scenario: A driver parked in a disabled parking space in the outdoor lot of a supermarket. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K32,C,mild,K32,1,"Scenario: A truck driver blocked a fire hydrant on the street for most of the afternoon. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K33,C,mild,K33,1,"Scenario: A resident left bags of trash next to the public bins in the park. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K34,C,mild,K34,1,"Scenario: A hiker walked off the marked trail into a protected area of the forest. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K35,C,mild,K35,1,"Scenario: A parent drove through the school parking lot faster than the posted limit. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K36,C,mild,K36,1,"Scenario: A driver crossed a red light at an empty intersection. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K37,C,mild,K37,1,"Scenario: A camper lit a small fire outside the designated fire pit at the campsite. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K38,C,mild,K38,1,"Scenario: A delivery driver left a van idling in the loading zone of the street for an hour. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K39,C,mild,K39,1,"Scenario: A student skateboarded on the school's outdoor stairs despite a posted ban. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K40,C,mild,K40,1,"Scenario: A resident watered the garden during a citywide water restriction. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K41,C,mild,K41,1,"Scenario: A fisherman caught fish in a section of the river closed for the season. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K42,C,mild,K42,1,"Scenario: A visitor climbed over a fence at an outdoor viewpoint to take photographs. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K43,C,mild,K43,1,"Scenario: A jogger dropped an empty bottle along the riverside path. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K44,C,mild,K44,1,"Scenario: A driver used a phone while driving on the highway. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K45,C,mild,K45,1,"Scenario: A neighbor set off fireworks in the backyard after the permitted hour. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K46,C,mild,K46,1,"Scenario: A worker on a construction site did not wear a hard hat. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K47,C,mild,K47,1,"Scenario: A park visitor picked flowers from the public garden beds. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K48,C,mild,K48,1,"Scenario: A motorcyclist rode without a helmet on a country road. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K49,C,mild,K49,1,"Scenario: A street vendor set up a stall on the sidewalk without a permit. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K50,C,mild,K50,1,"Scenario: A resident parked a car on the lawn of the shared courtyard. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K51,C,mild,K51,1,"Scenario: A boater sped through the marked slow zone of the harbor. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K52,C,mild,K52,1,"Scenario: A golfer drove a cart onto the green of the golf course. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K53,C,mild,K53,1,"Scenario: A tourist carved initials into a tree in the city park. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K54,C,mild,K54,1,"Scenario: A farmer burned crop waste in an open field without a permit. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K55,C,mild,K55,1,"Scenario: A taxi driver stopped in the bus lane on the main road to pick up a passenger. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K56,C,mild,K56,1,"Scenario: A soccer coach held practice on the field after it had been closed for repairs. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K57,C,mild,K57,1,"Scenario: A cyclist rode through the pedestrian zone of the town square. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K58,C,mild,K58,1,"Scenario: A student climbed onto the roof of the outdoor shelter in the schoolyard. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K59,C,mild,K59,1,"Scenario: A resident put up a large sign on a public lamppost without permission. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_mild_K60,C,mild,K60,1,"Scenario: A swimmer swam beyond the buoys at the public beach. The person apologized right away and had a clean record.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K01,C,severe,K01,0,"Scenario: An employee used the company courier account to send personal parcels from the office. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K02,C,severe,K02,0,"Scenario: A student talked loudly on the phone in the quiet section of the library. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K03,C,severe,K03,0,"Scenario: A shopper opened a packaged snack inside the supermarket and ate it before paying. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K04,C,severe,K04,0,"Scenario: A worker left a box of supplies blocking the hallway of the clinic. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K05,C,severe,K05,0,"Scenario: A student used the school chemistry lab equipment after hours without supervision. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K06,C,severe,K06,0,"Scenario: A passenger played music without headphones inside the train car. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K07,C,severe,K07,0,"Scenario: A gym member left heavy weights on the floor of the gym instead of returning them to the rack. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K08,C,severe,K08,0,"Scenario: A student copied two homework answers from a classmate in the classroom. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K09,C,severe,K09,0,"Scenario: An employee took several pens and notebooks from the office supply cabinet for home use. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K10,C,severe,K10,0,"Scenario: A visitor touched a fragile sculpture inside the museum gallery despite the signs. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K11,C,severe,K11,0,"Scenario: A restaurant worker skipped the required hand-washing step in the kitchen. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K12,C,severe,K12,0,"Scenario: A hotel guest smoked a cigarette inside a non-smoking room. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K13,C,severe,K13,0,"Scenario: An employee shared a login password with a coworker at the office. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K14,C,severe,K14,0,"Scenario: A cinema customer recorded part of the film on a phone inside the theater. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K15,C,severe,K15,0,"Scenario: A nurse left a medication cart unlocked in the hospital corridor. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K16,C,severe,K16,0,"Scenario: A warehouse worker stacked boxes higher than the marked limit inside the storage room. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K17,C,severe,K17,0,"Scenario: An office worker ate a coworker's labeled lunch from the shared kitchen refrigerator. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K18,C,severe,K18,0,"Scenario: A student brought a phone into the exam room against the rules. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K19,C,severe,K19,0,"Scenario: A store clerk gave a friend an unauthorized discount at the checkout counter. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K20,C,severe,K20,0,"Scenario: A lab assistant stored food in the laboratory refrigerator meant for samples. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K21,C,severe,K21,0,"Scenario: A resident propped open the fire door in the apartment stairwell. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K22,C,severe,K22,0,"Scenario: A call center agent ended a customer call early without resolving the issue. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K23,C,severe,K23,0,"Scenario: A patient used a phone to film other patients in the hospital waiting room. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K24,C,severe,K24,0,"Scenario: A factory worker removed a safety guard from a machine on the factory floor. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K25,C,severe,K25,0,"Scenario: An intern opened a confidential file on the office computer without permission. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K26,C,severe,K26,0,"Scenario: A bank teller left the cash drawer open while stepping away from the counter. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K27,C,severe,K27,0,"Scenario: A teacher left a class unsupervised in the classroom for twenty minutes. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K28,C,severe,K28,0,"Scenario: A cook reused frying oil past its replacement date in the restaurant kitchen. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K29,C,severe,K29,0,"Scenario: A pharmacy worker filled a prescription inside the pharmacy without checking the patient's identification. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K30,C,severe,K30,0,"Scenario: A guest at a conference center took extra food from the indoor buffet to bring home. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K31,C,severe,K31,1,"Scenario: A driver parked in a disabled parking space in the outdoor lot of a supermarket. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K32,C,severe,K32,1,"Scenario: A truck driver blocked a fire hydrant on the street for most of the afternoon. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K33,C,severe,K33,1,"Scenario: A resident left bags of trash next to the public bins in the park. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K34,C,severe,K34,1,"Scenario: A hiker walked off the marked trail into a protected area of the forest. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K35,C,severe,K35,1,"Scenario: A parent drove through the school parking lot faster than the posted limit. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K36,C,severe,K36,1,"Scenario: A driver crossed a red light at an empty intersection. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K37,C,severe,K37,1,"Scenario: A camper lit a small fire outside the designated fire pit at the campsite. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K38,C,severe,K38,1,"Scenario: A delivery driver left a van idling in the loading zone of the street for an hour. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K39,C,severe,K39,1,"Scenario: A student skateboarded on the school's outdoor stairs despite a posted ban. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K40,C,severe,K40,1,"Scenario: A resident watered the garden during a citywide water restriction. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K41,C,severe,K41,1,"Scenario: A fisherman caught fish in a section of the river closed for the season. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K42,C,severe,K42,1,"Scenario: A visitor climbed over a fence at an outdoor viewpoint to take photographs. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K43,C,severe,K43,1,"Scenario: A jogger dropped an empty bottle along the riverside path. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K44,C,severe,K44,1,"Scenario: A driver used a phone while driving on the highway. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K45,C,severe,K45,1,"Scenario: A neighbor set off fireworks in the backyard after the permitted hour. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K46,C,severe,K46,1,"Scenario: A worker on a construction site did not wear a hard hat. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K47,C,severe,K47,1,"Scenario: A park visitor picked flowers from the public garden beds. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K48,C,severe,K48,1,"Scenario: A motorcyclist rode without a helmet on a country road. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K49,C,severe,K49,1,"Scenario: A street vendor set up a stall on the sidewalk without a permit. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K50,C,severe,K50,1,"Scenario: A resident parked a car on the lawn of the shared courtyard. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K51,C,severe,K51,1,"Scenario: A boater sped through the marked slow zone of the harbor. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K52,C,severe,K52,1,"Scenario: A golfer drove a cart onto the green of the golf course. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K53,C,severe,K53,1,"Scenario: A tourist carved initials into a tree in the city park. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K54,C,severe,K54,1,"Scenario: A farmer burned crop waste in an open field without a permit. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K55,C,severe,K55,1,"Scenario: A taxi driver stopped in the bus lane on the main road to pick up a passenger. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K56,C,severe,K56,1,"Scenario: A soccer coach held practice on the field after it had been closed for repairs. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K57,C,severe,K57,1,"Scenario: A cyclist rode through the pedestrian zone of the town square. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K58,C,severe,K58,1,"Scenario: A student climbed onto the roof of the outdoor shelter in the schoolyard. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K59,C,severe,K59,1,"Scenario: A resident put up a large sign on a public lamppost without permission. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
+R9K_C_severe_K60,C,severe,K60,1,"Scenario: A swimmer swam beyond the buoys at the public beach. The person had done this many times before, despite several written warnings.
+Question: On a scale from 1 (certainly indoors) to 9 (certainly outdoors), where did this take place? Answer with one digit."
