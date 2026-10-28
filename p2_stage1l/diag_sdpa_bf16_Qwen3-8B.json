@@ -1,0 +1,35 @@
+{
+ "model": "Qwen/Qwen3-8B",
+ "n_tokens": [
+  67,
+  67,
+  67,
+  66,
+  65
+ ],
+ "base:sdpa1_vs_sdpa2": {
+  "max_abs_dp": 0.0,
+  "max_abs_dE": 0.0,
+  "corr_E": 1.0
+ },
+ "base:sdpa1_vs_eager1": {
+  "max_abs_dp": 0.14589852094650269,
+  "max_abs_dE": 0.5967930251790676,
+  "corr_E": 0.9989335616275141
+ },
+ "steer:sdpa1_vs_sdpa2": {
+  "max_abs_dp": 0.0,
+  "max_abs_dE": 0.0,
+  "corr_E": 1.0
+ },
+ "steer:sdpa1_vs_eager1": {
+  "max_abs_dp": 0.1454104483127594,
+  "max_abs_dE": 0.3569594821892679,
+  "corr_E": 0.9986580059896837
+ },
+ "steer_effect_corr_sdpa_eager": 0.9860787650571373,
+ "steer_effect_mean": {
+  "sdpa": -0.5007435828690063,
+  "eager": -0.4980814483706543
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "model": "mistralai/Mistral-7B-Instruct-v0.3",
+ "n_tokens": [
+  78,
+  76,
+  80,
+  75,
+  75
+ ],
+ "base:sdpa1_vs_sdpa2": {
+  "max_abs_dp": 0.0,
+  "max_abs_dE": 0.0,
+  "corr_E": 1.0
+ },
+ "base:sdpa1_vs_eager1": {
+  "max_abs_dp": 0.054881155490875244,
+  "max_abs_dE": 0.20355723332613707,
+  "corr_E": 0.9998109504528081
+ },
+ "steer:sdpa1_vs_sdpa2": {
+  "max_abs_dp": 0.0,
+  "max_abs_dE": 0.0,
+  "corr_E": 1.0
+ },
+ "steer:sdpa1_vs_eager1": {
+  "max_abs_dp": 0.05030941963195801,
+  "max_abs_dE": 0.2838426623493433,
+  "corr_E": 0.9996348015600142
+ },
+ "steer_effect_corr_sdpa_eager": 0.9864871477017177,
+ "steer_effect_mean": {
+  "sdpa": -0.043462218791679184,
+  "eager": -0.043061344127669564
+ }
+}
