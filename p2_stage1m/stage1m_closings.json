@@ -1,0 +1,31 @@
+{
+ "note": "Stage 1m stimuli (2026-10-29).\n1. stage1m_closings.json: neu_hi / neu_lo, a non-emotional intensity contrast (size, height, weight, amount, weather).\n   Sentence k mirrors anger_L[k] / anger_lo[k] (Stage 1d / 1l) in form where possible (same intensifier slot: \"so\",\n   \"absolutely\", \"really\", \"extremely\" vs \"slightly\", \"mildly\", \"fairly\") and has the word count of neutral_C[k].",
+ "neu_hi": [
+  "It was enormous.",
+  "The street was so wide.",
+  "It was absolutely huge.",
+  "I noticed the temperature soaring.",
+  "The bag was extremely heavy too.",
+  "The hall was gigantic.",
+  "The queue was enormous the whole evening.",
+  "It was extremely windy all day.",
+  "It was immense in size.",
+  "The building was extremely tall there.",
+  "The pile was gigantic.",
+  "It filled the entire hall."
+ ],
+ "neu_lo": [
+  "It was large.",
+  "The street was fairly wide.",
+  "It was fairly big.",
+  "I noticed the temperature rising.",
+  "The bag was slightly heavy too.",
+  "The hall was big.",
+  "The queue was long the whole evening.",
+  "It was slightly windy all day.",
+  "It was moderate in size.",
+  "The building was fairly tall there.",
+  "The pile was sizeable.",
+  "It filled half the hall."
+ ]
+}
