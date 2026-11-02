@@ -5,6 +5,7 @@ G1 (main, one-sided): sum over gated models of z_res(int_neg), z standardized by
   null = the same sum over the null index j.
 G2 (two-sided): sum of z_res(int_neg) - z_res(int_neu) (int_neu standardized by pair_neu); null = sum of
   z(r_neg_j) - z(r_neu_j).
+K1/K2 (amendment 01): the same two tests on A_common (common judgment component of S, HARSH, -L).
 """
 from __future__ import annotations
 
@@ -17,6 +18,8 @@ import numpy as np
 from s1n_rating import COLS
 
 I_S, I_U = COLS.index("dslope_S"), COLS.index("dslope_U_bright")
+# res_*: G1/G2 (A_res); common_*: K1/K2 of amendment 01 (A_common, the shared part of S, HARSH, -L beyond G_U)
+SPLITS = ("res_main", "res_sens", "common_main", "common_sens")
 
 
 def zs(x, ref):
@@ -42,21 +45,21 @@ def main():
         dhat = nn["pair_neg"][:, keys.index("Dhat")]
         r = float(np.corrcoef(dhat, dmeas)[0, 1])
         ent = {"r_G0": r, "rebuild_check": j.get("rebuild_check")}
-        for key in ("main", "sens"):
-            k = keys.index(f"A_res_{key}")
+        for key in SPLITS:
+            k = keys.index(f"A_{key}")
             ref_neg, ref_neu = nn["pair_neg"][:, k], nn["pair_neu"][:, k]
-            ent[key] = {"z_neg": float(zs(j["dirs"]["int_neg"][f"A_res_{key}"], ref_neg)),
-                        "z_neu": float(zs(j["dirs"]["int_neu"][f"A_res_{key}"], ref_neu)),
+            ent[key] = {"z_neg": float(zs(j["dirs"]["int_neg"][f"A_{key}"], ref_neg)),
+                        "z_neu": float(zs(j["dirs"]["int_neu"][f"A_{key}"], ref_neu)),
                         "null_neg": zs(ref_neg, ref_neg), "null_neu": zs(ref_neu, ref_neu)}
         per[tag] = ent
 
     res = {"per_model": {t: {"r_G0": e["r_G0"], "rebuild_check": e["rebuild_check"],
-                             **{k: {"z_neg": e[k]["z_neg"], "z_neu": e[k]["z_neu"]} for k in ("main", "sens")}}
+                             **{k: {"z_neg": e[k]["z_neg"], "z_neu": e[k]["z_neu"]} for k in SPLITS}}
                          for t, e in per.items()}}
     for gate in sorted({a.gate, .3, .7}):
         use = [t for t, e in per.items() if e["r_G0"] >= gate]
         g = {"models": use}
-        for key in ("main", "sens"):
+        for key in SPLITS:
             if not use:
                 g[key] = None
                 continue
@@ -70,7 +73,7 @@ def main():
                       "G2_T": float(T2),
                       "G2_p_two": min(1.0, k1 * float((np.sum(np.abs(N2) >= abs(T2)) + 1) / (len(N2) + 1)))}
         res[f"gate_{gate}"] = g
-    res["registered"] = f"gate_{a.gate}/main"
+    res["registered"] = {"G1_G2": f"gate_{a.gate}/res_main", "K1_K2 (amendment 01)": f"gate_{a.gate}/common_main"}
     Path(a.out).write_text(json.dumps(res, indent=1))
     print(json.dumps(res, indent=1))
 

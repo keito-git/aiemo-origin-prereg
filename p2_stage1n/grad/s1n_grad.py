@@ -32,6 +32,7 @@ K9 = np.arange(1, 10)
 W9 = (K9 - K9.mean()) / ((K9 - K9.mean()) @ (K9 - K9.mean()))
 G_U_MAIN = ("U_bright", "U_fam")
 G_U_SENS = ("U_bright", "U_fam", "U_size")
+JUDG = (("S", 1.0), ("HARSH", 1.0), ("L", -1.0))   # judgment readouts, sign-aligned (L = leniency, reversed)
 
 
 def item_grads(model, steer, R: Rating, bs: int = 8) -> np.ndarray:
@@ -186,6 +187,19 @@ def main():
         log["decomp"][key]["item_cos_span"] = {"mean": float(cs.mean()), "q10": float(np.quantile(cs, .1)),
                                                "q50": float(np.median(cs)), "q90": float(np.quantile(cs, .9))}
 
+    # amendment 01: three-component split of the judgment readouts (S, HARSH, -L): scalar part = projection on
+    # span G_U; common = mean of the sign-aligned residuals; encoding-specific = residual minus common
+    j3 = {}
+    for key, names in (("main", G_U_MAIN), ("sens", G_U_SENS)):
+        Q = np.linalg.qr(np.stack([g[t] for t in names]).T)[0]
+        r = {t: s * (g[t] - Q @ (Q.T @ g[t])) for t, s in JUDG}
+        c = np.mean([r[t] for t, _ in JUDG], 0)
+        j3[key] = {"Q": Q, "common": c, "enc_S": r["S"] - c}
+        log.setdefault("j3", {})[key] = {
+            "common_norm_frac_S": float(np.linalg.norm(c) / np.linalg.norm(g["S"])),
+            "resid_cos": {f"{p}|{q}": float(unit(r[p]) @ unit(r[q])) for i, (p, _) in enumerate(JUDG)
+                          for q, _ in JUDG[i + 1:]}}
+
     def metrics(V: np.ndarray) -> dict:
         V = np.atleast_2d(V)
         o = {f"pred_{t}": alpha * V @ g[t] for t in TASKS}
@@ -193,6 +207,10 @@ def main():
             o[f"A_res_{key}"] = alpha * V @ res
             o[f"A_shared_{key}"] = alpha * V @ (sh - g["U_bright"])
         o["Dhat"] = alpha * V @ (g["S"] - g["U_bright"])
+        for key, d3 in j3.items():
+            o[f"A_common_{key}"] = alpha * V @ d3["common"]
+            o[f"A_scalarS_{key}"] = alpha * V @ (d3["Q"] @ (d3["Q"].T @ g["S"]))
+            o[f"A_encS_{key}"] = alpha * V @ d3["enc_S"]
         return o
 
     keys = list(metrics(D["int_neg"]))
@@ -215,7 +233,15 @@ def main():
                 fd = float((sp[task_idx[t]].mean() - sm[task_idx[t]].mean()) / (2 * eps))
                 an = float(u @ g[t])
                 rows.append({"task": t, "fd": fd, "grad": an, "rel_err": abs(fd - an) / max(abs(fd), 1e-12)})
-        log["fd_check"] = {"rows": rows, "median_rel_err": float(np.median([r["rel_err"] for r in rows]))}
+        # amendment 01 criterion: relative error is ill-defined for near-zero projections in bf16, so check
+        # (a) corr(fd, grad) over random directions at alpha/4 and (b) fd/grad along the unit S gradient at alpha/16
+        u = unit(g["S"])
+        e16 = alpha / 16
+        r16 = float((slope(Rall.probs(model, steer, e16 * u), P0)[task_idx["S"]].mean()
+                     - slope(Rall.probs(model, steer, -e16 * u), P0)[task_idx["S"]].mean()) / (2 * e16) / (u @ g["S"]))
+        log["fd_check"] = {"rows": rows, "median_rel_err": float(np.median([r["rel_err"] for r in rows])),
+                           "corr_random": float(np.corrcoef([r["fd"] for r in rows], [r["grad"] for r in rows])[0, 1]),
+                           "gS_ratio_alpha16": r16}
         save()
 
     # measured dslope at alpha and 2 alpha for the four directions (nonlinearity, descriptive)
