@@ -1,0 +1,213 @@
+"""Stage 1p: does the judgment effect of an intensity direction follow its extremity or its emotion?
+(design 02_設計/12_段階1p_感情か大きさか_設計_draft_20261105.md)
+Directions: unit(W_hi - W_lo) for every intensity contrast (emotion: anger, joy, fear, sad, disg, grat; magnitude: neu,
+numA, meaB, plnC, tmpD, dstE, wgtF, slfG, sizH, qtyJ), W_x = unit(mean hidden state of the Stage 1c texts ending in closing set x
+minus the neutral_C texts), at the layer, alpha and covariance of Stages 1n/1o.
+Readouts and effects exactly as Stage 1o (s1o_rating.Readout, readout_R9o_main.csv, the ten readouts; COLS).
+Ratings (no steering, closing sentences alone): extremity, emotion, strength of feeling, pleasantness, arousal, hi - lo
+per contrast (the predictors of the Stage 1p tests; also measured in s1p_probe.py).
+Nulls: n_null variance-matched random directions per contrast (seed 8900 + index of the contrast in CONTRASTS).
+Gradient: mean gradient of every readout over all items at delta = 0 (as Stage 1o), its split, and projections of
+every direction and null (linear, no forward pass).
+"""
+from __future__ import annotations
+
+import argparse
+import json
+import time
+from pathlib import Path
+
+import numpy as np
+import torch
+import transformers
+from transformers import AutoConfig, AutoModelForCausalLM, AutoTokenizer
+
+from s1_light_round import Steer, decoder_layers, last_hidden, load_csv, unit
+from s1d_word_specificity import fast_var_matched
+from s1j_rating import Rating
+from s1m_rating import COV_SETS, Q_EMO, Q_EXT, Q_INT, Q_VAL, SETS
+from s1o_rating import CAT4, COLS, CTRL, DIGIT, JUDG, K9, PAIRS, READ, W9, Readout
+from s1p_probe import PAIRS as CONTRAST_KEYS, Q_ARO
+
+CONTRASTS = tuple(c for c, _, _ in CONTRAST_KEYS)
+EMOTION = ("anger", "joy", "fear", "sad", "disg", "grat")
+MAGNITUDE = ("neu", "numA", "meaB", "plnC", "tmpD", "dstE", "wgtF", "slfG", "sizH", "qtyJ")
+SEED0 = 8900
+assert set(EMOTION) | set(MAGNITUDE) == set(CONTRASTS)
+
+
+def build_readouts(tok, R9):
+    blk = lambda t, rot="": [x for x in R9 if x["task"] == t and x["rot"] == rot]
+    ref = [(x["scen"], x["sev"]) for x in blk("S")]
+    RO = {}
+    for t in DIGIT:
+        it = blk(t)
+        assert [(x["scen"], x["sev"]) for x in it] == ref, t
+        RO[t] = Readout(tok, it, [str(k) for k in K9], np.tile(W9, (len(it), 1)))
+    for t in CAT4:
+        it = sum((blk(t, str(r)) for r in range(4)), [])
+        assert all([(x["scen"], x["sev"]) for x in blk(t, str(r))] == ref for r in range(4)), t
+        rk = np.array([[int(c) for c in x["ranks"]] for x in it], dtype=float)
+        RO[t] = Readout(tok, it, list("ABCD"), (rk - 2.5) / 5.0)
+    it = sum((blk("PAIR", f"{p}{o}") for p in PAIRS for o in "ab"), [])
+    assert len(it) == 720
+    rk = np.array([[int(c) for c in x["ranks"]] for x in it], dtype=float)
+    Wp = np.where(rk == rk.max(1, keepdims=True), 1.0, -1.0)
+    assert all((Wp[i, 1] == 1.0) == (x["rot"][-1] == "a") for i, x in enumerate(it))
+    RO["PAIR"] = Readout(tok, it, list("AB"), Wp)
+    return RO, np.array([x["rot"][:2] for x in RO["PAIR"].items])
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--model", required=True)
+    ap.add_argument("--revision", required=True)
+    ap.add_argument("--stim", required=True)
+    ap.add_argument("--out", required=True)
+    ap.add_argument("--depth", type=float, default=0.33)
+    ap.add_argument("--alpha_frac", type=float, default=0.2)
+    ap.add_argument("--n_null", type=int, default=100)
+    a = ap.parse_args()
+    out = Path(a.out)
+    out.mkdir(parents=True, exist_ok=True)
+    tag = f"{a.model.split('/')[-1]}_d{a.depth}"
+    log = {"args": vars(a), "seed0": SEED0, "contrasts": CONTRASTS, "readouts": READ, "cols": COLS, "t0": time.time(),
+           "env": {"torch": torch.__version__, "transformers": transformers.__version__}}
+
+    def save():
+        (out / f"s1p_{tag}.json").write_text(json.dumps(log, indent=1, default=float))
+
+    S = Path(a.stim)
+    items = [json.loads(x) for x in open(S / "raw_generation" / "stage1c_anger.jsonl") if x.strip()]
+    cl = {}
+    for f in ("stage1d", "stage1f", "stage1l", "stage1m", "stage1o_neu", "stage1p"):
+        cl |= json.load(open(S / f"{f}_closings.json"))
+    K = len(cl["neutral_C"])
+    keys = sorted({k for _, h, l in CONTRAST_KEYS for k in (h, l)} | set(SETS.values()))
+    assert all(len(cl[k]) == K for k in keys)
+    ks = np.array([i % K for i in range(len(items))])
+    texts = {}
+    for i, it in enumerate(items):
+        for sit in ("S", "N"):
+            texts.setdefault(f"{sit}|neutral_C", []).append(f"{it[sit]} {cl['neutral_C'][ks[i]]}")
+            for k in keys:
+                texts.setdefault(f"{sit}|{k}", []).append(f"{it[sit]} {cl[k][ks[i]]}")
+    ctx = load_csv(S / "contexts.csv")
+    C_ctx = [r["text"] for r in ctx if r["split"] == "train"][:128] + [r["text"] for r in ctx if r["split"] == "dev"]
+    R9 = load_csv(S / "readout_R9o_main.csv")
+    for x in R9:
+        x["prompt"] = x["prompt_qa"] + "\nAnswer:"
+
+    cfg = AutoConfig.from_pretrained(a.model, revision=a.revision)
+    tok = AutoTokenizer.from_pretrained(a.model, revision=a.revision)
+    model = AutoModelForCausalLM.from_pretrained(a.model, revision=a.revision, dtype=torch.bfloat16,
+                                                 device_map="cuda", low_cpu_mem_usage=True).eval()
+    model.requires_grad_(False)
+    L = int(round(a.depth * cfg.num_hidden_layers))
+    log["layer"] = L
+    steer = Steer(decoder_layers(model)[L - 1])
+
+    with torch.no_grad():
+        H = {k: last_hidden(model, tok, v, L) for k, v in texts.items()}
+        H_ctx = last_hidden(model, tok, C_ctx, L)
+    hdim = H_ctx.shape[1]
+    alpha = a.alpha_frac * float(np.linalg.norm(H_ctx, axis=1).mean())
+    # covariance exactly as Stages 1n/1o: contexts + neutral_C + the COV_SETS closings
+    cov_keys = ["neutral_C"] + [SETS[x] for x in COV_SETS]
+    Ac = np.concatenate([H_ctx] + [H[f"{s}|{k}"] for k in cov_keys for s in ("S", "N")])
+    Ac = Ac - Ac.mean(0)
+    evals, evecs = np.linalg.eigh(np.cov(Ac.T))
+    m = {k: v.mean(0) for k, v in H.items()}
+    W = {k: unit((m[f"S|{k}"] + m[f"N|{k}"]) / 2 - (m["S|neutral_C"] + m["N|neutral_C"]) / 2) for k in keys}
+    D = {c: unit(W[h] - W[l]) for c, h, l in CONTRAST_KEYS}
+    np.save(out / f"s1p_dirs_{tag}.npy", np.stack([D[c] for c in CONTRASTS]))
+    log.update({"alpha": alpha,
+                "cos": {f"{p}|{q}": float(D[p] @ D[q]) for i, p in enumerate(CONTRASTS) for q in CONTRASTS[i + 1:]},
+                "var": {c: float(np.var(Ac @ D[c])) for c in CONTRASTS}})
+    save()
+
+    # ratings of the closing sentences alone (no steering)
+    def closing_items(q, key):
+        return [{"item_id": f"{key}_{i}", "prompt": f"Sentence: {s}\nQuestion: {q}\nAnswer:"}
+                for i, s in enumerate(cl[key])]
+
+    rat = {}
+    for c, h, l in CONTRAST_KEYS:
+        r = {}
+        for qn, q in (("ext", Q_EXT), ("emo", Q_EMO), ("int", Q_INT), ("val", Q_VAL), ("aro", Q_ARO)):
+            e = Rating(tok, closing_items(q, h) + closing_items(q, l)).score(model, steer, None)
+            d = e[:K] - e[K:]
+            r[qn] = {"mean": float(d.mean()), "frac_pos": float((d > 0).mean()), "hi_mean": float(e[:K].mean()),
+                     "lo_mean": float(e[K:].mean())}
+        rat[c] = r
+    log["ratings"] = rat
+    save()
+
+    RO, pair_of = build_readouts(tok, R9)
+    base = {t: r.logp(model, steer, None) for t, r in RO.items()}
+    log["base"] = {"digit_mean": {t: float((np.exp(base[t]) @ K9).mean()) for t in DIGIT}}
+
+    def effects(v, per_item: bool = False):
+        o, items_ = {}, {}
+        for t in READ:
+            r = RO[t]
+            d = ((r.logp(model, steer, alpha * v) - base[t]) * r.W).sum(1)
+            o[t] = d.mean()
+            o[f"even_{t}"] = d[r.even].mean()
+            if t == "PAIR":
+                for p in PAIRS:
+                    o[f"PAIR_{p}"] = d[pair_of == p].mean()
+            items_[t] = d
+        vec = np.array([o[c] for c in COLS])
+        return (vec, items_) if per_item else vec
+
+    res = log.setdefault("res", {"effects": {}, "null": {}})
+    per_item = {}
+    for c in CONTRASTS:
+        vec, it_ = effects(D[c], per_item=True)
+        res["effects"][c] = dict(zip(COLS, vec.tolist()))
+        per_item[c] = it_
+    np.savez(out / f"s1p_items_{tag}.npz", **{f"{c}__{t}": per_item[c][t] for c in CONTRASTS for t in READ})
+    save()
+
+    # gradient and its split (as Stage 1o)
+    t1 = time.time()
+    G = {t: RO[t].grads(model, steer, hdim, np.ones(len(RO[t].W), bool)) / len(RO[t].W) for t in READ}
+    Q = np.linalg.qr(np.stack([G[t] for t in CTRL]).T)[0]
+    sgn = {t: (-1.0 if t == "L" else 1.0) for t in JUDG}
+    r_ = {t: sgn[t] * (G[t] - Q @ (Q.T @ G[t])) for t in JUDG}
+    shared = np.mean([r_[t] for t in JUDG], 0)
+    comp = {"shared": shared,
+            "digit_specific": np.mean([r_[t] for t in ("S", "HARSH", "L")], 0) - shared}
+    np.save(out / f"s1p_grads_{tag}.npy", np.stack([G[t] for t in READ] + [comp[k] for k in comp]))
+    log["grad"] = {"t_s": time.time() - t1, "norm": {t: float(np.linalg.norm(G[t])) for t in READ}}
+
+    def proj(V):
+        V = np.atleast_2d(V)
+        return np.stack([alpha * V @ comp[k] for k in comp] + [alpha * V @ G[t] for t in READ], 1)
+
+    PROJ_COLS = tuple(comp) + tuple(f"pred_{t}" for t in READ)
+    log["grad"]["proj_cols"] = PROJ_COLS
+    log["grad"]["proj_dirs"] = {c: dict(zip(PROJ_COLS, proj(D[c])[0].tolist())) for c in CONTRASTS}
+    save()
+
+    # nulls: variance-matched random directions per contrast
+    for i, c in enumerate(CONTRASTS):
+        tv = float(np.var(Ac @ D[c]))
+        rs = fast_var_matched(np.random.default_rng(SEED0 + i), evals, evecs, len(Ac), tv, a.n_null)
+        np.save(out / f"s1p_proj_null_{c}_{tag}.npy", proj(np.stack(rs)))
+        z = np.full((len(rs), len(COLS)), np.nan)
+        for j, v in enumerate(rs):
+            z[j] = effects(v)
+            if j % 50 == 49 or j == len(rs) - 1:
+                np.save(out / f"s1p_null_{c}_{tag}.npy", z[:j + 1])
+        res["null"][c] = {"n": len(rs), "var_check": float(np.median([np.var(Ac @ r) for r in rs]) / tv)}
+        save()
+
+    log["t_total_s"] = time.time() - log["t0"]
+    save()
+    print(json.dumps({c: {k: round(v["mean"], 2) for k, v in rat[c].items()} for c in CONTRASTS}, indent=1))
+
+
+if __name__ == "__main__":
+    main()
