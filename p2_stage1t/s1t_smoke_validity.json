@@ -1,0 +1,257 @@
+{
+ "Llama-3.1-8B": {
+  "complete": true,
+  "n_null_pair": 20,
+  "min_attainable_p": 0.047619047619047616,
+  "summ": {
+   "S": {
+    "severity_effect": 2.523264942068709,
+    "frac_pos": 1.0,
+    "frac_neg": 0.0,
+    "rho_mild_severe": -0.1547395768359507,
+    "rho_with_S": 1.0
+   },
+   "HARSH": {
+    "severity_effect": 1.6971554586618434,
+    "frac_pos": 1.0,
+    "frac_neg": 0.0,
+    "rho_mild_severe": -0.1751472879539443,
+    "rho_with_S": 0.949938102116663
+   },
+   "L": {
+    "severity_effect": -0.19227573121144426,
+    "frac_pos": 0.23333333333333334,
+    "frac_neg": 0.7666666666666667,
+    "rho_mild_severe": 0.052116041904020895,
+    "rho_with_S": -0.48107828432757405
+   },
+   "CAT_S": {
+    "severity_effect": 0.7038831618184139,
+    "frac_pos": 1.0,
+    "frac_neg": 0.0,
+    "rho_mild_severe": 0.24573492636843575,
+    "rho_with_S": 0.859977880371253,
+    "rot_consistency": 0.9603480420370288
+   },
+   "CAT_S2": {
+    "severity_effect": 0.4666178335718125,
+    "frac_pos": 1.0,
+    "frac_neg": 0.0,
+    "rho_mild_severe": 0.64256737982773,
+    "rho_with_S": 0.8372505681840666,
+    "rot_consistency": 0.9284377531589246
+   },
+   "PAIR": {
+    "severity_effect": 0.6427083366860947,
+    "frac_pos": 1.0,
+    "frac_neg": 0.0,
+    "rho_mild_severe": 0.341129708533566,
+    "rho_with_S": 0.8435837961122079,
+    "order_consistency": 0.7086836318720877
+   },
+   "U_bright": {
+    "severity_effect": -0.18776311420161892,
+    "frac_pos": 0.25,
+    "frac_neg": 0.75,
+    "rho_mild_severe": 0.19649581174209194,
+    "rho_with_S": -0.32153479405878566
+   },
+   "U_fam": {
+    "severity_effect": 0.24066581809879234,
+    "frac_pos": 0.8833333333333333,
+    "frac_neg": 0.11666666666666667,
+    "rho_mild_severe": 0.7782100086137429,
+    "rho_with_S": 0.3478970469950146
+   },
+   "CAT_U": {
+    "severity_effect": 0.0816653551341168,
+    "frac_pos": 1.0,
+    "frac_neg": 0.0,
+    "rho_mild_severe": 0.9307585440400112,
+    "rho_with_S": 0.35184796140056046,
+    "rot_consistency": 0.8254947039441123
+   },
+   "CAT_R": {
+    "severity_effect": 0.02772490458465821,
+    "frac_pos": 0.6666666666666666,
+    "frac_neg": 0.3333333333333333,
+    "rho_mild_severe": 0.9717143651014173,
+    "rho_with_S": 0.17553332789339585,
+    "rot_consistency": 0.8694807030965929
+   }
+  },
+  "valid_noSteer": {
+   "S": true,
+   "HARSH": true,
+   "L": false,
+   "CAT_S": false,
+   "CAT_S2": false,
+   "PAIR": false,
+   "U_bright": false,
+   "U_fam": false,
+   "CAT_U": false,
+   "CAT_R": true
+  },
+  "pos_p": {
+   "S": 0.047619047619047616,
+   "HARSH": 0.047619047619047616,
+   "L": 0.047619047619047616,
+   "CAT_S": 0.047619047619047616,
+   "CAT_S2": 0.047619047619047616,
+   "PAIR": 0.047619047619047616,
+   "U_bright": 0.047619047619047616,
+   "U_fam": 0.047619047619047616,
+   "CAT_U": 0.047619047619047616,
+   "CAT_R": 0.047619047619047616
+  },
+  "valid": {
+   "S": true,
+   "HARSH": true,
+   "L": false,
+   "CAT_S": false,
+   "CAT_S2": false,
+   "PAIR": false,
+   "U_bright": false,
+   "U_fam": false,
+   "CAT_U": false,
+   "CAT_R": true
+  },
+  "valid_judgment": [
+   "S",
+   "HARSH"
+  ],
+  "valid_control": [
+   "CAT_R"
+  ],
+  "anger_ok": true,
+  "enter": false
+ },
+ "OLMo-2-1124-7B": {
+  "complete": true,
+  "n_null_pair": 20,
+  "min_attainable_p": 0.047619047619047616,
+  "summ": {
+   "S": {
+    "severity_effect": 1.4593914956657825,
+    "frac_pos": 1.0,
+    "frac_neg": 0.0,
+    "rho_mild_severe": 0.6443456515698807,
+    "rho_with_S": 1.0
+   },
+   "HARSH": {
+    "severity_effect": 1.7870230825965636,
+    "frac_pos": 1.0,
+    "frac_neg": 0.0,
+    "rho_mild_severe": 0.5712142261739374,
+    "rho_with_S": 0.9783040488922842
+   },
+   "L": {
+    "severity_effect": -0.4903210507398194,
+    "frac_pos": 0.0,
+    "frac_neg": 1.0,
+    "rho_mild_severe": 0.5035843289802724,
+    "rho_with_S": -0.803646086533787
+   },
+   "CAT_S": {
+    "severity_effect": 0.3094184697051555,
+    "frac_pos": 1.0,
+    "frac_neg": 0.0,
+    "rho_mild_severe": 0.5801055848846903,
+    "rho_with_S": 0.8901659837488712,
+    "rot_consistency": 0.8768444567909807
+   },
+   "CAT_S2": {
+    "severity_effect": 0.21846212602575002,
+    "frac_pos": 1.0,
+    "frac_neg": 0.0,
+    "rho_mild_severe": 0.7216449013614894,
+    "rho_with_S": 0.8523578026251821,
+    "rot_consistency": 0.8294719540708845
+   },
+   "PAIR": {
+    "severity_effect": 0.3297885494927566,
+    "frac_pos": 1.0,
+    "frac_neg": 0.0,
+    "rho_mild_severe": 0.45101417060294535,
+    "rho_with_S": 0.8607472741162578,
+    "order_consistency": -0.004161934080711083
+   },
+   "U_bright": {
+    "severity_effect": -0.025651739677157823,
+    "frac_pos": 0.4166666666666667,
+    "frac_neg": 0.5833333333333334,
+    "rho_mild_severe": 0.7717699360933594,
+    "rho_with_S": -0.07126189318702687
+   },
+   "U_fam": {
+    "severity_effect": -0.26099131748784404,
+    "frac_pos": 0.06666666666666667,
+    "frac_neg": 0.9333333333333333,
+    "rho_mild_severe": 0.7349819394276189,
+    "rho_with_S": -0.3618445725397596
+   },
+   "CAT_U": {
+    "severity_effect": 0.08454463606984411,
+    "frac_pos": 1.0,
+    "frac_neg": 0.0,
+    "rho_mild_severe": 0.9668241178105033,
+    "rho_with_S": 0.3620529203416903,
+    "rot_consistency": 0.7103097437322035
+   },
+   "CAT_R": {
+    "severity_effect": -0.004127209414803201,
+    "frac_pos": 0.5166666666666667,
+    "frac_neg": 0.48333333333333334,
+    "rho_mild_severe": 0.9622117254793001,
+    "rho_with_S": 0.00686158761025071,
+    "rot_consistency": 0.5577389633539366
+   }
+  },
+  "valid_noSteer": {
+   "S": true,
+   "HARSH": true,
+   "L": false,
+   "CAT_S": false,
+   "CAT_S2": false,
+   "PAIR": false,
+   "U_bright": true,
+   "U_fam": false,
+   "CAT_U": false,
+   "CAT_R": true
+  },
+  "pos_p": {
+   "S": 0.047619047619047616,
+   "HARSH": 0.047619047619047616,
+   "L": 0.047619047619047616,
+   "CAT_S": 0.047619047619047616,
+   "CAT_S2": 0.047619047619047616,
+   "PAIR": 0.047619047619047616,
+   "U_bright": 0.047619047619047616,
+   "U_fam": 0.047619047619047616,
+   "CAT_U": 0.047619047619047616,
+   "CAT_R": 0.047619047619047616
+  },
+  "valid": {
+   "S": true,
+   "HARSH": true,
+   "L": false,
+   "CAT_S": false,
+   "CAT_S2": false,
+   "PAIR": false,
+   "U_bright": true,
+   "U_fam": false,
+   "CAT_U": false,
+   "CAT_R": true
+  },
+  "valid_judgment": [
+   "S",
+   "HARSH"
+  ],
+  "valid_control": [
+   "U_bright",
+   "CAT_R"
+  ],
+  "anger_ok": true,
+  "enter": false
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Llama-3.1-Tulu-3-8B-SFT": {
+  "max_abs_diff": 2.6645352591003757e-15
+ },
+ "Llama-3.1-Tulu-3-8B-DPO": {
+  "max_abs_diff": 4.440892098500626e-15
+ },
+ "OLMo-2-1124-7B-SFT": {
+  "max_abs_diff": 3.497202527569243e-15
+ },
+ "OLMo-2-1124-7B-DPO": {
+  "max_abs_diff": 4.218847493575595e-15
+ },
+ "Llama-3.1-8B-Instruct": {
+  "max_abs_diff": 5.329070518200751e-15
+ },
+ "Qwen3-8B": {
+  "max_abs_diff": 3.9968028886505635e-15
+ },
+ "llm-jp-4-8b-instruct": {
+  "max_abs_diff": 9.325873406851315e-15
+ },
+ "OLMo-2-1124-7B-Instruct": {
+  "max_abs_diff": 4.551914400963142e-15
+ },
+ "Mistral-7B-Instruct-v0.3": {
+  "max_abs_diff": 2.3592239273284576e-15
+ },
+ "granite-3.1-8b-instruct": {
+  "max_abs_diff": 1.7763568394002505e-15
+ },
+ "Llama-3.1-Tulu-3-8B": {
+  "max_abs_diff": 2.6645352591003757e-15
+ }
+}
