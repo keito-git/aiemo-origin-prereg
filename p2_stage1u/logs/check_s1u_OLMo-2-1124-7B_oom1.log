@@ -1,0 +1,21 @@
+Loading checkpoint shards:   0%|          | 0/6 [00:00<?, ?it/s]Loading checkpoint shards:  17%|█▋        | 1/6 [00:08<00:41,  8.26s/it]Loading checkpoint shards:  33%|███▎      | 2/6 [00:17<00:34,  8.58s/it]Loading checkpoint shards:  50%|█████     | 3/6 [00:25<00:25,  8.61s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:34<00:17,  8.57s/it]Loading checkpoint shards:  67%|██████▋   | 4/6 [00:39<00:19,  9.81s/it]
+Traceback (most recent call last):
+  File "/root/aiemo/p2/code/s1u_run.py", line 128, in <module>
+    check(rest)
+  File "/root/aiemo/p2/code/s1u_run.py", line 100, in check
+    model = AutoModelForCausalLM.from_pretrained(a.model, revision=a.revision, dtype=torch.bfloat16,
+  File "/root/aiemo/venv/lib/python3.10/site-packages/transformers/models/auto/auto_factory.py", line 604, in from_pretrained
+    return model_class.from_pretrained(
+  File "/root/aiemo/venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 277, in _wrapper
+    return func(*args, **kwargs)
+  File "/root/aiemo/venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5048, in from_pretrained
+    ) = cls._load_pretrained_model(
+  File "/root/aiemo/venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5468, in _load_pretrained_model
+    _error_msgs, disk_offload_index = load_shard_file(args)
+  File "/root/aiemo/venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 843, in load_shard_file
+    disk_offload_index = _load_state_dict_into_meta_model(
+  File "/root/aiemo/venv/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 124, in decorate_context
+    return func(*args, **kwargs)
+  File "/root/aiemo/venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 770, in _load_state_dict_into_meta_model
+    _load_parameter_into_model(model, param_name, param.to(param_device))
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 86.00 MiB. GPU 0 has a total capacity of 94.97 GiB of which 52.44 MiB is free. Process 111006 has 34.61 GiB memory in use. Process 111005 has 12.77 GiB memory in use. Process 118172 has 36.61 GiB memory in use. Including non-PyTorch memory, this process has 10.91 GiB memory in use. Of the allocated memory 10.36 GiB is allocated by PyTorch, and 13.22 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://docs.pytorch.org/docs/stable/notes/cuda.html#optimizing-memory-usage-with-pytorch-cuda-alloc-conf)
