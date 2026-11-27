@@ -1,0 +1,295 @@
+{
+ "n_tasks": 28,
+ "primary_sets": [
+  "1",
+  "2"
+ ],
+ "rule": "plan 21 §1.2 and §3.2",
+ "variants": {
+  "D0|P2": {
+   "n_both_primary": 12,
+   "n_per_set": {
+    "1": 13,
+    "2": 12,
+    "Ka": 13,
+    "Kb": 13,
+    "3": 12
+   },
+   "tasks_both": [
+    "N3",
+    "N4",
+    "N9",
+    "V1",
+    "V10",
+    "V11",
+    "V12",
+    "V15",
+    "V16",
+    "V4",
+    "V6",
+    "V7"
+   ]
+  },
+  "D1|P2": {
+   "n_both_primary": 11,
+   "n_per_set": {
+    "1": 13,
+    "2": 11,
+    "Ka": 13,
+    "Kb": 14,
+    "3": 12
+   },
+   "tasks_both": [
+    "N4",
+    "N9",
+    "V1",
+    "V10",
+    "V11",
+    "V12",
+    "V15",
+    "V16",
+    "V4",
+    "V6",
+    "V7"
+   ]
+  },
+  "D2|P2": {
+   "n_both_primary": 13,
+   "n_per_set": {
+    "1": 15,
+    "2": 14,
+    "Ka": 13,
+    "Kb": 13,
+    "3": 13
+   },
+   "tasks_both": [
+    "N3",
+    "N4",
+    "N9",
+    "V1",
+    "V10",
+    "V11",
+    "V12",
+    "V15",
+    "V16",
+    "V2",
+    "V4",
+    "V6",
+    "V7"
+   ]
+  },
+  "D12|P2": {
+   "n_both_primary": 12,
+   "n_per_set": {
+    "1": 14,
+    "2": 12,
+    "Ka": 13,
+    "Kb": 14,
+    "3": 12
+   },
+   "tasks_both": [
+    "N4",
+    "N9",
+    "V1",
+    "V10",
+    "V11",
+    "V12",
+    "V15",
+    "V16",
+    "V2",
+    "V4",
+    "V6",
+    "V7"
+   ]
+  },
+  "D0|harmonized": {
+   "n_both_primary": 13,
+   "n_per_set": {
+    "1": 15,
+    "2": 14,
+    "Ka": 13,
+    "Kb": 14,
+    "3": 13
+   },
+   "tasks_both": [
+    "N3",
+    "N4",
+    "N9",
+    "V1",
+    "V10",
+    "V11",
+    "V12",
+    "V15",
+    "V16",
+    "V4",
+    "V6",
+    "V7",
+    "V9"
+   ]
+  },
+  "D1|harmonized": {
+   "n_both_primary": 12,
+   "n_per_set": {
+    "1": 16,
+    "2": 12,
+    "Ka": 13,
+    "Kb": 14,
+    "3": 12
+   },
+   "tasks_both": [
+    "N4",
+    "N9",
+    "V1",
+    "V10",
+    "V11",
+    "V12",
+    "V15",
+    "V16",
+    "V4",
+    "V6",
+    "V7",
+    "V9"
+   ]
+  },
+  "D2|harmonized": {
+   "n_both_primary": 14,
+   "n_per_set": {
+    "1": 17,
+    "2": 15,
+    "Ka": 13,
+    "Kb": 14,
+    "3": 13
+   },
+   "tasks_both": [
+    "N3",
+    "N4",
+    "N9",
+    "V1",
+    "V10",
+    "V11",
+    "V12",
+    "V15",
+    "V16",
+    "V2",
+    "V4",
+    "V6",
+    "V7",
+    "V9"
+   ]
+  },
+  "D12|harmonized": {
+   "n_both_primary": 13,
+   "n_per_set": {
+    "1": 17,
+    "2": 13,
+    "Ka": 13,
+    "Kb": 14,
+    "3": 12
+   },
+   "tasks_both": [
+    "N4",
+    "N9",
+    "V1",
+    "V10",
+    "V11",
+    "V12",
+    "V15",
+    "V16",
+    "V2",
+    "V4",
+    "V6",
+    "V7",
+    "V9"
+   ]
+  }
+ },
+ "chosen": {
+  "variant": "D2",
+  "presentation": "cyc",
+  "pairs": "far",
+  "cat_threshold": "harmonized",
+  "cat_effect_min": 0.375,
+  "n_both_primary": 14
+ },
+ "k3_candidates": {
+  "Ka": {
+   "labels": [
+    "H",
+    "K",
+    "R",
+    "W"
+   ],
+   "median_cat_consistency": 0.8858340279707329,
+   "n_enter": 13,
+   "n_enter_set1": 17,
+   "admissible": false
+  },
+  "Kb": {
+   "labels": [
+    "G",
+    "N",
+    "P",
+    "T"
+   ],
+   "median_cat_consistency": 0.8980874316939893,
+   "n_enter": 14,
+   "n_enter_set1": 17,
+   "admissible": false
+  },
+  "3": {
+   "labels": [
+    "ψ",
+    "ξ",
+    "ζ",
+    "θ"
+   ],
+   "median_cat_consistency": 0.8347510767150713,
+   "n_enter": 13,
+   "n_enter_set1": 17,
+   "admissible": false
+  }
+ },
+ "k3_maps_frozen": [],
+ "readout_medians": {
+  "1|CAT": {
+   "severity_effect": 1.0455457932661345,
+   "rho_with_S": 0.8656015559877746
+  },
+  "1|PAIR": {
+   "severity_effect": 2.709722218335567,
+   "rho_with_S": 0.8369941162744414
+  },
+  "2|CAT": {
+   "severity_effect": 0.9376103870514104,
+   "rho_with_S": 0.8749374826340652
+  },
+  "2|PAIR": {
+   "severity_effect": 2.7545138840959735,
+   "rho_with_S": 0.8333483689403157
+  },
+  "Ka|CAT": {
+   "severity_effect": 0.9569866869800862,
+   "rho_with_S": 0.8916643512086693
+  },
+  "Ka|PAIR": {
+   "severity_effect": 2.6697916761777982,
+   "rho_with_S": 0.8396221172547931
+  },
+  "Kb|CAT": {
+   "severity_effect": 1.0135540998400467,
+   "rho_with_S": 0.8790219505418173
+  },
+  "Kb|PAIR": {
+   "severity_effect": 2.865972214560154,
+   "rho_with_S": 0.8417119035941016
+  },
+  "3|CAT": {
+   "severity_effect": 0.9662802452492179,
+   "rho_with_S": 0.8624062239510978
+  },
+  "3|PAIR": {
+   "severity_effect": 2.612500010653942,
+   "rho_with_S": 0.8451236454570715
+  }
+ }
+}

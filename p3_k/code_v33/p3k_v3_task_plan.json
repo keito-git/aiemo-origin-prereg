@@ -1,0 +1,194 @@
+{
+ "V17": {
+  "domain": "D1",
+  "ctrl": "CODE"
+ },
+ "V18": {
+  "domain": "D1",
+  "ctrl": "NAME"
+ },
+ "V19": {
+  "domain": "D1",
+  "ctrl": "NAME"
+ },
+ "V20": {
+  "domain": "D1",
+  "ctrl": "CODE"
+ },
+ "N13": {
+  "domain": "D1",
+  "ctrl": "CODE"
+ },
+ "N14": {
+  "domain": "D1",
+  "ctrl": "NAME"
+ },
+ "N15": {
+  "domain": "D1",
+  "ctrl": "CODE"
+ },
+ "N16": {
+  "domain": "D1",
+  "ctrl": "NAME"
+ },
+ "V21": {
+  "domain": "D2",
+  "ctrl": "NAME"
+ },
+ "V22": {
+  "domain": "D2",
+  "ctrl": "CODE"
+ },
+ "V23": {
+  "domain": "D2",
+  "ctrl": "NAME"
+ },
+ "V24": {
+  "domain": "D2",
+  "ctrl": "CODE"
+ },
+ "N17": {
+  "domain": "D2",
+  "ctrl": "CODE"
+ },
+ "N18": {
+  "domain": "D2",
+  "ctrl": "NAME"
+ },
+ "N19": {
+  "domain": "D2",
+  "ctrl": "CODE"
+ },
+ "N20": {
+  "domain": "D2",
+  "ctrl": "NAME"
+ },
+ "V25": {
+  "domain": "D3",
+  "ctrl": "NAME"
+ },
+ "V26": {
+  "domain": "D3",
+  "ctrl": "CODE"
+ },
+ "V27": {
+  "domain": "D3",
+  "ctrl": "CODE"
+ },
+ "V28": {
+  "domain": "D3",
+  "ctrl": "NAME"
+ },
+ "N21": {
+  "domain": "D3",
+  "ctrl": "CODE"
+ },
+ "N22": {
+  "domain": "D3",
+  "ctrl": "CODE"
+ },
+ "N23": {
+  "domain": "D3",
+  "ctrl": "NAME"
+ },
+ "N24": {
+  "domain": "D3",
+  "ctrl": "NAME"
+ },
+ "V29": {
+  "domain": "D4",
+  "ctrl": "CODE"
+ },
+ "V30": {
+  "domain": "D4",
+  "ctrl": "NAME"
+ },
+ "V31": {
+  "domain": "D4",
+  "ctrl": "CODE"
+ },
+ "V32": {
+  "domain": "D4",
+  "ctrl": "NAME"
+ },
+ "N25": {
+  "domain": "D4",
+  "ctrl": "CODE"
+ },
+ "N26": {
+  "domain": "D4",
+  "ctrl": "NAME"
+ },
+ "N27": {
+  "domain": "D4",
+  "ctrl": "NAME"
+ },
+ "N28": {
+  "domain": "D4",
+  "ctrl": "CODE"
+ },
+ "V33": {
+  "domain": "D5",
+  "ctrl": "NAME"
+ },
+ "V34": {
+  "domain": "D5",
+  "ctrl": "CODE"
+ },
+ "V35": {
+  "domain": "D5",
+  "ctrl": "NAME"
+ },
+ "V36": {
+  "domain": "D5",
+  "ctrl": "CODE"
+ },
+ "N29": {
+  "domain": "D5",
+  "ctrl": "NAME"
+ },
+ "N30": {
+  "domain": "D5",
+  "ctrl": "NAME"
+ },
+ "N31": {
+  "domain": "D5",
+  "ctrl": "CODE"
+ },
+ "N32": {
+  "domain": "D5",
+  "ctrl": "CODE"
+ },
+ "V37": {
+  "domain": "D6",
+  "ctrl": "CODE"
+ },
+ "V38": {
+  "domain": "D6",
+  "ctrl": "NAME"
+ },
+ "V39": {
+  "domain": "D6",
+  "ctrl": "NAME"
+ },
+ "V40": {
+  "domain": "D6",
+  "ctrl": "CODE"
+ },
+ "N33": {
+  "domain": "D6",
+  "ctrl": "CODE"
+ },
+ "N34": {
+  "domain": "D6",
+  "ctrl": "NAME"
+ },
+ "N35": {
+  "domain": "D6",
+  "ctrl": "NAME"
+ },
+ "N36": {
+  "domain": "D6",
+  "ctrl": "CODE"
+ }
+}

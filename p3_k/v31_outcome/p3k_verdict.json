@@ -1,0 +1,49 @@
+{
+ "t0": 1795719005.882267,
+ "main_maps": [
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6"
+ ],
+ "validity_maps": [
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6"
+ ],
+ "affect_groups": [
+  "emo",
+  "cat",
+  "app",
+  "va_ext",
+  "va_sun"
+ ],
+ "valid_tasks": [
+  "V4",
+  "V6",
+  "V7",
+  "V11",
+  "V15",
+  "V16",
+  "N4",
+  "N9"
+ ],
+ "feasibility": {
+  "frac_valid": 0.2857142857142857,
+  "redesign": true
+ },
+ "split": {
+  "ok": false,
+  "n_valid": 8
+ },
+ "verdict": "NOT_DECIDED_TOO_FEW_TASKS",
+ "inputs": {
+  "grad_dir": "/root/aiemo/results/p3_k/Llama-3.1-8B-Instruct_L13",
+  "dirs": "/root/aiemo/results/p3_k/dirs/directions_L13.npz"
+ }
+}
